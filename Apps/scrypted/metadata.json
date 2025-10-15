@@ -1,0 +1,24 @@
+{
+  "name": "Scrypted",
+  "id": "scrypted",
+  "description": "Scrypted is an open source video integration platform. Using various Plugins, Scrypted can receive streams from a range of cameras and send them to other platforms (HomeKit, Google Home, Alexa, Home Assistant).",
+  "tagline": "Scrypted",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/scrypted.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "koush",
+  "category": "BigBearCasaOS",
+  "version": "0.123.58-jammy-full",
+  "image": "koush/scrypted",
+  "port": "10443",
+  "youtube": "https://youtu.be/5uH0LaSyKTY",
+  "docs": "https://community.bigbeartechworld.com/t/how-to-install-scrypted-on-casaos-using-bigbearcasaos/155",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:39Z",
+  "source": "big-bear-casaos"
+}

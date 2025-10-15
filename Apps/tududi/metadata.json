@@ -1,0 +1,24 @@
+{
+  "name": "Tududi",
+  "id": "tududi",
+  "description": "tududi is a task and project management web application built with Sinatra. It allows users to efficiently manage their tasks and projects, categorize them into different areas, and track due dates. tududi is designed to be intuitive and easy to use, providing a seamless experience for personal productivity.",
+  "tagline": "tududi is a task and project management web application built with Sinatra",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/tududi/logo.png",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/tududi/screenshot-1.png",
+  "author": "BigBearTechWorld",
+  "developer": "chrisvel",
+  "category": "BigBearCasaOS",
+  "version": "0.83",
+  "image": "chrisvel/tududi",
+  "port": "9292",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:40Z",
+  "source": "big-bear-casaos"
+}

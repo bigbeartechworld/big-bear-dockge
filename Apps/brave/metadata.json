@@ -1,0 +1,24 @@
+{
+  "name": "Brave",
+  "id": "brave",
+  "description": "This Image contains a browser-accessible version of Brave.",
+  "tagline": "Brave",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/brave.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "kasmweb",
+  "category": "BigBearCasaOS",
+  "version": "1.15.0-rolling",
+  "image": "kasmweb/brave",
+  "port": "6901",
+  "youtube": "https://youtu.be/CJ2x-yCW-co",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:20Z",
+  "source": "big-bear-casaos"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Appsmith",
+  "id": "appsmith",
+  "description": "Low code project to build admin panels, internal tools, and dashboards, integrating 15+ databases.",
+  "tagline": "Appsmith",
+  "icon": "https://cdn.jsdelivr.net/gh/appsmithorg/appsmith/static/logo.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "appsmithorg",
+  "category": "BigBearCasaOS",
+  "version": "1.73.1",
+  "image": "appsmith/appsmith-ee",
+  "port": "1080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:19Z",
+  "source": "big-bear-casaos"
+}

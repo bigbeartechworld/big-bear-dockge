@@ -1,0 +1,24 @@
+{
+  "name": "Genmon",
+  "id": "genmon",
+  "description": "Generac (and other models) Generator Monitoring using a Raspberry Pi and WiFi",
+  "tagline": "Genmon",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/genmon/logo.jpeg",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/genmon/screenshot1.png",
+  "author": "BigBearTechWorld",
+  "developer": "bigbeartechworld",
+  "category": "BigBearCasaOS",
+  "version": "1.19.06",
+  "image": "bigbeartechworld/big-bear-genmon",
+  "port": "8000",
+  "youtube": "https://youtu.be/b0_zuVVeIP4",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:25Z",
+  "source": "big-bear-casaos"
+}

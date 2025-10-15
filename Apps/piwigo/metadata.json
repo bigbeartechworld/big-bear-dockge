@@ -1,0 +1,24 @@
+{
+  "name": "Piwigo",
+  "id": "piwigo",
+  "description": "Piwigo is a photo gallery software for the web that comes with powerful features to publish and manage your collection of pictures.",
+  "tagline": "Piwigo",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/piwigo.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "piwigo",
+  "category": "BigBearCasaOS",
+  "version": "15.6.0",
+  "image": "linuxserver/piwigo",
+  "port": "8080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:36Z",
+  "source": "big-bear-casaos"
+}

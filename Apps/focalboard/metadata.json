@@ -1,0 +1,24 @@
+{
+  "name": "Focalboard",
+  "id": "focalboard",
+  "description": "Focalboard is an open source, multilingual, self-hosted project management tool that's an alternative to Trello, Notion, and Asana.",
+  "tagline": "Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/focalboard.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "mattermost",
+  "category": "BigBearCasaOS",
+  "version": "7.11.4",
+  "image": "mattermost/focalboard",
+  "port": "8000",
+  "youtube": "https://youtu.be/fBDpqpN8sks",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:25Z",
+  "source": "big-bear-casaos"
+}

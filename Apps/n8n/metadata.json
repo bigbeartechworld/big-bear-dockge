@@ -1,0 +1,24 @@
+{
+  "name": "n8n",
+  "id": "n8n",
+  "description": "Free and open fair-code licensed node based Workflow Automation Tool.",
+  "tagline": "Workflow automation tool",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/n8n.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "n8n",
+  "category": "BigBearCasaOS",
+  "version": "1.115.2",
+  "image": "n8nio/n8n",
+  "port": "5678",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:32Z",
+  "source": "big-bear-casaos"
+}

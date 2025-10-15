@@ -1,0 +1,24 @@
+{
+  "name": "Penpot",
+  "id": "penpot",
+  "description": "Designers and developers can finally work in unison to build beautifully designed software experiences that truly scale up.",
+  "tagline": "Bring Design Freedom to your Product Team",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/penpot/logo.jpg",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "penpotapp",
+  "category": "BigBearCasaOS",
+  "version": "2.10.0",
+  "image": "penpotapp/frontend",
+  "port": "9001",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:35Z",
+  "source": "big-bear-casaos"
+}

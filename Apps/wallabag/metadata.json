@@ -1,0 +1,24 @@
+{
+  "name": "Wallabag",
+  "id": "wallabag",
+  "description": "Wallabag is a self-hosted application for saving web pages. Unlike other services, Wallabag is free and open source.",
+  "tagline": "Save and classify articles. Read them later. Freely.",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/wallabag.png",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/wallabag/thumbnail.png",
+  "author": "Wallabag Team",
+  "developer": "wallabag",
+  "category": "BigBearCasaOS",
+  "version": "2.6.14",
+  "image": "wallabag/wallabag",
+  "port": "8080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:42Z",
+  "source": "big-bear-casaos"
+}

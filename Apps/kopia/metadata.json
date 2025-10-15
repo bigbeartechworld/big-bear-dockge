@@ -1,0 +1,24 @@
+{
+  "name": "Kopia",
+  "id": "kopia",
+  "description": "Kopia is a fast and secure open-source backup/restore tool that allows you to create encrypted snapshots of your data and save the snapshots to remote or cloud storage of your choice, to network-attached storage or server, or locally on your machine.",
+  "tagline": "Kopia",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/kopia.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "thespad",
+  "category": "BigBearCasaOS",
+  "version": "v0.17.0-spad3",
+  "image": "ghcr.io/thespad/kopia-server",
+  "port": "51515",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:29Z",
+  "source": "big-bear-casaos"
+}

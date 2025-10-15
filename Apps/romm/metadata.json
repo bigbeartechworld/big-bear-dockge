@@ -1,0 +1,24 @@
+{
+  "name": "RomM",
+  "id": "romm",
+  "description": "ROM manager for organizing, enriching, and playing retro games, with support for 400+ platforms.",
+  "tagline": "RomM",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/romm.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "RomM Team",
+  "category": "BigBearCasaOS",
+  "version": "4.3.1",
+  "image": "rommapp/romm",
+  "port": "1080",
+  "youtube": "",
+  "docs": "https://github.com/rommapp/romm/wiki",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:38Z",
+  "source": "big-bear-casaos"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Flowise AI",
+  "id": "flowise",
+  "description": "Flowise AI is an Open source UI visual tool to build your customized LLM orchestration flow & AI agents. Developing LLM apps takeslength iterations. With low code approach, Flowise AI enable quick iterations to go from testing to production.",
+  "tagline": "Build LLM Apps Easily",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/flowise/logo.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "bigbeartechworld",
+  "category": "BigBearCasaOS",
+  "version": "3.0.8",
+  "image": "flowiseai/flowise",
+  "port": "8009",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:25Z",
+  "source": "big-bear-casaos"
+}

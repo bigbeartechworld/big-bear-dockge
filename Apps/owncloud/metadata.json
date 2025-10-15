@@ -1,0 +1,24 @@
+{
+  "name": "ownCloud",
+  "id": "owncloud",
+  "description": "ownCloud offers file sharing and collaboration trusted by 200+ million users worldwide regardless of device or location.",
+  "tagline": "ownCloud",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/owncloud.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "owncloud",
+  "category": "BigBearCasaOS",
+  "version": "10.15.3",
+  "image": "owncloud/server",
+  "port": "8080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:35Z",
+  "source": "big-bear-casaos"
+}

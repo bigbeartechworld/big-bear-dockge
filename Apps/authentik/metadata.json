@@ -1,0 +1,24 @@
+{
+  "name": "Authentik",
+  "id": "authentik",
+  "description": "Authentik is a self-hosted identity and access management platform that provides a secure and scalable solution for managing user accounts, authentication, and authorization. It offers a range of features, including user management, role-based access control, and multi-factor authentication. Authentik is designed to be easy to use and integrate with your existing systems, making it a great choice for organizations looking to improve their security and compliance.",
+  "tagline": "Authentik",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/authentik.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "authentik",
+  "category": "BigBearCasaOS",
+  "version": "2025.8.4",
+  "image": "ghcr.io/goauthentik/server",
+  "port": "9443",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:20Z",
+  "source": "big-bear-casaos"
+}

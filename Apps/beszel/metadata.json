@@ -1,0 +1,24 @@
+{
+  "name": "Beszel",
+  "id": "beszel",
+  "description": "A lightweight server resource monitoring hub with historical data, docker stats, and alerts.",
+  "tagline": "Server Monitoring Hub",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/beszel/logo.jpg",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "henrygd",
+  "category": "BigBearCasaOS",
+  "version": "0.13.2",
+  "image": "henrygd/beszel",
+  "port": "8090",
+  "youtube": "https://youtu.be/BUVVG-9RCbg",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:20Z",
+  "source": "big-bear-casaos"
+}

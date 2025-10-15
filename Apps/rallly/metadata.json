@@ -1,0 +1,24 @@
+{
+  "name": "Rallly",
+  "id": "rallly",
+  "description": "Rallly is an open-source scheduling and collaboration tool designed to make organizing events and meetings easier.",
+  "tagline": "Rallly",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/rallly.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "lukevella",
+  "category": "BigBearCasaOS",
+  "version": "4.4.1",
+  "image": "lukevella/rallly",
+  "port": "3000",
+  "youtube": "https://youtu.be/2MY3S6csrVw",
+  "docs": "https://community.bigbeartechworld.com/t/added-rallly-to-bigbearcasaos/1012#instructions-3",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:38Z",
+  "source": "big-bear-casaos"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "CodeX Docs",
+  "id": "codex-docs",
+  "description": "CodeX Docs is a free docs application. It's based on Editor.js ecosystem which gives all modern opportunities for working with content.",
+  "tagline": "CodeX Docs",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/codex-docs/logo.jpg",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "",
+  "category": "BigBearCasaOS",
+  "version": "2.2",
+  "image": "ghcr.io/codex-team/codex.docs",
+  "port": "3000",
+  "youtube": "https://youtu.be/dKm2VJwam24",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:22Z",
+  "source": "big-bear-casaos"
+}

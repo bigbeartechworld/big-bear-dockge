@@ -1,0 +1,24 @@
+{
+  "name": "HomeBridge",
+  "id": "homebridge",
+  "description": "HomeKit support for the impatient.",
+  "tagline": "HomeKit support for the impatient.",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homebridge.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "homebridge",
+  "category": "BigBearCasaOS",
+  "version": "2024-05-02",
+  "image": "homebridge/homebridge",
+  "port": "8581",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:27Z",
+  "source": "big-bear-casaos"
+}

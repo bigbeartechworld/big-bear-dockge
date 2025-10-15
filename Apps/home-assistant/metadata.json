@@ -1,0 +1,24 @@
+{
+  "name": "Home Assistant",
+  "id": "home-assistant",
+  "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.",
+  "tagline": "Home Automation",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/home-assistant.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "home-assistant",
+  "category": "BigBearCasaOS",
+  "version": "2025.10.2",
+  "image": "ghcr.io/home-assistant/home-assistant",
+  "port": "8123",
+  "youtube": "https://youtu.be/YnCpj5sND_A",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:27Z",
+  "source": "big-bear-casaos"
+}

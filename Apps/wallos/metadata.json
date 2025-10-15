@@ -1,0 +1,24 @@
+{
+  "name": "Wallos",
+  "id": "wallos",
+  "description": "Wallos: Open-Source Personal Subscription Tracker",
+  "tagline": "Wallos",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/wallos.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "bellamy",
+  "category": "BigBearCasaOS",
+  "version": "4.4.1",
+  "image": "bellamy/wallos",
+  "port": "8282",
+  "youtube": "https://youtu.be/feYTW02YDb8",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:42Z",
+  "source": "big-bear-casaos"
+}
