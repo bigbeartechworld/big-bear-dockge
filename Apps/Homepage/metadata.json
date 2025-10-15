@@ -1,0 +1,24 @@
+{
+  "name": "Homepage",
+  "id": "Homepage",
+  "description": "A modern, fully static, fast, secure fully proxied, highly customizable application dashboard with integrations for over 100 services and translations into multiple languages. Easily configured via YAML files or through docker label discovery.",
+  "tagline": "Homepage",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homepage.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "gethomepage",
+  "category": "BigBearCasaOS",
+  "version": "1.5.0",
+  "image": "ghcr.io/gethomepage/homepage",
+  "port": "3000",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:27Z",
+  "source": "big-bear-casaos"
+}

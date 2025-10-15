@@ -1,0 +1,24 @@
+{
+  "name": "joplin",
+  "id": "joplin",
+  "description": "Note taking and to-do application with synchronisation",
+  "tagline": "joplin",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/joplin.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "joplin",
+  "category": "BigBearCasaOS",
+  "version": "3.4.3",
+  "image": "joplin/server:3.3.13",
+  "port": "22300",
+  "youtube": "https://youtu.be/FjVyg0X-_zc",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:29Z",
+  "source": "big-bear-casaos"
+}

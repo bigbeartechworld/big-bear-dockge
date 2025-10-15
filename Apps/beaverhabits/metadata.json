@@ -1,0 +1,24 @@
+{
+  "name": "Beaver Habit Tracker",
+  "id": "beaverhabits",
+  "description": "A self-hosted habit tracking app without \"Goals\"",
+  "tagline": "A self-hosted habit tracking app without \"Goals\"",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/beaver-habit-tracker.png",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/beaverhabits/thumbnail.png",
+  "author": "BigBearTechWorld",
+  "developer": "daya0576",
+  "category": "BigBearCasaOS",
+  "version": "0.7.3",
+  "image": "daya0576/beaverhabits",
+  "port": "8080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:38:00Z",
+  "source": "big-bear-casaos"
+}

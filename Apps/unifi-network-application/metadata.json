@@ -1,0 +1,24 @@
+{
+  "name": "Unifi Network Application",
+  "id": "unifi-network-application",
+  "description": "The Unifi-network-application software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
+  "tagline": "The Unifi-network-application",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ubiquiti-unifi.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "Ubiquiti",
+  "category": "BigBearCasaOS",
+  "version": "6.0.11",
+  "image": "linuxserver/unifi-network-application",
+  "port": "8443",
+  "youtube": "https://youtu.be/JCe-r_SHCe8",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:41Z",
+  "source": "big-bear-casaos"
+}

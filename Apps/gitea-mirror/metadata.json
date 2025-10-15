@@ -1,0 +1,24 @@
+{
+  "name": "Gitea Mirror",
+  "id": "gitea-mirror",
+  "description": "Gitea Mirror is a modern web app for automatically mirroring repositories from GitHub to your self-hosted Gitea instance. It features a user-friendly interface to sync public, private, or starred GitHub repos, mirror entire organizations with structure preservation, and optionally mirror issues and labels. The application includes smart filtering, detailed logs, and scheduled automatic mirroring.",
+  "tagline": "Mirror GitHub repositories to Gitea",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/gitea-mirror/logo-new.png",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/gitea-mirror/1.png",
+  "author": "RayLabs HQ",
+  "developer": "raylabs.io",
+  "category": "BigBearCasaOS",
+  "version": "3.8.3",
+  "image": "ghcr.io/raylabshq/gitea-mirror",
+  "port": "4321",
+  "youtube": "",
+  "docs": "https://community.bigbeartechworld.com/t/added-gitea-mirror-to-bigbearcasaos/3515?u=dragonfire1119#p-5962-documentation-6",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:26Z",
+  "source": "big-bear-casaos"
+}

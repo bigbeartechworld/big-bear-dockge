@@ -1,0 +1,24 @@
+{
+  "name": "Traccar",
+  "id": "traccar",
+  "description": "Traccar GPS Tracking System in Docker image.",
+  "tagline": "Traccar",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/traccar.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "traccar",
+  "category": "BigBearCasaOS",
+  "version": "6.10-ubuntu",
+  "image": "traccar/traccar",
+  "port": "8080",
+  "youtube": "https://youtu.be/zn_tu9r6g-w",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:40Z",
+  "source": "big-bear-casaos"
+}

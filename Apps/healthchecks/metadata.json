@@ -1,0 +1,24 @@
+{
+  "name": "Healthchecks",
+  "id": "healthchecks",
+  "description": "Healthchecks is a watchdog for your cron jobs. It's a web server that listens for pings from your cron jobs, plus a web interface.",
+  "tagline": "Healthchecks",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/healthchecks.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "linuxserver",
+  "category": "BigBearCasaOS",
+  "version": "3.11.20250828",
+  "image": "linuxserver/healthchecks",
+  "port": "8000",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:27Z",
+  "source": "big-bear-casaos"
+}

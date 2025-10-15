@@ -1,0 +1,24 @@
+{
+  "name": "chromium",
+  "id": "chromium",
+  "description": "This Image contains a browser-accessible version of chromium.",
+  "tagline": "chromium",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/chromium.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "kasmweb",
+  "category": "BigBearCasaOS",
+  "version": "1.15.0-rolling",
+  "image": "kasmweb/chromium",
+  "port": "6902",
+  "youtube": "https://youtu.be/ziy4c4n7KnU",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:21Z",
+  "source": "big-bear-casaos"
+}

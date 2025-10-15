@@ -1,0 +1,24 @@
+{
+  "name": "ConvertX",
+  "id": "convertx",
+  "description": "A self-hosted online file converter. Supports over a thousand different formats. Written with TypeScript, Bun and Elysia.",
+  "tagline": "💾 Self-hosted online file converter. Supports 1000+ formats ⚙️",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/convertx/logo.png",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/convertx/thumbnail.png",
+  "author": "BigBearTechWorld",
+  "developer": "C4illin",
+  "category": "BigBearCasaOS",
+  "version": "0.15.1",
+  "image": "ghcr.io/c4illin/convertx",
+  "port": "3000",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:22Z",
+  "source": "big-bear-casaos"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Homarr",
+  "id": "homarr",
+  "description": "Simplify the management of your server with Homarr - a sleek, modern dashboard that puts all of your apps and services at your fingertips. With Homarr, you can access and control everything in one convenient location. Homarr seamlessly integrates with the apps you've added, providing you with valuable information and giving you complete control. Installation is a breeze, and Homarr supports a wide range of deployment methods.",
+  "tagline": "Homarr",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homarr.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "ajnart",
+  "category": "BigBearCasaOS",
+  "version": "0.16.0",
+  "image": "ghcr.io/ajnart/homarr",
+  "port": "7575",
+  "youtube": "https://youtu.be/H4rzZNO47Uk",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:27Z",
+  "source": "big-bear-casaos"
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Spacedrive",
+  "id": "spacedrive",
+  "description": "Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.",
+  "tagline": "Cross-platform file explorer",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/spacedrive/logo.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "spacedriveapp",
+  "category": "BigBearCasaOS",
+  "version": "0.4.2",
+  "image": "ghcr.io/spacedriveapp/spacedrive/server",
+  "port": "8080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:39Z",
+  "source": "big-bear-casaos"
+}

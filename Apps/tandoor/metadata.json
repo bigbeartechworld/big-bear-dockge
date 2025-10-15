@@ -1,0 +1,24 @@
+{
+  "name": "Tandoor",
+  "id": "tandoor",
+  "description": "Drop your collection of links and notes. Get Tandoor and never look back onto a time without recipe management, storage, sharing and collaborative cooking!",
+  "tagline": "Recipe collection manager.",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/tandoor-recipes.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "tandoorrecipes",
+  "category": "BigBearCasaOS",
+  "version": "2.3.3",
+  "image": "ghcr.io/tandoorrecipes/recipes",
+  "port": "8080",
+  "youtube": "https://youtu.be/f4-op1UOaWc",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:40Z",
+  "source": "big-bear-casaos"
+}

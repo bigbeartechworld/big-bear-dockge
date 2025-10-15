@@ -1,0 +1,24 @@
+{
+  "name": "Planka",
+  "id": "planka",
+  "description": "The realtime kanban board for workgroups built with React and Redux.",
+  "tagline": "Free open source kanban board for workgroups.",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/planka.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "plankanban",
+  "category": "BigBearCasaOS",
+  "version": "1.26.3",
+  "image": "ghcr.io/plankanban/planka",
+  "port": "3000",
+  "youtube": "https://youtu.be/rsyU2cBbbSI",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:36Z",
+  "source": "big-bear-casaos"
+}

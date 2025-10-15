@@ -1,0 +1,24 @@
+{
+  "name": "Zigbee to MQTT bridge",
+  "id": "zigbee2mqtt",
+  "description": "Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges",
+  "tagline": "Zigbee to MQTT bridge",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/zigbee2mqtt.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "koenkk",
+  "category": "BigBearCasaOS",
+  "version": "2.6.2",
+  "image": "koenkk/zigbee2mqtt",
+  "port": "8080",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:43Z",
+  "source": "big-bear-casaos"
+}

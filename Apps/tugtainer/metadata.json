@@ -1,0 +1,24 @@
+{
+  "name": "Tugtainer",
+  "id": "tugtainer",
+  "description": "Tugtainer is a self-hosted app for automating updates of your docker containers with a web UI. It's like watchtower but with more control and a user-friendly interface.",
+  "tagline": "Docker Container Update Automator",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/docker.png",
+  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/tugtainer/screenshot-1.png",
+  "author": "BigBearTechWorld",
+  "developer": "Quenary",
+  "category": "BigBearCasaOS",
+  "version": "v1.1.6",
+  "image": "quenary/tugtainer",
+  "port": "9412",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:41Z",
+  "source": "big-bear-casaos"
+}

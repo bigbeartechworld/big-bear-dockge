@@ -1,0 +1,24 @@
+{
+  "name": "Pocket ID",
+  "id": "pocketid",
+  "description": "Simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
+  "tagline": "Passkey-based OIDC authentication",
+  "icon": "https://pocket-id.org/img/logo.png",
+  "thumbnail": "",
+  "author": "techieanant",
+  "developer": "pocket-id",
+  "category": "BigBearCasaOS",
+  "version": "1.13",
+  "image": "ghcr.io/pocket-id/pocket-id",
+  "port": "1411",
+  "youtube": "",
+  "docs": "https://pocket-id.org/docs/introduction",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:37Z",
+  "source": "big-bear-casaos"
+}

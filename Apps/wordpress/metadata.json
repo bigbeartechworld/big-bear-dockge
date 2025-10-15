@@ -1,0 +1,24 @@
+{
+  "name": "WordPress",
+  "id": "wordpress",
+  "description": "Initially started as a blogging tool in 2003, it has evolved into a highly flexible CMS that powers over 40% of the web (as of my last training data in 2022).",
+  "tagline": "WordPress",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/wordpress.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "Automattic",
+  "category": "BigBearCasaOS",
+  "version": "6.8.3",
+  "image": "wordpress",
+  "port": "8080",
+  "youtube": "https://youtu.be/j5M4qlRCbYs",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-15T16:33:43Z",
+  "source": "big-bear-casaos"
+}
