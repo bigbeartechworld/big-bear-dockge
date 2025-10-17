@@ -266,8 +266,8 @@ If you have a suggestion for an app, please post in the [BigBearCommunity](https
 | UISP | nico640/docker-unms | 2.4.155.1 | 10443 | BigBearCasaOS |  |  |
 | Umami | ghcr.io/umami-software/umami | postgresql-latest | 3000 | BigBearCasaOS | [YouTube Video](https://youtu.be/4DEF5fNf8hU) |  |
 | Umbrel OS | dockurr/umbrel | 1.4.0 | 8080 | BigBearCasaOS | [YouTube Video](https://youtu.be/O03CH-YLdk0) |  |
-| Unifi Network Application | linuxserver/unifi-network-application | 4.4.28 | 8443 | BigBearCasaOS | [YouTube Video](https://youtu.be/JCe-r_SHCe8) |  |
 | Unifi Network Application | linuxserver/unifi-network-application | 6.0.11 | 8443 | BigBearCasaOS | [YouTube Video](https://youtu.be/JCe-r_SHCe8) |  |
+| Unifi Network Application | linuxserver/unifi-network-application | 4.4.28 | 8443 | BigBearCasaOS | [YouTube Video](https://youtu.be/JCe-r_SHCe8) |  |
 | Upsnap | ghcr.io/seriousm4x/upsnap | 5.2.2 | 8090 | BigBearCasaOS |  |  |
 | Uptime Kuma | louislam/uptime-kuma | 1 | 3001 | BigBearCasaOS | [YouTube Video](https://youtu.be/Why5NU_Wafw) |  |
 | Vikunja | vikunja/vikunja | 0.24.6 | 8081 | BigBearCasaOS | [YouTube Video](https://youtu.be/T-dNbdIttoI) |  |
