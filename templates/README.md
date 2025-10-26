@@ -23,7 +23,7 @@ This app store is maintained entirely by BigBearTechWorld and the community thro
 
 1. Clone this repository to your Dockge stacks directory:
    ```bash
-   cd /opt/dockge/stacks  # or your Dockge stacks path
+   cd /opt/stacks  # or your Dockge stacks path
    git clone https://github.com/bigbeartechworld/big-bear-dockge.git
    cd big-bear-dockge
    ```
@@ -35,11 +35,11 @@ This app store is maintained entirely by BigBearTechWorld and the community thro
 ### Method 2: Download Individual Stacks
 
 Each app has its own directory with:
-- `docker-compose.yml` - The Docker Compose configuration
+- `compose.yml` - The Docker Compose configuration
 - `metadata.json` - App metadata and information
 
 1. Browse to the app folder in this repository
-2. Download the `docker-compose.yml` and `metadata.json`
+2. Download the `compose.yml` and `metadata.json`
 3. In Dockge, create a new stack and paste the compose content
 
 ### Method 3: Direct Import
