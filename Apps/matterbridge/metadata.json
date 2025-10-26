@@ -1,0 +1,24 @@
+{
+  "name": "Matterbridge",
+  "id": "matterbridge",
+  "description": "Matterbridge is a Matter plugin manager that allows you to have all your Matter devices up and running in a couple of minutes without having to deal with the pairing process for each individual device. It creates a device that can be paired with any ecosystem, such as Apple Home, Google Home, Amazon Alexa, Home Assistant, or any other platform supporting Matter.",
+  "tagline": "Matter plugin manager for smart home devices",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/matterbridge.png",
+  "thumbnail": "",
+  "author": "BigBearTechWorld",
+  "developer": "Luligu",
+  "category": "BigBearCasaOS",
+  "version": "3.3.3",
+  "image": "luligu/matterbridge",
+  "port": "8283",
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-26T01:37:54Z",
+  "source": "big-bear-casaos"
+}

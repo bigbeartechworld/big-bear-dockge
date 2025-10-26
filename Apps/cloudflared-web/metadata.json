@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "wisdomsky",
   "category": "BigBearCasaOS",
-  "version": "2025.9.1",
+  "version": "2025.10.0",
   "image": "wisdomsky/cloudflared-web",
   "port": "14333",
   "youtube": "https://youtu.be/JvyyolXJ0-A",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:22Z",
+  "created": "2025-10-26T01:37:10Z",
   "source": "big-bear-casaos"
 }

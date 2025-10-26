@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "ghostfolio",
   "category": "BigBearCasaOS",
-  "version": "2.208.0",
+  "version": "2.210.1",
   "image": "ghostfolio/ghostfolio",
   "port": "3333",
   "youtube": "https://youtu.be/CNe4-8Vyhos",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:26Z",
+  "created": "2025-10-26T01:37:30Z",
   "source": "big-bear-casaos"
 }

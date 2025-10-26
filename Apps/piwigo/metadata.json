@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "piwigo",
   "category": "BigBearCasaOS",
-  "version": "15.6.0",
+  "version": "15.7.0",
   "image": "linuxserver/piwigo",
   "port": "8080",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:36Z",
+  "created": "2025-10-26T01:38:23Z",
   "source": "big-bear-casaos"
 }

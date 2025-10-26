@@ -6,10 +6,10 @@
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/trilium-notes.png",
   "thumbnail": "",
   "author": "BigBearTechWorld",
-  "developer": "zadam",
+  "developer": "TriliumNext",
   "category": "BigBearCasaOS",
-  "version": "0.63.7",
-  "image": "zadam/trilium",
+  "version": "v0.99.3",
+  "image": "triliumnext/trilium",
   "port": "8080",
   "youtube": "https://youtu.be/h5ISPmUuBHs",
   "docs": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:40Z",
+  "created": "2025-10-26T01:38:46Z",
   "source": "big-bear-casaos"
 }

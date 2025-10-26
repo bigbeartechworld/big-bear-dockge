@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "bellamy",
   "category": "BigBearCasaOS",
-  "version": "4.4.1",
+  "version": "4.5.0",
   "image": "bellamy/wallos",
   "port": "8282",
   "youtube": "https://youtu.be/feYTW02YDb8",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:42Z",
+  "created": "2025-10-26T01:38:54Z",
   "source": "big-bear-casaos"
 }

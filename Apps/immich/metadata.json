@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "",
   "category": "BigBearCasaOS",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "image": "ghcr.io/immich-app/immich-server",
   "port": "2283",
   "youtube": "https://youtu.be/ZIx2jDHYjjE",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:27Z",
+  "created": "2025-10-26T01:37:38Z",
   "source": "big-bear-casaos"
 }

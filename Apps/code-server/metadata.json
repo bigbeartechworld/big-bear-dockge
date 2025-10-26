@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "",
   "category": "BigBearCasaOS",
-  "version": "4.104.3",
+  "version": "4.105.1",
   "image": "linuxserver/code-server",
   "port": "8080",
   "youtube": "https://youtu.be/aiYcwXDfgE8",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:22Z",
+  "created": "2025-10-26T01:37:11Z",
   "source": "big-bear-casaos"
 }

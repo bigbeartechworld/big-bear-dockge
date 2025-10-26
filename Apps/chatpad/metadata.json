@@ -1,7 +1,7 @@
 {
   "name": "Chatpad",
   "id": "chatpad",
-  "description": "Recently, there has been a surge of UIs for ChatGPT, making it the new \"to-do app\" that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.",
+  "description": "Recently, there has been a surge of UIs for ChatGPT, making it the new "to-do app" that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.",
   "tagline": "Not just another ChatGPT user-interface!",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/chatpad/logo.jpeg",
   "thumbnail": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:38:00Z",
+  "created": "2025-10-26T01:37:09Z",
   "source": "big-bear-casaos"
 }

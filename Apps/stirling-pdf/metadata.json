@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "stirlingtools",
   "category": "BigBearCasaOS",
-  "version": "1.4.0",
+  "version": "1.5.0",
   "image": "stirlingpdf/stirlingpdf",
   "port": "8080",
   "youtube": "https://youtu.be/ZoPSPDvOPdo",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:40Z",
+  "created": "2025-10-26T01:38:42Z",
   "source": "big-bear-casaos"
 }
