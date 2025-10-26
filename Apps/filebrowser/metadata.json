@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "filebrowser",
   "category": "BigBearCasaOS",
-  "version": "2.44.0-s6",
+  "version": "2.44.2-s6",
   "image": "filebrowser/filebrowser",
   "port": "8080",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:25Z",
+  "created": "2025-10-26T01:37:25Z",
   "source": "big-bear-casaos"
 }

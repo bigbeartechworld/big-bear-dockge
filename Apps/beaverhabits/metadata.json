@@ -1,8 +1,8 @@
 {
   "name": "Beaver Habit Tracker",
   "id": "beaverhabits",
-  "description": "A self-hosted habit tracking app without \"Goals\"",
-  "tagline": "A self-hosted habit tracking app without \"Goals\"",
+  "description": "A self-hosted habit tracking app without "Goals"",
+  "tagline": "A self-hosted habit tracking app without "Goals"",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/beaver-habit-tracker.png",
   "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/beaverhabits/thumbnail.png",
   "author": "BigBearTechWorld",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:38:00Z",
+  "created": "2025-10-26T01:37:04Z",
   "source": "big-bear-casaos"
 }

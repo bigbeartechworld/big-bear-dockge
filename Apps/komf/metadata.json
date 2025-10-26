@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "sndxr",
   "category": "BigBearCasaOS",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "image": "sndxr/komf",
   "port": "8085",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:29Z",
+  "created": "2025-10-26T01:37:47Z",
   "source": "big-bear-casaos"
 }

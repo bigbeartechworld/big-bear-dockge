@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "ghost",
   "category": "BigBearCasaOS",
-  "version": "6.3.1-alpine",
+  "version": "6.5.0-alpine",
   "image": "ghost",
   "port": "2368",
   "youtube": "https://youtu.be/oJZK9vH4W4Y",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:26Z",
+  "created": "2025-10-26T01:37:29Z",
   "source": "big-bear-casaos"
 }

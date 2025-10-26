@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "home-assistant",
   "category": "BigBearCasaOS",
-  "version": "2025.10.2",
+  "version": "2025.10.4",
   "image": "ghcr.io/home-assistant/home-assistant",
   "port": "8123",
   "youtube": "https://youtu.be/YnCpj5sND_A",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:27Z",
+  "created": "2025-10-26T01:37:36Z",
   "source": "big-bear-casaos"
 }

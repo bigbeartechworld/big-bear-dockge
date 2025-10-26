@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "calcom",
   "category": "BigBearCasaOS",
-  "version": "5.7.1",
+  "version": "5.8.2",
   "image": "calcom/cal.com",
   "port": "3000",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:21Z",
+  "created": "2025-10-26T01:37:08Z",
   "source": "big-bear-casaos"
 }

@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "RomM Team",
   "category": "BigBearCasaOS",
-  "version": "4.3.1",
+  "version": "4.3.2",
   "image": "rommapp/romm",
   "port": "1080",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:38Z",
+  "created": "2025-10-26T01:38:36Z",
   "source": "big-bear-casaos"
 }

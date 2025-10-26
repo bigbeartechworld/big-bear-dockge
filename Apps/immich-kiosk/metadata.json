@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "damongolding",
   "category": "BigBearCasaOS",
-  "version": "0.25.0",
+  "version": "0.26.1",
   "image": "ghcr.io/damongolding/immich-kiosk",
   "port": "3000",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:28Z",
+  "created": "2025-10-26T01:37:39Z",
   "source": "big-bear-casaos"
 }

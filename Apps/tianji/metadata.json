@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "moonrailgun",
   "category": "BigBearCasaOS",
-  "version": "1.27.9",
+  "version": "1.30.0",
   "image": "moonrailgun/tianji",
   "port": "12345",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:40Z",
+  "created": "2025-10-26T01:38:44Z",
   "source": "big-bear-casaos"
 }

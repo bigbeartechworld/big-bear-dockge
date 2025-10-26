@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "theonedev",
   "category": "BigBearCasaOS",
-  "version": "13.0.8",
+  "version": "13.0.9",
   "image": "1dev/server",
   "port": "6610",
   "youtube": "https://youtu.be/ps3JLYRB3SA",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:34Z",
+  "created": "2025-10-26T01:38:12Z",
   "source": "big-bear-casaos"
 }

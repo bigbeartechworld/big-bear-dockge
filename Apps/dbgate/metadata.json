@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "dbgate",
   "category": "BigBearCasaOS",
-  "version": "6.6.4-alpine",
+  "version": "6.6.5-alpine",
   "image": "dbgate/dbgate",
   "port": "3000",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:23Z",
+  "created": "2025-10-26T01:37:17Z",
   "source": "big-bear-casaos"
 }

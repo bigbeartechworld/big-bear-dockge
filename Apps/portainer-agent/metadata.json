@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "portainer",
   "category": "BigBearCasaOS",
-  "version": "2.34.0",
+  "version": "2.35.0",
   "image": "portainer/agent",
   "port": "",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:37Z",
+  "created": "2025-10-26T01:38:29Z",
   "source": "big-bear-casaos"
 }

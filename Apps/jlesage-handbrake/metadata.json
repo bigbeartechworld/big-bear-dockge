@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "jlesage",
   "category": "BigBearCasaOS",
-  "version": "25.09.2",
+  "version": "25.10.1",
   "image": "jlesage/handbrake",
   "port": "5800",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:29Z",
+  "created": "2025-10-26T01:37:44Z",
   "source": "big-bear-casaos"
 }

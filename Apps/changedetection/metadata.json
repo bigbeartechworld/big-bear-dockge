@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "dgtlmoon",
   "category": "BigBearCasaOS",
-  "version": "0.50.24",
+  "version": "0.50.32",
   "image": "ghcr.io/dgtlmoon/changedetection.io",
   "port": "5000",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:21Z",
+  "created": "2025-10-26T01:37:09Z",
   "source": "big-bear-casaos"
 }

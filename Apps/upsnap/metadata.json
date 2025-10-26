@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "seriousm4x",
   "category": "BigBearCasaOS",
-  "version": "5.2.2",
+  "version": "5.2.3",
   "image": "ghcr.io/seriousm4x/upsnap",
   "port": "8090",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:41Z",
+  "created": "2025-10-26T01:38:50Z",
   "source": "big-bear-casaos"
 }

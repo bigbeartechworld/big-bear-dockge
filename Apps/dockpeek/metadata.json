@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "dockpeek",
   "category": "BigBearCasaOS",
-  "version": "1.6.6",
+  "version": "1.7.0",
   "image": "ghcr.io/dockpeek/dockpeek",
   "port": "3420",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-15T16:33:23Z",
+  "created": "2025-10-26T01:37:19Z",
   "source": "big-bear-casaos"
 }
