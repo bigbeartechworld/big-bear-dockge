@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "Budibase",
   "category": "BigBearCasaOS",
-  "version": "3.21.3",
+  "version": "3.22.3",
   "image": "budibase/budibase",
   "port": "8080",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:37:07Z",
+  "created": "2025-10-27T16:20:36Z",
   "source": "big-bear-casaos"
 }

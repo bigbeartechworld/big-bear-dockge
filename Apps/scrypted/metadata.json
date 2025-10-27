@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "koush",
   "category": "BigBearCasaOS",
-  "version": "0.123.58-jammy-full",
+  "version": "v0.142.9-noble-full",
   "image": "koush/scrypted",
   "port": "10443",
   "youtube": "https://youtu.be/5uH0LaSyKTY",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:38:37Z",
+  "created": "2025-10-27T16:22:43Z",
   "source": "big-bear-casaos"
 }

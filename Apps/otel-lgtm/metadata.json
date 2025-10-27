@@ -8,7 +8,7 @@
   "author": "Konrad Botor (Forinil)",
   "developer": "Grafana Labs",
   "category": "BigBearCasaOS",
-  "version": "0.11.12",
+  "version": "0.11.13",
   "image": "grafana/otel-lgtm",
   "port": "3000",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:38:14Z",
+  "created": "2025-10-27T16:22:12Z",
   "source": "big-bear-casaos"
 }
