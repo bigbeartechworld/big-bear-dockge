@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "owncloud",
   "category": "BigBearCasaOS",
-  "version": "10.15.3",
+  "version": "10.16.0",
   "image": "owncloud/server",
   "port": "8080",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:38:15Z",
+  "created": "2025-10-27T16:20:47Z",
   "source": "big-bear-casaos"
 }
