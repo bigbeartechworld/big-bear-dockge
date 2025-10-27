@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "AdGuardTeam",
   "category": "BigBearCasaOS",
-  "version": "0.107.67",
+  "version": "0.107.68",
   "image": "adguard/adguardhome",
   "port": "8080",
   "youtube": "https://youtu.be/6cu0kfP50Jg",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:36:59Z",
+  "created": "2025-10-27T03:24:48Z",
   "source": "big-bear-casaos"
 }

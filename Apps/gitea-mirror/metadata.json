@@ -8,7 +8,7 @@
   "author": "RayLabs HQ",
   "developer": "raylabs.io",
   "category": "BigBearCasaOS",
-  "version": "3.8.9",
+  "version": "3.8.10",
   "image": "ghcr.io/raylabshq/gitea-mirror",
   "port": "4321",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:37:31Z",
+  "created": "2025-10-27T03:25:39Z",
   "source": "big-bear-casaos"
 }
