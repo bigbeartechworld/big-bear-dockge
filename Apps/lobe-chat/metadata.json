@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "lobehub",
   "category": "BigBearCasaOS",
-  "version": "1.141.6",
+  "version": "1.141.10",
   "image": "lobehub/lobe-chat",
   "port": "3210",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:37:52Z",
+  "created": "2025-10-27T04:02:31Z",
   "source": "big-bear-casaos"
 }
