@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "drakkan",
   "category": "BigBearCasaOS",
-  "version": "v2.6",
+  "version": "2.7",
   "image": "drakkan/sftpgo",
   "port": "8080",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:38:39Z",
+  "created": "2025-10-27T05:54:48Z",
   "source": "big-bear-casaos"
 }

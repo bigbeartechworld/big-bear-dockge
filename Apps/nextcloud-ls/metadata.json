@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "nextcloud",
   "category": "BigBearCasaOS",
-  "version": "32.0.0",
+  "version": "32.0.1",
   "image": "linuxserver/nextcloud",
   "port": "10443",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:38:03Z",
+  "created": "2025-10-27T05:53:59Z",
   "source": "big-bear-casaos"
 }
