@@ -8,7 +8,7 @@
   "author": "BigBearTechWorld",
   "developer": "jvmilazz0",
   "category": "BigBearCasaOS",
-  "version": "0.8.7",
+  "version": "0.8.8",
   "image": "jvmilazz0/kavita",
   "port": "5000",
   "youtube": "",
@@ -19,6 +19,6 @@
     "bigbear",
     "bigbearcasaos"
   ],
-  "created": "2025-10-26T01:37:46Z",
+  "created": "2025-10-27T05:11:55Z",
   "source": "big-bear-casaos"
 }
