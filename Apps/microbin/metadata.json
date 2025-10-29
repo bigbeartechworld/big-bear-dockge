@@ -1,24 +1,11 @@
 {
   "name": "Microbin",
-  "id": "microbin",
   "description": "Self-hosted, encrypted pastebin alternative with configurable features.",
-  "tagline": "Pastebin alternative with encryption",
-  "icon": "https://cdn.jsdelivr.net/gh/szabodanika/microbin@v2.0.4/templates/assets/logo-square.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "danielszabo99",
-  "category": "BigBearCasaOS",
   "version": "2.0.4",
-  "image": "danielszabo99/microbin",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/szabodanika/microbin@v2.0.4/templates/assets/logo-square.png",
+  "category": "BigBearCasaOS",
   "port": "8888",
-  "youtube": "",
-  "docs": "https://github.com/szabodanika/microbin",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:55Z",
-  "source": "big-bear-casaos"
+  "documentation": "https://github.com/szabodanika/microbin",
+  "source": ""
 }

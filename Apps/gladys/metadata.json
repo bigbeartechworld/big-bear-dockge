@@ -1,24 +1,11 @@
 {
   "name": "Gladys Assistant",
-  "id": "gladys",
   "description": "Gladys Assistant is a modern, privacy-first & open-source home automation software that runs anywhere.",
-  "tagline": "A privacy-first, open-source home assistant.",
-  "icon": "https://gladysassistant.com/img/external/github-gladys-logo.png",
-  "thumbnail": "https://gladysassistant.com/img/home/main_screenshot/main_screenshot_en_j5czyj_c_scale,w_2526.png",
+  "version": "v4.64.0",
   "author": "BigBearTechWorld",
-  "developer": "GladysAssistant",
+  "icon": "https://gladysassistant.com/img/external/github-gladys-logo.png",
   "category": "BigBearCasaOS",
-  "version": "4.64.0",
-  "image": "gladysassistant/gladys",
   "port": "1080",
-  "youtube": "https://youtu.be/l4GPomJMIT0",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:31Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

@@ -1,24 +1,11 @@
 {
   "name": "Portracker",
-  "id": "portracker",
   "description": "A self-hosted, real-time port monitoring and discovery tool that automatically discovers and maps network services across systems.",
-  "tagline": "Real-time Port Monitoring Tool",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portracker.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "Mostafa-Wahied",
-  "category": "BigBearCasaOS",
   "version": "1.1",
-  "image": "mostafawahied/portracker",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portracker.png",
+  "category": "BigBearCasaOS",
   "port": "4999",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:29Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
