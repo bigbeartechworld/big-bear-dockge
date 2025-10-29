@@ -1,24 +1,11 @@
 {
   "name": "Immich AIO Alpine",
-  "id": "immich-aio-alpine",
   "description": "AIO Alpine. Self-hosted photo and video storage.",
-  "tagline": "Immich All In One Alpine",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "imagegenius",
-  "category": "BigBearCasaOS",
   "version": "2.0.0-alpine",
-  "image": "ghcr.io/imagegenius/immich",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich.png",
+  "category": "BigBearCasaOS",
   "port": "2283",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:39Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

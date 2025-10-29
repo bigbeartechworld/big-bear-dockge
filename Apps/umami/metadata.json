@@ -1,24 +1,11 @@
 {
   "name": "Umami",
-  "id": "umami",
   "description": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
-  "tagline": "Umami is a simple, fast, privacy-focused alternative to Google Analytics.",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/umami.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "umami-software",
-  "category": "BigBearCasaOS",
   "version": "postgresql-latest",
-  "image": "ghcr.io/umami-software/umami",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/umami.png",
+  "category": "BigBearCasaOS",
   "port": "3000",
-  "youtube": "https://youtu.be/4DEF5fNf8hU",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:48Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

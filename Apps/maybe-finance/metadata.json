@@ -1,0 +1,11 @@
+{
+  "name": "Maybe Finance",
+  "description": "Maybe is a fully* open-source OS for your personal finances built by a small team alongside an incredible community Discord",
+  "version": "sha-347c0a790693031fdd3b32792b5b6792693d1805",
+  "author": "BigBearCommunity",
+  "icon": "https://raw.githubusercontent.com/maybe-finance/maybe/refs/heads/main/app/assets/images/logo-color.png",
+  "category": "BigBearCasaOS",
+  "port": "4000",
+  "documentation": "",
+  "source": ""
+}

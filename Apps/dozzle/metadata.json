@@ -1,24 +1,11 @@
 {
   "name": "Dozzle",
-  "id": "dozzle",
   "description": "Dozzle is a real-time log viewer for docker containers.",
-  "tagline": "Dozzle is a real-time log viewer for docker containers.",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/dozzle/logo.png",
-  "thumbnail": "",
+  "version": "v8.14.6",
   "author": "BigBearTechWorld",
-  "developer": "amir20",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/dozzle/logo.png",
   "category": "BigBearCasaOS",
-  "version": "8.14.5",
-  "image": "amir20/dozzle",
   "port": "8888",
-  "youtube": "https://youtu.be/lLLNDcHNOuM",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:21Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

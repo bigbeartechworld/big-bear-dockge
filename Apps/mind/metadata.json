@@ -1,24 +1,11 @@
 {
   "name": "MIND",
-  "id": "mind",
   "description": "A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!",
-  "tagline": "A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!",
-  "icon": "https://i.imgur.com/UgjalkK.png",
-  "thumbnail": "",
+  "version": "v1.4.1",
   "author": "BigBearTechWorld",
-  "developer": "Casvt",
+  "icon": "https://i.imgur.com/UgjalkK.png",
   "category": "BigBearCasaOS",
-  "version": "1.4.1",
-  "image": "mrcas/mind",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:56Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

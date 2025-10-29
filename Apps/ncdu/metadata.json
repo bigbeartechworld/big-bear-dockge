@@ -1,24 +1,11 @@
 {
   "name": "Ncdu",
-  "id": "ncdu",
   "description": "Ncdu is a disk usage analyzer with an ncurses interface. It is designed to find space hogs on a remote server where you don’t have an entire graphical setup available, but it is a useful tool even on regular desktop systems. Ncdu aims to be fast, simple and easy to use, and should be able to run in any minimal POSIX-like environment with ncurses installed. Software made by Yorhel at https://dev.yorhel.nl/ncdu",
-  "tagline": "Ncdu is a disk usage analyzer with an ncurses interface.",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/ncdu/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "bigbeartechworld",
-  "category": "BigBearCasaOS",
   "version": "0.0.4",
-  "image": "bigbeartechworld/big-bear-ncdu",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/ncdu/logo.png",
+  "category": "BigBearCasaOS",
   "port": "7681",
-  "youtube": "https://youtu.be/5RCTglGRXss",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:00Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

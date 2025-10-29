@@ -1,24 +1,11 @@
 {
   "name": "Readeck",
-  "id": "readeck",
   "description": "Readeck is a simple web application that lets you save the precious readable content of web pages you like and want to keep forever. It is a self-hosted alternative to Instapaper and Wallabag with a modern interface and powerful features for managing your bookmarks and reading list.",
-  "tagline": "Self-hosted bookmark manager and read-it-later app",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/readeck.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "readeck",
-  "category": "BigBearCasaOS",
   "version": "0.20.4",
-  "image": "codeberg.org/readeck/readeck",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/readeck.png",
+  "category": "BigBearCasaOS",
   "port": "8000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:34Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

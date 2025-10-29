@@ -1,24 +1,11 @@
 {
   "name": "Faster-whisper",
-  "id": "faster-whisper",
   "description": "Faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models. This container provides a Wyoming protocol server for faster-whisper.",
-  "tagline": "Faster-whisper",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/faster-whisper/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "systran",
-  "category": "BigBearCasaOS",
   "version": "2.5.0",
-  "image": "linuxserver/faster-whisper",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/faster-whisper/logo.png",
+  "category": "BigBearCasaOS",
   "port": "7575",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:24Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
