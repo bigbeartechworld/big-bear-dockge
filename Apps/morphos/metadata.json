@@ -1,24 +1,11 @@
 {
   "name": "Morphos",
-  "id": "morphos",
   "description": "Today we are forced to rely on third party services to convert files to other formats. This is a serious threat to our privacy, if we use such services to convert files with highly sensitive personal data. It can be used against us, sooner or later. Morphos server aims to solve the problem mentioned above, by providing a self-hosted server to convert files privately. The project provides an user-friendly web UI. For now, Morphos only supports images. Documents will be added soon.",
-  "tagline": "Self-hosted file converter server",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/morphos/logo.png",
-  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/morphos/thumbnail.png",
-  "author": "BigBearTechWorld",
-  "developer": "danvergara",
-  "category": "BigBearCasaOS",
   "version": "0.6.0",
-  "image": "ghcr.io/danvergara/morphos-server",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/morphos/logo.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "https://youtu.be/dw7AEDbGqZY",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:58Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

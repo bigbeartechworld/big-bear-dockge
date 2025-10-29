@@ -1,24 +1,11 @@
 {
   "name": "Speedtest Tracker",
-  "id": "speedtest-tracker",
   "description": "A Docker image to check your internet speed using Ookla's Speedtest service. Build using Laravel and the Speedtest CLI.",
-  "tagline": "Speedtest Tracker",
-  "icon": "https://cdn.jsdelivr.net/gh/alexjustesen/speedtest-tracker/public/img/speedtest-tracker-icon.png",
-  "thumbnail": "",
+  "version": "1.6.9",
   "author": "BigBearTechWorld",
-  "developer": "alexjustesen",
+  "icon": "https://cdn.jsdelivr.net/gh/alexjustesen/speedtest-tracker/public/img/speedtest-tracker-icon.png",
   "category": "BigBearCasaOS",
-  "version": "1.6.8",
-  "image": "linuxserver/speedtest-tracker",
   "port": "8080",
-  "youtube": "https://youtu.be/TLjS8xNNwis",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:41Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

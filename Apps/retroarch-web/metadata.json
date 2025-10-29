@@ -1,24 +1,11 @@
 {
   "name": "RetroArch",
-  "id": "retroarch-web",
   "description": "Online retro games emulator.The RetroArch Web Player is RetroArch compiled through Emscripten.",
-  "tagline": "RetroArch Web Player",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/retroarch-web/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "inglebard",
-  "category": "BigBearCasaOS",
   "version": "latest",
-  "image": "inglebard/retroarch-web",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/retroarch-web/logo.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:34Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

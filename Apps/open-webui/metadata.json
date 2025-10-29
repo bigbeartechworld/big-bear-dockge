@@ -1,24 +1,11 @@
 {
   "name": "Open WebUI",
-  "id": "open-webui",
   "description": "Open WebUI is an extensible, feature-rich, and user-friendly self-hosted WebUI designed to operate entirely offline.",
-  "tagline": "User-friendly WebUI for LLMs",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/open-webui.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "open-webui",
-  "category": "BigBearCasaOS",
   "version": "git-33e54a9",
-  "image": "ghcr.io/open-webui/open-webui",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/open-webui.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:13Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
