@@ -1,24 +1,11 @@
 {
   "name": "Warracker",
-  "id": "warracker",
   "description": "A self-hosted warranty tracker",
-  "tagline": "A self-hosted warranty tracker",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/warracker.png",
-  "thumbnail": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/warracker/thumbnail.png",
-  "author": "BigBearTechWorld",
-  "developer": "sassanix",
-  "category": "BigBearCasaOS",
   "version": "9.9.3",
-  "image": "ghcr.io/sassanix/warracker/main",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/warracker.png",
+  "category": "BigBearCasaOS",
   "port": "8005",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:54Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

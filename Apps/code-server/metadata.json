@@ -1,24 +1,11 @@
 {
   "name": "Code Server",
-  "id": "code-server",
   "description": "Run VS Code on any machine anywhere and access it in the browser.",
-  "tagline": "Code Server",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/coder.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "",
-  "category": "BigBearCasaOS",
   "version": "4.105.1",
-  "image": "linuxserver/code-server",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/coder.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "https://youtu.be/aiYcwXDfgE8",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:11Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

@@ -1,24 +1,11 @@
 {
   "name": "Immich Kiosk",
-  "id": "immich-kiosk",
   "description": "Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.",
-  "tagline": "Immich Kiosk",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich-kiosk.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "damongolding",
-  "category": "BigBearCasaOS",
   "version": "0.26.1",
-  "image": "ghcr.io/damongolding/immich-kiosk",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich-kiosk.png",
+  "category": "BigBearCasaOS",
   "port": "3000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:39Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

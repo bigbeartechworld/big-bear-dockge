@@ -1,24 +1,11 @@
 {
   "name": "seafile",
-  "id": "seafile",
   "description": "Seafile is an open source file sync and share platform, focusing on reliability and performance. Seafile's built-in collaborative document SeaDoc, make it easy for collaborative writing and publishing documents.",
-  "tagline": "Seafile is an open source file sync and share platform, focusing on reliability and performance.",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/seafile.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "seafile",
-  "category": "BigBearCasaOS",
   "version": "11.0.13",
-  "image": "seafileltd/seafile-mc",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/seafile.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:38Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

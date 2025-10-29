@@ -1,24 +1,11 @@
 {
   "name": "Homer",
-  "id": "homer",
   "description": "A dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file.",
-  "tagline": "Homer",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homer.png",
-  "thumbnail": "",
+  "version": "v25.10.1",
   "author": "BigBearTechWorld",
-  "developer": "bastienwirtz",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homer.png",
   "category": "BigBearCasaOS",
-  "version": "25.10.1",
-  "image": "b4bz/homer",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:37Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

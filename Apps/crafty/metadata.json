@@ -1,24 +1,11 @@
 {
   "name": "Crafty Controller",
-  "id": "crafty",
   "description": "Crafty 4 is the next iteration of our Minecraft Server Wrapper / Controller / Launcher.",
-  "tagline": "Crafty Controller",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/crafty-controller.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "crafty-controller",
-  "category": "BigBearCasaOS",
   "version": "4.5.5",
-  "image": "registry.gitlab.com/crafty-controller/crafty-4",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/crafty-controller.png",
+  "category": "BigBearCasaOS",
   "port": "8443",
-  "youtube": "https://youtu.be/Vw4su8hT_7A",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:15Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

@@ -1,24 +1,11 @@
 {
   "name": "zipline",
-  "id": "zipline",
   "description": "A ShareX/file upload server that is easy to use, packed with features, and with an easy setup!",
-  "tagline": "zipline",
-  "icon": "https://github.com/bigbeartechworld/big-bear-casaos/assets/1289128/3b655316-f72c-4b89-8138-0abee624e9b8",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "zipline",
-  "category": "BigBearCasaOS",
   "version": "3.7.13",
-  "image": "ghcr.io/diced/zipline",
+  "author": "BigBearTechWorld",
+  "icon": "https://github.com/bigbeartechworld/big-bear-casaos/assets/1289128/3b655316-f72c-4b89-8138-0abee624e9b8",
+  "category": "BigBearCasaOS",
   "port": "3000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:59Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
