@@ -1,24 +1,11 @@
 {
   "name": "WireGuard Easy v15",
-  "id": "wg-easy-v15",
   "description": "WireGuard Easy v15 - Complete rewrite with new features and improved UI. Access your homeserver from anywhere with this modern VPN solution. NOTE: This is v15 which has breaking changes from v14. If you're currently using v14, please backup your configuration before migrating.",
-  "tagline": "WireGuard VPN server v15 (New Version)",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/wg-easy-v15/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "WeeJeWel",
-  "category": "BigBearCasaOS",
   "version": "15",
-  "image": "ghcr.io/wg-easy/wg-easy",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/wg-easy-v15/logo.png",
+  "category": "BigBearCasaOS",
   "port": "51821",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:56Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

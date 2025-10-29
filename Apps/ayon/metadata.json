@@ -1,24 +1,11 @@
 {
   "name": "Ayon",
-  "id": "ayon",
   "description": "This is the official Docker-based deployment for the Ayon Server. Ayon is a robust tool designed to manage and automate workflows in the animation and visual effects industries.",
-  "tagline": "Ayon",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/ayon/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "ynput",
-  "category": "BigBearCasaOS",
   "version": "1.3.6-20240823",
-  "image": "ynput/ayon",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/ayon/logo.png",
+  "category": "BigBearCasaOS",
   "port": "5000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:03Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

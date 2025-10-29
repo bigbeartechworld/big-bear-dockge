@@ -1,24 +1,11 @@
 {
   "name": "Ghostfolio",
-  "id": "ghostfolio",
   "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
-  "tagline": "Ghostfolio",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghostfolio.png",
-  "thumbnail": "",
+  "version": "2.211.0",
   "author": "BigBearTechWorld",
-  "developer": "ghostfolio",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghostfolio.png",
   "category": "BigBearCasaOS",
-  "version": "2.210.1",
-  "image": "ghostfolio/ghostfolio",
   "port": "3333",
-  "youtube": "https://youtu.be/CNe4-8Vyhos",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:30Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

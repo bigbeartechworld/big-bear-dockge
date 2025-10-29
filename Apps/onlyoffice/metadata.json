@@ -1,24 +1,11 @@
 {
   "name": "OnlyOffice",
-  "id": "onlyoffice",
   "description": "Feature-rich web-based office suite with a vast range of collaborative capabilities",
-  "tagline": "OnlyOffice",
-  "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/onlyoffice.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "",
-  "category": "BigBearCasaOS",
   "version": "9.1.0",
-  "image": "onlyoffice/documentserver",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/onlyoffice.png",
+  "category": "BigBearCasaOS",
   "port": "7400",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:13Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

@@ -1,24 +1,11 @@
 {
   "name": "phpMyAdmin",
-  "id": "phpmyadmin",
   "description": "phpMyAdmin - A web interface for MySQL and MariaDB.",
-  "tagline": "phpMyAdmin",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/phpmyadmin.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "phpMyAdmin",
-  "category": "BigBearCasaOS",
   "version": "5.2.3",
-  "image": "phpmyadmin/phpmyadmin",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/phpmyadmin.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:20Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
