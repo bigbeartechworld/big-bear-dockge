@@ -1,24 +1,11 @@
 {
   "name": "SFTPGO",
-  "id": "sftpgo",
   "description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob",
-  "tagline": "SFTPGO",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/sftpgo.png",
-  "thumbnail": "",
+  "version": "v2.7",
   "author": "BigBearTechWorld",
-  "developer": "drakkan",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/sftpgo.png",
   "category": "BigBearCasaOS",
-  "version": "v2.6",
-  "image": "drakkan/sftpgo",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:39Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

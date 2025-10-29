@@ -1,24 +1,11 @@
 {
   "name": "2FAuth",
-  "id": "2fauth",
   "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
-  "tagline": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
-  "icon": "https://user-images.githubusercontent.com/1289128/276442834-bdb528d0-78fa-4155-ba15-7165d88b9836.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "bubka",
-  "category": "BigBearCasaOS",
   "version": "5.6.0",
-  "image": "2fauth/2fauth",
+  "author": "BigBearTechWorld",
+  "icon": "https://user-images.githubusercontent.com/1289128/276442834-bdb528d0-78fa-4155-ba15-7165d88b9836.png",
+  "category": "BigBearCasaOS",
   "port": "8000",
-  "youtube": "https://youtu.be/yCnjxSryD_U",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:36:56Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

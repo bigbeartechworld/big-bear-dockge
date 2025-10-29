@@ -1,24 +1,11 @@
 {
   "name": "What's Up Docker",
-  "id": "whats-up-docker",
   "description": "Gets you notified when new versions of your Docker containers are available and lets you react the way you want.",
-  "tagline": "What's Up Docker",
-  "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/whats-up-docker.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "fmartinou",
-  "category": "BigBearCasaOS",
   "version": "6.6.1",
-  "image": "fmartinou/whats-up-docker",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/whats-up-docker.png",
+  "category": "BigBearCasaOS",
   "port": "3000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:56Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

@@ -1,24 +1,11 @@
 {
   "name": "Monica",
-  "id": "monica",
   "description": "Monica is an open-source web application to organize and record your interactions with your loved ones. We call it a PRM, or Personal Relationship Management. Think of it as a CRM (a popular tool used by sales teams in the corporate world) for your friends or family.",
-  "tagline": "A Personal Relationship Management tool to help you document your social life.",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/monica.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "monica",
-  "category": "BigBearCasaOS",
   "version": "4.1.2",
-  "image": "monica",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/monica.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:57Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

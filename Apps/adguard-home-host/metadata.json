@@ -1,24 +1,11 @@
 {
   "name": "AdGuard Home (HOST)",
-  "id": "adguard-home-host",
   "description": "Use if you're going to use Adguard Home as a DHCP server. AdGuard Home is a network-wide software for blocking ads and tracking. After you set it up, it'll cover all your home devices, and you won't need any client-side software for that. Learn more on our official Github repository.",
-  "tagline": "Network Mode is host. Network-wide ads & trackers blocking DNS server.",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/adguard-home.png",
-  "thumbnail": "https://cdn.jsdelivr.net/gh/IceWhaleTech/CasaOS-AppStore@main/Apps/AdGuardHome/thumbnail.png",
+  "version": "v0.107.68",
   "author": "BigBearTechWorld",
-  "developer": "AdGuardTeam",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/adguard-home.png",
   "category": "BigBearCasaOS",
-  "version": "0.107.67",
-  "image": "adguard/adguardhome",
   "port": "80",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:36:59Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
