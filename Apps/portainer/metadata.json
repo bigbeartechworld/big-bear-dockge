@@ -1,24 +1,11 @@
 {
   "name": "Portainer",
-  "id": "portainer",
   "description": "Irrespective of your industry, orchestration platform, or computing device, Portainer is the most versatile container management software that simplifies your secure adoption of containers with remarkable speed.",
-  "tagline": "Portainer",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "portainer",
-  "category": "BigBearCasaOS",
   "version": "2.35.0-alpine",
-  "image": "portainer/portainer-ce",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png",
+  "category": "BigBearCasaOS",
   "port": "9443",
-  "youtube": "https://youtu.be/GW4_OALLI_s",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:28Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

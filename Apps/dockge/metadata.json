@@ -1,24 +1,11 @@
 {
   "name": "Dockge",
-  "id": "dockge",
   "description": "A fancy, easy-to-use and reactive docker `compose.yaml` stack-oriented manager",
-  "tagline": "Dockge",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dockge.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "louislam",
-  "category": "BigBearCasaOS",
   "version": "1.5.0",
-  "image": "louislam/dockge",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dockge.png",
+  "category": "BigBearCasaOS",
   "port": "5001",
-  "youtube": "https://youtu.be/8Z6psh-t5iU",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:19Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

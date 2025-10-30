@@ -1,24 +1,11 @@
 {
   "name": "Syncthing",
-  "id": "syncthing",
   "description": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers. We strive to fulfill the goals below. The goals are listed in order of importance, the most important one being the first.",
-  "tagline": "Peer-to-peer file synchronization between your devices",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/syncthing.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "syncthing",
-  "category": "BigBearCasaOS",
   "version": "2.0",
-  "image": "syncthing/syncthing",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/syncthing.png",
+  "category": "BigBearCasaOS",
   "port": "8384",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:42Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

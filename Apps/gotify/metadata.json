@@ -1,24 +1,11 @@
 {
   "name": "Gotify",
-  "id": "gotify",
   "description": "a simple server for sending and receiving messages",
-  "tagline": "Gotify",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/gotify.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "gotify",
-  "category": "BigBearCasaOS",
   "version": "2.7.3",
-  "image": "gotify/server",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/gotify.png",
+  "category": "BigBearCasaOS",
   "port": "8091",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:33Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

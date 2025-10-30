@@ -1,24 +1,13 @@
 {
   "name": "Cal.com",
-  "id": "calcom",
-  "description": "The open source Calendly successor. You are in charge of your own data, workflow, and appearance.\nCalendly and other scheduling tools are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes, and even calls with our families. However, most tools are very limited in terms of control and customization.\n    That's where Cal.com comes in. Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data.",
-  "tagline": "Cal.com",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/calcom/logo.jpg",
-  "thumbnail": "",
+  "description": "The open source Calendly successor. You are in charge of your own data, workflow, and appearance.
+Calendly and other scheduling tools are awesome. It made our lives massively easier. We're using it for business meetings, seminars, yoga classes, and even calls with our families. However, most tools are very limited in terms of control and customization.
+    That's where Cal.com comes in. Self-hosted or hosted by us. White-label by design. API-driven and ready to be deployed on your own domain. Full control of your events and data.",
+  "version": "v5.8.2",
   "author": "BigBearTechWorld",
-  "developer": "calcom",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/calcom/logo.jpg",
   "category": "BigBearCasaOS",
-  "version": "5.8.2",
-  "image": "calcom/cal.com",
   "port": "3000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:08Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
