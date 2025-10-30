@@ -1,24 +1,11 @@
 {
   "name": "Homarr v1",
-  "id": "homarr-v1",
   "description": "Homarr v1 - A sleek, modern dashboard for your server. This is the latest major version (v1.x) from homarr-labs with improved architecture and features. Note: This version uses a different data structure and requires SECRET_ENCRYPTION_KEY. Not compatible with legacy Homarr (v0.x) data without migration.",
-  "tagline": "Homarr v1 (Latest)",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homarr.png",
-  "thumbnail": "",
+  "version": "v1.43.0",
   "author": "BigBearTechWorld",
-  "developer": "homarr-labs",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homarr.png",
   "category": "BigBearCasaOS",
-  "version": "1.43.0",
-  "image": "ghcr.io/homarr-labs/homarr",
   "port": "7575",
-  "youtube": "",
-  "docs": "https://homarr.dev/docs",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:35Z",
-  "source": "big-bear-casaos"
+  "documentation": "https://homarr.dev/docs",
+  "source": ""
 }

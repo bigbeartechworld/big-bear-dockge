@@ -1,24 +1,11 @@
 {
   "name": "Dashdot",
-  "id": "dashdot",
   "description": "About A simple, modern server dashboard, primarily used by smaller private servers.",
-  "tagline": "dash. - a modern server dashboard",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashdot.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "mauricenino",
-  "category": "BigBearCasaOS",
   "version": "6.2.0",
-  "image": "mauricenino/dashdot",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashdot.png",
+  "category": "BigBearCasaOS",
   "port": "3001",
-  "youtube": "https://youtu.be/if_fyuX_5fU",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:16Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

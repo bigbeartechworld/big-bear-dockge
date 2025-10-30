@@ -1,24 +1,11 @@
 {
   "name": "Plex with NVIDIA GPU",
-  "id": "plex-nvidia",
   "description": "Stream Movies & TV Shows with NVIDIA GPU",
-  "tagline": "Stream Movies & TV Shows with NVIDIA GPU",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/plex.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "plexinc",
-  "category": "BigBearCasaOS",
   "version": "1.42.2",
-  "image": "linuxserver/plex",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/plex.png",
+  "category": "BigBearCasaOS",
   "port": "32400",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:27Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
