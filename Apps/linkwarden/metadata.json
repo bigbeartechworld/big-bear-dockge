@@ -1,24 +1,11 @@
 {
   "name": "Linkwarden",
-  "id": "linkwarden",
   "description": "⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages and articles.",
-  "tagline": "Linkwarden",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/linkwarden.png",
-  "thumbnail": "",
+  "version": "v2.13.1",
   "author": "BigBearTechWorld",
-  "developer": "linkwarden",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/linkwarden.png",
   "category": "BigBearCasaOS",
-  "version": "2.13.1",
-  "image": "ghcr.io/linkwarden/linkwarden",
   "port": "3000",
-  "youtube": "https://youtu.be/KZXZAi9Vjs4",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:52Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
