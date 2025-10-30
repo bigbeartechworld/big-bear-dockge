@@ -1,24 +1,11 @@
 {
   "name": "Write Freely",
-  "id": "write-freely",
   "description": "WriteFreely is a clean, minimalist publishing platform made for writers. Start a blog, share knowledge within your organization, or build a community around the shared act of writing.",
-  "tagline": "Markdown-based publishing platform.",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/write-freely/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "nephatrine",
-  "category": "BigBearCasaOS",
   "version": "0.16",
-  "image": "nephatrine/write-freely",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/write-freely/logo.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:58Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

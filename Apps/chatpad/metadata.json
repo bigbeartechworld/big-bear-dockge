@@ -1,24 +1,11 @@
 {
   "name": "Chatpad",
-  "id": "chatpad",
-  "description": "Recently, there has been a surge of UIs for ChatGPT, making it the new "to-do app" that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.",
-  "tagline": "Not just another ChatGPT user-interface!",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/chatpad/logo.jpeg",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "deiucanta",
-  "category": "BigBearCasaOS",
+  "description": "Recently, there has been a surge of UIs for ChatGPT, making it the new to-do app that everyone wants to try their hand at. Chatpad sets itself apart with a broader vision - to become the ultimate interface for ChatGPT users.",
   "version": "f45cd53bc410412610c1ba1cbd84cd137d8e167d",
-  "image": "ghcr.io/deiucanta/chatpad",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/chatpad/logo.jpeg",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:09Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

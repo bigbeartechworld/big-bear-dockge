@@ -1,24 +1,11 @@
 {
   "name": "Ghost",
-  "id": "ghost",
   "description": "Ghost is a free and open source blogging platform written in JavaScript and distributed under the MIT License, designed to simplify the process of online publishing for individual bloggers as well as online publications.",
-  "tagline": "Ghost is a free and open source blogging platform",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghost.png",
-  "thumbnail": "",
+  "version": "6.5.3-alpine",
   "author": "BigBearTechWorld",
-  "developer": "ghost",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghost.png",
   "category": "BigBearCasaOS",
-  "version": "6.5.0-alpine",
-  "image": "ghost",
   "port": "2368",
-  "youtube": "https://youtu.be/oJZK9vH4W4Y",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:29Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

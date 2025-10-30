@@ -1,24 +1,11 @@
 {
   "name": "NocoDB",
-  "id": "nocodb",
   "description": "NocoDB allows building no-code database solutions with ease of spreadsheets. Bring your own database or choose ours! Millions of rows? Not a problem. Your Data. Your rules. You are in control.",
-  "tagline": "🔥 🔥 🔥 Open Source Airtable Alternative",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nocodb.png",
-  "thumbnail": "https://user-images.githubusercontent.com/86527202/277104231-e2fad786-f211-4dcb-9bd3-aaece83a6783.gif",
-  "author": "BigBearTechWorld",
-  "developer": "nocodb",
-  "category": "BigBearCasaOS",
   "version": "0.265.1",
-  "image": "nocodb/nocodb",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nocodb.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "https://youtu.be/mO2YzWpBu4o",
-  "docs": "https://community.bigbeartechworld.com/t/added-nocodb-to-big-bear-casaos/177",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:05Z",
-  "source": "big-bear-casaos"
+  "documentation": "https://community.bigbeartechworld.com/t/added-nocodb-to-big-bear-casaos/177",
+  "source": ""
 }

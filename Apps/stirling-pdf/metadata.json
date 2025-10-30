@@ -1,24 +1,11 @@
 {
   "name": "Stirling-PDF",
-  "id": "stirling-pdf",
   "description": "Stirling PDF - Local hosted web based PDF editor",
-  "tagline": "Stirling PDF - Local hosted web based PDF editor",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-casaos/Apps/stirling-pdf/logo.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "stirlingtools",
-  "category": "BigBearCasaOS",
   "version": "1.5.0",
-  "image": "stirlingpdf/stirlingpdf",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/stirling-pdf/logo.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "https://youtu.be/ZoPSPDvOPdo",
-  "docs": "https://community.bigbeartechworld.com/t/added-stirling-pdf-to-bigbearcasaos/2265#p-4248-documentation-3",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:42Z",
-  "source": "big-bear-casaos"
+  "documentation": "https://community.bigbeartechworld.com/t/added-stirling-pdf-to-bigbearcasaos/2265#p-4248-documentation-3",
+  "source": ""
 }

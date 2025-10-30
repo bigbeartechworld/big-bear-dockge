@@ -1,24 +1,11 @@
 {
   "name": "Trilium",
-  "id": "trilium",
   "description": "Build your personal knowledge base with Trilium Notes",
-  "tagline": "Build your personal knowledge base with Trilium Notes",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/trilium-notes.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "TriliumNext",
-  "category": "BigBearCasaOS",
   "version": "v0.99.3",
-  "image": "triliumnext/trilium",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/trilium-notes.png",
+  "category": "BigBearCasaOS",
   "port": "8080",
-  "youtube": "https://youtu.be/h5ISPmUuBHs",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:46Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
