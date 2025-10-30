@@ -1,24 +1,11 @@
 {
   "name": "Scrutiny",
-  "id": "scrutiny",
   "description": "If you run a server with more than a couple of hard drives, you're probably already familiar with S.M.A.R.T and the smartd daemon.",
-  "tagline": "Monitor your server's hard disk health",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/scrutiny.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "analogj",
-  "category": "BigBearCasaOS",
   "version": "master-omnibus",
-  "image": "ghcr.io/analogj/scrutiny",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/scrutiny.png",
+  "category": "BigBearCasaOS",
   "port": "38080",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:38:36Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

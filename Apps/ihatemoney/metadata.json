@@ -1,24 +1,11 @@
 {
   "name": "I Hate Money",
-  "id": "ihatemoney",
   "description": "I hate money is a web application made to ease shared budget management. It keeps track of who bought what, when, and for whom; and helps to settle the bills.",
-  "tagline": "A simple shared budget manager web application",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ihatemoney.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "spiral-project",
-  "category": "BigBearCasaOS",
   "version": "6.1.5",
-  "image": "ihatemoney/ihatemoney",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ihatemoney.png",
+  "category": "BigBearCasaOS",
   "port": "8001",
-  "youtube": "https://youtu.be/aHz0Vh-KbXw",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:37Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

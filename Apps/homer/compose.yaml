@@ -12,7 +12,7 @@ services:
     # Assigns a name to the container created from this service definition
     container_name: homer
     # Binds the container's volumes to host directories or named volumes
-    # In this case, bind-mounts `/DATA/AppData/$AppID/assets` from the host to `/www/assets` inside the container
+    # In this case, bind-mounts `homer_assets` from the host to `/www/assets` inside the container
     volumes:
       - homer_assets:/www/assets
     # Maps the container's ports to the host's ports
@@ -27,4 +27,6 @@ services:
     environment:
       - INIT_ASSETS=1 # default
 volumes:
-  homer_assets: {}
+  homer_assets:
+    name: homer_assets
+    driver: local

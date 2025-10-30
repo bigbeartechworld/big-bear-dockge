@@ -1,24 +1,11 @@
 {
   "name": "Dashy",
-  "id": "dashy",
   "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place",
-  "tagline": "Dashy",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashy.png",
-  "thumbnail": "",
-  "author": "BigBearTechWorld",
-  "developer": "Lissy93",
-  "category": "BigBearCasaOS",
   "version": "3.1.0",
-  "image": "lissy93/dashy",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashy.png",
+  "category": "BigBearCasaOS",
   "port": "4000",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:16Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

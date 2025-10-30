@@ -1,24 +1,11 @@
 {
   "name": "Jlesage Firefox",
-  "id": "jlesage-firefox",
   "description": "The GUI of the application is accessed through a modern web browser (no installation or configuration needed on the client side) or via any VNC client.",
-  "tagline": "This project implements a Docker container for Firefox.",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/firefox.png",
-  "thumbnail": "",
+  "version": "v25.09.1",
   "author": "BigBearTechWorld",
-  "developer": "jlesage",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/firefox.png",
   "category": "BigBearCasaOS",
-  "version": "25.09.1",
-  "image": "jlesage/firefox",
   "port": "5800",
-  "youtube": "https://youtu.be/JWhR8RKGh9Y",
-  "docs": "https://community.bigbeartechworld.com/t/added-jlesage-firefox-to-bigbearcasaos/2506#p-4575-documentation-4",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:44Z",
-  "source": "big-bear-casaos"
+  "documentation": "https://community.bigbeartechworld.com/t/added-jlesage-firefox-to-bigbearcasaos/2506#p-4575-documentation-4",
+  "source": ""
 }
