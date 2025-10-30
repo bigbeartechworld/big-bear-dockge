@@ -1,24 +1,11 @@
 {
   "name": "Mealie",
-  "id": "mealie",
   "description": "Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes into your database by providing the url and mealie will automatically import the relevant data or add a family recipe with the UI editor",
-  "tagline": "Mealie",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/mealie.png",
-  "thumbnail": "",
+  "version": "v3.3.2",
   "author": "BigBearTechWorld",
-  "developer": "mealie-recipes",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/mealie.png",
   "category": "BigBearCasaOS",
-  "version": "3.3.2",
-  "image": "hkotel/mealie",
   "port": "9925",
-  "youtube": "https://youtu.be/S4MfNLV2Uf4",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:55Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

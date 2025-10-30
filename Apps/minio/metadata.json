@@ -1,24 +1,11 @@
 {
   "name": "Minio",
-  "id": "minio",
   "description": "A distributed object storage server built for cloud applications and devops. Default credentials 'minioadmin:minioadmin', we recommend that you change these values with 'MINIO_ROOT_USER' and 'MINIO_ROOT_PASSWORD' environment variables.",
-  "tagline": "An open-source S3 alternative",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/minio.png",
-  "thumbnail": "",
-  "author": "BigBearCommunity",
-  "developer": "minio",
-  "category": "BigBearCasaOS",
   "version": "RELEASE.2025-10-15T17-29-55Z",
-  "image": "minio/minio",
+  "author": "BigBearCommunity",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/minio.png",
+  "category": "BigBearCasaOS",
   "port": "9011",
-  "youtube": "",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:56Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

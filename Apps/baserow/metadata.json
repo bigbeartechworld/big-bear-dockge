@@ -1,24 +1,11 @@
 {
   "name": "Baserow",
-  "id": "baserow",
   "description": "Create your own online database without technical experience. Our user-friendly no-code tool gives you the powers of a developer without leaving your browser.",
-  "tagline": "Baserow",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/baserow.png",
-  "thumbnail": "https://github.com/bram2w/baserow/raw/master/docs/assets/screenshot.png",
-  "author": "BigBearTechWorld",
-  "developer": "",
-  "category": "BigBearCasaOS",
   "version": "1.35.3",
-  "image": "baserow/baserow",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/baserow.png",
+  "category": "BigBearCasaOS",
   "port": "7350",
-  "youtube": "https://youtu.be/Xej7sH5bNFs",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:37:03Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }

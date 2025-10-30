@@ -1,24 +1,11 @@
 {
   "name": "Actual Budget",
-  "id": "actual-server",
   "description": "Actual Budget is a super fast and privacy-focused app for managing your finances. At its heart is the well proven and much loved Envelope Budgeting methodology. You own your data and can do whatever you want with it. Featuring multi-device sync, optional end-to-end encryption and so much more.",
-  "tagline": "Local-first OpenSource Budget tool",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/actual-budget.png",
-  "thumbnail": "",
-  "author": "BigBearCommunity",
-  "developer": "",
-  "category": "BigBearCasaOS",
   "version": "25.10.0",
-  "image": "actualbudget/actual-server",
+  "author": "BigBearCommunity",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/actual-budget.png",
+  "category": "BigBearCasaOS",
   "port": "5006",
-  "youtube": "https://youtu.be/fa8j7ZfkYaM",
-  "docs": "",
-  "tags": [
-    "selfhosted",
-    "docker",
-    "bigbear",
-    "bigbearcasaos"
-  ],
-  "created": "2025-10-26T01:36:58Z",
-  "source": "big-bear-casaos"
+  "documentation": "",
+  "source": ""
 }
