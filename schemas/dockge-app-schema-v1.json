@@ -1,0 +1,214 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/bigbeartechworld/big-bear-dockge/schemas/dockge-app-schema-v1.json",
+  "title": "Dockge App Schema",
+  "description": "JSON Schema for validating Dockge application structure and metadata",
+  "type": "object",
+  "definitions": {
+    "metadata": {
+      "type": "object",
+      "description": "Application metadata (metadata.json)",
+      "required": ["id", "name", "description", "tagline", "icon", "author", "developer", "category", "version", "image", "tags", "created", "source"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Application identifier (should match folder name)",
+          "pattern": "^[a-z0-9-]+$"
+        },
+        "name": {
+          "type": "string",
+          "description": "Application display name",
+          "minLength": 1
+        },
+        "description": {
+          "type": "string",
+          "description": "Detailed description",
+          "minLength": 1
+        },
+        "tagline": {
+          "type": "string",
+          "description": "Short tagline",
+          "minLength": 1
+        },
+        "icon": {
+          "type": "string",
+          "description": "Icon URL (https) - can be empty string",
+          "pattern": "^(https://.*|)$"
+        },
+        "thumbnail": {
+          "type": "string",
+          "description": "Thumbnail URL (optional)",
+          "format": "uri"
+        },
+        "author": {
+          "type": "string",
+          "description": "Configuration author",
+          "minLength": 1
+        },
+        "developer": {
+          "type": "string",
+          "description": "Original application developer",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "description": "Application category",
+          "minLength": 1
+        },
+        "version": {
+          "type": "string",
+          "description": "Application version",
+          "minLength": 1
+        },
+        "image": {
+          "type": "string",
+          "description": "Main Docker image reference",
+          "pattern": "^[a-zA-Z0-9._/-]+(:[\\.\\w\\-]+)?$"
+        },
+        "port": {
+          "type": "string",
+          "description": "Default port (optional) - format: 'port' or 'host:container'",
+          "pattern": "^([0-9]+|[0-9]+:[0-9]+)$"
+        },
+        "youtube": {
+          "type": "string",
+          "description": "YouTube video URL (optional)",
+          "format": "uri"
+        },
+        "docs": {
+          "type": "string",
+          "description": "Documentation URL (optional)",
+          "format": "uri"
+        },
+        "tags": {
+          "type": "array",
+          "description": "Searchable tags",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "minItems": 1
+        },
+        "created": {
+          "type": "string",
+          "description": "Creation timestamp (ISO 8601)",
+          "format": "date-time"
+        },
+        "source": {
+          "type": "string",
+          "description": "Source repository identifier or URL",
+          "minLength": 1
+        }
+      }
+    },
+    "dockerCompose": {
+      "type": "object",
+      "description": "Docker Compose file (compose.yaml) - standard Docker Compose format",
+      "properties": {
+        "version": {
+          "type": "string",
+          "description": "Docker Compose version (optional)"
+        },
+        "services": {
+          "type": "object",
+          "description": "Service definitions",
+          "minProperties": 1,
+          "patternProperties": {
+            "^[a-zA-Z0-9_-]+$": {
+              "type": "object",
+              "required": ["image"],
+              "properties": {
+                "image": {
+                  "type": "string",
+                  "description": "Docker image with optional tag"
+                },
+                "container_name": {
+                  "type": "string",
+                  "description": "Container name"
+                },
+                "restart": {
+                  "type": "string",
+                  "enum": ["no", "always", "on-failure", "unless-stopped"],
+                  "description": "Restart policy"
+                },
+                "ports": {
+                  "type": "array",
+                  "description": "Port mappings (optional - some apps use host networking)",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "volumes": {
+                  "type": "array",
+                  "description": "Volume mappings",
+                  "items": {
+                    "type": "string"
+                  }
+                },
+                "environment": {
+                  "oneOf": [
+                    {
+                      "type": "array",
+                      "items": {
+                        "type": "string"
+                      }
+                    },
+                    {
+                      "type": "object",
+                      "additionalProperties": {
+                        "type": ["string", "number", "boolean"]
+                      }
+                    }
+                  ],
+                  "description": "Environment variables"
+                },
+                "network_mode": {
+                  "type": "string",
+                  "description": "Network mode (bridge, host, none, etc.)"
+                }
+              }
+            }
+          }
+        },
+        "networks": {
+          "type": "object",
+          "description": "Network definitions",
+          "additionalProperties": {
+            "type": "object"
+          }
+        },
+        "volumes": {
+          "type": "object",
+          "description": "Named volume definitions",
+          "additionalProperties": {
+            "type": ["object", "null"]
+          }
+        }
+      }
+    }
+  },
+  "properties": {
+    "appId": {
+      "type": "string",
+      "description": "Application identifier (folder name)",
+      "pattern": "^[a-z0-9-]+$"
+    },
+    "metadata": {
+      "$ref": "#/definitions/metadata"
+    },
+    "dockerCompose": {
+      "$ref": "#/definitions/dockerCompose"
+    }
+  },
+  "notes": [
+    "Each Dockge app should be in an Apps/{appId}/ folder",
+    "Required files: metadata.json, compose.yaml",
+    "metadata.json must be valid JSON (comments and trailing commas will be stripped during parsing)",
+    "metadata.id should match the folder name",
+    "metadata.version should match the image tag in compose.yaml when possible",
+    "port field is optional - some apps use host networking or don't expose ports",
+    "icon URL can be empty string if icon is not available",
+    "created field must be a valid ISO 8601 date-time string",
+    "Compose file may omit ports if app uses host networking or is a background service"
+  ]
+}
