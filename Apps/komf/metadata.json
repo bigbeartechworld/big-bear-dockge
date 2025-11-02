@@ -4,6 +4,7 @@
   "version": "1.6.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/komga.png",
+  "image": "sndxr/komf",
   "category": "BigBearCasaOS",
   "port": "8085",
   "documentation": "",

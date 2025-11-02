@@ -4,6 +4,7 @@
   "version": "2.35.0-alpine",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png",
+  "image": "portainer/portainer-ce",
   "category": "BigBearCasaOS",
   "port": "9443",
   "documentation": "",

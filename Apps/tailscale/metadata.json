@@ -1,9 +1,10 @@
 {
   "name": "Tailscale",
   "description": "Zero config VPN. Installs on any device in minutes, manages firewall rules for you, and works from anywhere.",
-  "version": "v1.88.4",
+  "version": "v1.90.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/tailscale.png",
+  "image": "tailscale/tailscale",
   "category": "BigBearCasaOS",
   "port": "",
   "documentation": "",

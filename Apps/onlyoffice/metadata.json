@@ -4,6 +4,7 @@
   "version": "9.1.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/onlyoffice.png",
+  "image": "onlyoffice/documentserver",
   "category": "BigBearCasaOS",
   "port": "7400",
   "documentation": "",

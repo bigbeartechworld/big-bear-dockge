@@ -4,6 +4,7 @@
   "version": "0.23.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/docmost/logo.png",
+  "image": "docmost/docmost",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

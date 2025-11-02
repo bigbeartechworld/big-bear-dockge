@@ -4,6 +4,7 @@
   "version": "6.8.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/wordpress.png",
+  "image": "wordpress",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

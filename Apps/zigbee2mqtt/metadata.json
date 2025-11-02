@@ -4,6 +4,7 @@
   "version": "2.6.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/zigbee2mqtt.png",
+  "image": "koenkk/zigbee2mqtt",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

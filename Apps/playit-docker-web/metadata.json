@@ -4,6 +4,7 @@
   "version": "1.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/playit-docker-web/logo.png",
+  "image": "wisdomsky/playit-docker-web",
   "category": "BigBearCasaOS",
   "port": "8008",
   "documentation": "",

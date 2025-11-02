@@ -4,6 +4,7 @@
   "version": "2025.08.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole-unbound.png",
+  "image": "bigbeartechworld/big-bear-pihole-unbound",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "https://community.bigbeartechworld.com/t/added-pihole-and-unbound-to-bigbearcasaos/191",

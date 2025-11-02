@@ -4,6 +4,7 @@
   "version": "1.30.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/tianji/logo.png",
+  "image": "moonrailgun/tianji",
   "category": "BigBearCasaOS",
   "port": "12345",
   "documentation": "",

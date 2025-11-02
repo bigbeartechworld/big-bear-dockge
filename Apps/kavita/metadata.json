@@ -4,6 +4,7 @@
   "version": "0.8.8",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/kavita.png",
+  "image": "jvmilazz0/kavita",
   "category": "BigBearCasaOS",
   "port": "5000",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "2.13.1-d8cdeb9c-Ubuntu22",
   "author": "BigBearCommunity",
   "icon": "https://static-00.iconduck.com/assets.00/openvpn-icon-512x512-nmf6geqm.png",
+  "image": "openvpn/openvpn-as",
   "category": "BigBearCasaOS",
   "port": "943",
   "documentation": "",

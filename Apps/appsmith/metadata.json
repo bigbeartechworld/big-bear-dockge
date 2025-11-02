@@ -4,6 +4,7 @@
   "version": "v1.73.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/appsmithorg/appsmith/static/logo.png",
+  "image": "appsmith/appsmith-ce",
   "category": "BigBearCasaOS",
   "port": "1080",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "4.3.0.8-full",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/glances.png",
+  "image": "nicolargo/glances",
   "category": "BigBearCasaOS",
   "port": "61208",
   "documentation": "",

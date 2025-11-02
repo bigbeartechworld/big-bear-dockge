@@ -4,6 +4,7 @@
   "version": "multiarch2.3.1",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/flame.png",
+  "image": "pawelmalak/flame",
   "category": "BigBearCasaOS",
   "port": "5005",
   "documentation": "",

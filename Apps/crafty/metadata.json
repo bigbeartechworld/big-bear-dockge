@@ -4,6 +4,7 @@
   "version": "4.5.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/crafty-controller.png",
+  "image": "registry.gitlab.com/crafty-controller/crafty-4",
   "category": "BigBearCasaOS",
   "port": "8443",
   "documentation": "",

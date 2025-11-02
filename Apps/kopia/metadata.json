@@ -4,6 +4,7 @@
   "version": "v0.17.0-spad3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/kopia.png",
+  "image": "ghcr.io/thespad/kopia-server",
   "category": "BigBearCasaOS",
   "port": "51515",
   "documentation": "",

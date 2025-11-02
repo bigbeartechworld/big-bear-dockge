@@ -4,6 +4,7 @@
   "version": "2.1.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/watchyourlan.png",
+  "image": "aceberg/watchyourlan",
   "category": "BigBearCasaOS",
   "port": "8840",
   "documentation": "",

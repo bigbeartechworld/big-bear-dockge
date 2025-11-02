@@ -4,6 +4,7 @@
   "version": "git-33e54a9",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/open-webui.png",
+  "image": "ghcr.io/open-webui/open-webui",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

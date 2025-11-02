@@ -4,6 +4,7 @@
   "version": "1.35.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/baserow.png",
+  "image": "baserow/baserow",
   "category": "BigBearCasaOS",
   "port": "7350",
   "documentation": "",
