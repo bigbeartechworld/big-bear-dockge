@@ -4,6 +4,7 @@
   "version": "449",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nginx-proxy-manager.png",
+  "image": "zoeyvid/npmplus",
   "category": "BigBearCasaOS",
   "port": "81",
   "documentation": "",

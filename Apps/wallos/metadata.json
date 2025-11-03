@@ -4,6 +4,7 @@
   "version": "4.5.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/wallos.png",
+  "image": "bellamy/wallos",
   "category": "BigBearCasaOS",
   "port": "8282",
   "documentation": "",

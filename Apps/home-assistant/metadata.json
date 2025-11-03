@@ -4,6 +4,7 @@
   "version": "2025.10.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/home-assistant.png",
+  "image": "ghcr.io/home-assistant/home-assistant",
   "category": "BigBearCasaOS",
   "port": "8123",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "0.26.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich-kiosk.png",
+  "image": "ghcr.io/damongolding/immich-kiosk",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

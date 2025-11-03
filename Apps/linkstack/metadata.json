@@ -4,6 +4,7 @@
   "version": "V4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/linkstack.png",
+  "image": "linkstackorg/linkstack",
   "category": "BigBearCasaOS",
   "port": "10443",
   "documentation": "",

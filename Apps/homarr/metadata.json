@@ -4,6 +4,7 @@
   "version": "0.16.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homarr.png",
+  "image": "ghcr.io/ajnart/homarr",
   "category": "BigBearCasaOS",
   "port": "7575",
   "documentation": "",

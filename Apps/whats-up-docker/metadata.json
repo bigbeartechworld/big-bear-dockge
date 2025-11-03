@@ -4,6 +4,7 @@
   "version": "6.6.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/whats-up-docker.png",
+  "image": "fmartinou/whats-up-docker",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

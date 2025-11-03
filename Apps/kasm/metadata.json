@@ -4,6 +4,7 @@
   "version": "1.120.20221218",
   "author": "BigBearCommunity",
   "icon": "https://avatars.githubusercontent.com/u/44181855?s=280&v=4",
+  "image": "linuxserver/kasm",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

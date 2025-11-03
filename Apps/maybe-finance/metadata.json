@@ -4,6 +4,7 @@
   "version": "sha-347c0a790693031fdd3b32792b5b6792693d1805",
   "author": "BigBearCommunity",
   "icon": "https://raw.githubusercontent.com/maybe-finance/maybe/refs/heads/main/app/assets/images/logo-color.png",
+  "image": "ghcr.io/maybe-finance/maybe",
   "category": "BigBearCasaOS",
   "port": "4000",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "0.17.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/note-mark-aio/logo.png",
+  "image": "ghcr.io/enchant97/note-mark-aio",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

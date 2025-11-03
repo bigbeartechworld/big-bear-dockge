@@ -4,6 +4,7 @@
   "version": "3.5.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/obsidian.png",
+  "image": "couchdb",
   "category": "BigBearCasaOS",
   "port": "5984",
   "documentation": "",

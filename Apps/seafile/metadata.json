@@ -4,6 +4,7 @@
   "version": "11.0.13",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/seafile.png",
+  "image": "seafileltd/seafile-mc",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

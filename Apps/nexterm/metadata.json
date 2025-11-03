@@ -4,6 +4,7 @@
   "version": "1.0.5-OPEN-PREVIEW",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/nexterm/logo.png",
+  "image": "germannewsmaker/nexterm",
   "category": "BigBearCasaOS",
   "port": "6989",
   "documentation": "https://community.bigbeartechworld.com/t/added-nexterm-to-bigbearcasaos/1835#p-3452-documentation-3",

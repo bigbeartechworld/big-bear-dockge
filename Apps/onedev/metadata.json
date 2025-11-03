@@ -4,6 +4,7 @@
   "version": "13.0.9",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/onedev.png",
+  "image": "1dev/server",
   "category": "BigBearCasaOS",
   "port": "6610",
   "documentation": "",

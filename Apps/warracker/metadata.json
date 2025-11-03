@@ -4,6 +4,7 @@
   "version": "9.9.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/warracker.png",
+  "image": "ghcr.io/sassanix/warracker/main",
   "category": "BigBearCasaOS",
   "port": "8005",
   "documentation": "",

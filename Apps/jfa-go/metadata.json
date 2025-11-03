@@ -4,6 +4,7 @@
   "version": "latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/jellyfin.png",
+  "image": "hrfee/jfa-go",
   "category": "BigBearCasaOS",
   "port": "8056",
   "documentation": "",

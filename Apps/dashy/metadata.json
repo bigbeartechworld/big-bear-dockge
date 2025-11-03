@@ -4,6 +4,7 @@
   "version": "3.1.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashy.png",
+  "image": "lissy93/dashy",
   "category": "BigBearCasaOS",
   "port": "4000",
   "documentation": "",

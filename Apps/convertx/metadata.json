@@ -4,6 +4,7 @@
   "version": "v0.15.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/convertx/logo.png",
+  "image": "ghcr.io/c4illin/convertx",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

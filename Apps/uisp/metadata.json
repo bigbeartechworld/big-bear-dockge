@@ -4,6 +4,7 @@
   "version": "2.4.155.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-icons/Apps/uisp/logo.png",
+  "image": "nico640/docker-unms",
   "category": "BigBearCasaOS",
   "port": "10443",
   "documentation": "",
