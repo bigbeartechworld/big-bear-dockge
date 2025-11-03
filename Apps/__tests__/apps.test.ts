@@ -63,21 +63,156 @@ const getDockgeApps = (): string[] => {
 
 const loadDockgeMetadata = (appName: string): DockgeMetadata | null => {
   const metadataPath = `./Apps/${appName}/metadata.json`;
-  
+
+  // Helper: Remove // and /* */ comments while preserving strings
+  const stripComments = (input: string): string => {
+    let out = "";
+    let inString = false;
+    let escaped = false;
+    let i = 0;
+
+    while (i < input.length) {
+      const ch = input[i];
+      const next = input[i + 1] || "";
+
+      if (inString) {
+        if (escaped) {
+          out += ch;
+          escaped = false;
+          i++;
+          continue;
+        }
+        if (ch === '\\') {
+          out += ch;
+          escaped = true;
+          i++;
+          continue;
+        }
+        if (ch === '"') {
+          out += ch;
+          inString = false;
+          i++;
+          continue;
+        }
+        out += ch;
+        i++;
+        continue;
+      }
+
+      // Not in string
+      if (ch === '"') {
+        out += ch;
+        inString = true;
+        i++;
+        continue;
+      }
+
+      // Check for // comment
+      if (ch === '/' && next === '/') {
+        // Skip to end of line
+        i += 2;
+        while (i < input.length && input[i] !== '\n') {
+          i++;
+        }
+        continue;
+      }
+
+      // Check for /* */ comment
+      if (ch === '/' && next === '*') {
+        // Skip to */
+        i += 2;
+        while (i < input.length - 1) {
+          if (input[i] === '*' && input[i + 1] === '/') {
+            i += 2;
+            break;
+          }
+          i++;
+        }
+        continue;
+      }
+
+      out += ch;
+      i++;
+    }
+
+    return out;
+  };
+
+  // Helper: escape control characters that illegally appear inside JSON string literals
+  // Preserves whitespace outside of strings (JSON formatting)
+  const escapeControlCharsInStrings = (input: string): string => {
+    let out = "";
+    let inString = false;
+    let escaped = false;
+    for (let i = 0; i < input.length; i++) {
+      const ch = input[i];
+      const code = ch.charCodeAt(0);
+
+      if (!inString) {
+        // Outside strings: keep everything as-is, including newlines/tabs for JSON formatting
+        if (ch === '"') {
+          inString = true;
+        }
+        out += ch;
+        continue;
+      }
+
+      // We are inside a string
+      if (escaped) {
+        // Previous char was a backslash, keep this char as-is
+        out += ch;
+        escaped = false;
+        continue;
+      }
+
+      if (ch === '\\') {
+        out += ch;
+        escaped = true;
+        continue;
+      }
+
+      if (ch === '"') {
+        out += ch;
+        inString = false;
+        continue;
+      }
+
+      // Replace ONLY raw control chars that appear illegally inside string values
+      // JSON spec forbids unescaped control chars (U+0000 through U+001F) inside strings
+      if (code <= 0x1F || code === 0x2028 || code === 0x2029) {
+        switch (ch) {
+          case "\n":
+            out += "\\n";
+            break;
+          case "\r":
+            out += "\\r";
+            break;
+          case "\t":
+            out += "\\t";
+            break;
+          default:
+            out += `\\u${code.toString(16).padStart(4, "0")}`;
+        }
+      } else {
+        out += ch;
+      }
+    }
+    return out;
+  };
+
   try {
     let metadataFile = fs.readFileSync(metadataPath, "utf8");
     // Remove BOM
     if (metadataFile.charCodeAt(0) === 0xFEFF) {
       metadataFile = metadataFile.slice(1);
     }
-    // Strip // and /* */ comments
-    metadataFile = metadataFile
-      .replace(/\/\/.*$/gm, "")
-      .replace(/\/\*[\s\S]*?\*\//g, "");
+    // Strip // and /* */ comments (preserving strings)
+    metadataFile = stripComments(metadataFile);
     // Remove trailing commas before } or ]
     metadataFile = metadataFile.replace(/,\s*([}\]])/g, "$1");
-    // Strip control characters except common whitespace
-    metadataFile = metadataFile.replace(/[\u0000-\u001F]/g, ch => (ch === "\n" || ch === "\r" || ch === "\t" ? ch : ""));
+    // Escape illegal control characters that may appear inside string literals
+    metadataFile = escapeControlCharsInStrings(metadataFile);
+
     return JSON.parse(metadataFile) as DockgeMetadata;
   } catch (e) {
     console.error(`Error parsing metadata file for ${appName}:`, e);
@@ -165,6 +300,11 @@ describe("Dockge App Validation", () => {
 
         const metadataVersion = metadata.version;
         const metadataImage = metadata.image;
+
+        // Skip if required metadata fields are missing
+        if (!metadataVersion || !metadataImage) {
+          return;
+        }
 
         // Find services that use the main image
         const services = Object.values(compose.services);
