@@ -4,6 +4,7 @@
   "version": "v2.14.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ntfy.png",
+  "image": "binwiederhier/ntfy",
   "category": "BigBearCasaOS",
   "port": "7200",
   "documentation": "",

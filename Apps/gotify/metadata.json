@@ -4,6 +4,7 @@
   "version": "2.7.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/gotify.png",
+  "image": "gotify/server",
   "category": "BigBearCasaOS",
   "port": "8091",
   "documentation": "",

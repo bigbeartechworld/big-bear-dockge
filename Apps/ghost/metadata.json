@@ -4,6 +4,7 @@
   "version": "6.5.3-alpine",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghost.png",
+  "image": "ghost",
   "category": "BigBearCasaOS",
   "port": "2368",
   "documentation": "",

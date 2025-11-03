@@ -4,6 +4,7 @@
   "version": "1.42.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/plex.png",
+  "image": "linuxserver/plex",
   "category": "BigBearCasaOS",
   "port": "32400",
   "documentation": "",

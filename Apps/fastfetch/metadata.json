@@ -4,6 +4,7 @@
   "version": "0.0.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/fastfetch/logo.png",
+  "image": "bigbeartechworld/big-bear-fastfetch",
   "category": "BigBearCasaOS",
   "port": "7681",
   "documentation": "",

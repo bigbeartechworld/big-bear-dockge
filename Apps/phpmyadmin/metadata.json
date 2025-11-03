@@ -4,6 +4,7 @@
   "version": "5.2.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/phpmyadmin.png",
+  "image": "phpmyadmin/phpmyadmin",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

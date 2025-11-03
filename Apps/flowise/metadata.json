@@ -4,6 +4,7 @@
   "version": "3.0.8",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/flowise/logo.png",
+  "image": "flowiseai/flowise",
   "category": "BigBearCasaOS",
   "port": "8009",
   "documentation": "",

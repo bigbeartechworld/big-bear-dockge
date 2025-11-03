@@ -4,6 +4,7 @@
   "version": "2.19.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/paperless-ngx.png",
+  "image": "ghcr.io/paperless-ngx/paperless-ngx",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

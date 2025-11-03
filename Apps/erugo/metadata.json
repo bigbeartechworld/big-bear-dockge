@@ -4,6 +4,7 @@
   "version": "0.1.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/erugo.png",
+  "image": "wardy784/erugo",
   "category": "BigBearCasaOS",
   "port": "9997",
   "documentation": "",

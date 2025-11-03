@@ -4,6 +4,7 @@
   "version": "v2.7",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/sftpgo.png",
+  "image": "drakkan/sftpgo",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

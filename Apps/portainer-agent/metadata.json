@@ -4,6 +4,7 @@
   "version": "2.35.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png",
+  "image": "portainer/agent",
   "category": "BigBearCasaOS",
   "port": "",
   "documentation": "",

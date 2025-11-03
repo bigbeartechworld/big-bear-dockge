@@ -4,6 +4,7 @@
   "version": "3.4.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/farmos/logo.jpeg",
+  "image": "farmos/farmos",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

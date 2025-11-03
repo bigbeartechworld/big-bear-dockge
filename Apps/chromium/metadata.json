@@ -4,6 +4,7 @@
   "version": "version-6ae43f81",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/chromium.png",
+  "image": "lscr.io/linuxserver/chromium",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

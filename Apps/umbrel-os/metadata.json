@@ -4,6 +4,7 @@
   "version": "1.4.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/umbrelos.png",
+  "image": "dockurr/umbrel",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

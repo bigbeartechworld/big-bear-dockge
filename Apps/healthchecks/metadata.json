@@ -4,6 +4,7 @@
   "version": "3.11.20250828",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/healthchecks.png",
+  "image": "linuxserver/healthchecks",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

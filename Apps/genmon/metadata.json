@@ -4,6 +4,7 @@
   "version": "1.19.06",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/genmon/logo.jpeg",
+  "image": "bigbeartechworld/big-bear-genmon",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

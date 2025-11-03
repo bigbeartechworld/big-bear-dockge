@@ -4,6 +4,7 @@
   "version": "v1.4.230-6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/mumble.png",
+  "image": "mumblevoip/mumble-server",
   "category": "BigBearCasaOS",
   "port": "64738",
   "documentation": "",

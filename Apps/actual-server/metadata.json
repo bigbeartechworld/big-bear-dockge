@@ -4,6 +4,7 @@
   "version": "25.10.0",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/actual-budget.png",
+  "image": "actualbudget/actual-server",
   "category": "BigBearCasaOS",
   "port": "5006",
   "documentation": "",

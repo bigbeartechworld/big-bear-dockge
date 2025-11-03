@@ -4,6 +4,7 @@
   "version": "latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/excalidraw/logo.png",
+  "image": "excalidraw/excalidraw",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",
