@@ -4,6 +4,7 @@
   "version": "6.2.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashdot.png",
+  "image": "mauricenino/dashdot",
   "category": "BigBearCasaOS",
   "port": "3001",
   "documentation": "",

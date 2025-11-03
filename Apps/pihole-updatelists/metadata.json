@@ -4,6 +4,7 @@
   "version": "2025.10.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/pi-hole.png",
+  "image": "jacklul/pihole",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

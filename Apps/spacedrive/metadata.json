@@ -4,6 +4,7 @@
   "version": "0.4.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/spacedrive/logo.png",
+  "image": "ghcr.io/spacedriveapp/spacedrive/server",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

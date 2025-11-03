@@ -4,6 +4,7 @@
   "version": "2.6.1",
   "author": "Tofil",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/music-assistant/logo.png",
+  "image": "ghcr.io/music-assistant/server",
   "category": "BigBearCasaOS",
   "port": "8095",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "v0.142.9-noble-full",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/scrypted.png",
+  "image": "koush/scrypted",
   "category": "BigBearCasaOS",
   "port": "10443",
   "documentation": "https://community.bigbeartechworld.com/t/how-to-install-scrypted-on-casaos-using-bigbearcasaos/155",

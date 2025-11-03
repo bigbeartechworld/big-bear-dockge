@@ -4,6 +4,7 @@
   "version": "2.7.3",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/jellyseerr.png",
+  "image": "fallenbagel/jellyseerr",
   "category": "BigBearCasaOS",
   "port": "5055",
   "documentation": "",

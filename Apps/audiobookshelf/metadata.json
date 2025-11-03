@@ -4,6 +4,7 @@
   "version": "2.30.0",
   "author": "advplyr",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/audiobookshelf.png",
+  "image": "ghcr.io/advplyr/audiobookshelf",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

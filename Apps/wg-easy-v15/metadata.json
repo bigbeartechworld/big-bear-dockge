@@ -4,6 +4,7 @@
   "version": "15",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/wg-easy-v15/logo.png",
+  "image": "ghcr.io/wg-easy/wg-easy",
   "category": "BigBearCasaOS",
   "port": "51821",
   "documentation": "",

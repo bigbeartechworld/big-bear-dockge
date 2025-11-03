@@ -4,6 +4,7 @@
   "version": "3.3.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/viseron/logo.png",
+  "image": "roflcoopter/viseron",
   "category": "BigBearCasaOS",
   "port": "8888",
   "documentation": "",

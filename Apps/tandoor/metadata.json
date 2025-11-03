@@ -4,6 +4,7 @@
   "version": "2.3.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/tandoor-recipes.png",
+  "image": "ghcr.io/tandoorrecipes/recipes",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

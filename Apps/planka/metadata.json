@@ -4,6 +4,7 @@
   "version": "1.26.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/planka.png",
+  "image": "ghcr.io/plankanban/planka",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

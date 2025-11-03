@@ -4,6 +4,7 @@
   "version": "4.0.0-beta.434",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/coolify/logo.png",
+  "image": "ghcr.io/coollabsio/coolify",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

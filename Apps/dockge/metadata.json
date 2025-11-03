@@ -4,6 +4,7 @@
   "version": "1.5.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dockge.png",
+  "image": "louislam/dockge",
   "category": "BigBearCasaOS",
   "port": "5001",
   "documentation": "",

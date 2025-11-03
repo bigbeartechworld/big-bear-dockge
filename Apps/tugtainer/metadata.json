@@ -4,6 +4,7 @@
   "version": "v1.4.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/docker.png",
+  "image": "quenary/tugtainer",
   "category": "BigBearCasaOS",
   "port": "9412",
   "documentation": "",

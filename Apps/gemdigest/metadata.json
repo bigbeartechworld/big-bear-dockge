@@ -4,6 +4,7 @@
   "version": "1.0",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/Piero24/GemDigest/.github/images/casOS_logo.png",
+  "image": "piero24/gemdigest",
   "category": "BigBearCasaOS",
   "port": "3333",
   "documentation": "",

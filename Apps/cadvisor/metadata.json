@@ -4,6 +4,7 @@
   "version": "v0.52.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/cadvisor.png",
+  "image": "gcr.io/cadvisor/cadvisor",
   "category": "BigBearCasaOS",
   "port": "8085",
   "documentation": "",

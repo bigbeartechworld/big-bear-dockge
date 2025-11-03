@@ -4,6 +4,7 @@
   "version": "7.11.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/focalboard.png",
+  "image": "mattermost/focalboard",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

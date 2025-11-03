@@ -4,6 +4,7 @@
   "version": "0.62.11",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/goaway.png",
+  "image": "pommee/goaway",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "https://community.bigbeartechworld.com/t/added-goaway-to-bigbearcasaos/4085",

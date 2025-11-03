@@ -4,6 +4,7 @@
   "version": "2.0.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/szabodanika/microbin@v2.0.4/templates/assets/logo-square.png",
+  "image": "danielszabo99/microbin",
   "category": "BigBearCasaOS",
   "port": "8888",
   "documentation": "https://github.com/szabodanika/microbin",

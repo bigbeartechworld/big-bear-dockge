@@ -4,6 +4,7 @@
   "version": "v25.10.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homer.png",
+  "image": "b4bz/homer",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

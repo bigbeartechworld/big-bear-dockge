@@ -4,6 +4,7 @@
   "version": "latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/lancache-net.png",
+  "image": "lancachenet/monolithic",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

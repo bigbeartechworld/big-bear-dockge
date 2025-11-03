@@ -4,6 +4,7 @@
   "version": "0.20.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/readeck.png",
+  "image": "codeberg.org/readeck/readeck",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

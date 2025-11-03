@@ -4,6 +4,7 @@
   "version": "1.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portracker.png",
+  "image": "mostafawahied/portracker",
   "category": "BigBearCasaOS",
   "port": "4999",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "4.1.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/monica.png",
+  "image": "monica",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

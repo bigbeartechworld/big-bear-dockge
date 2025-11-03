@@ -4,6 +4,7 @@
   "version": "restart-notifier-latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/docker-cron-restart-notifier/logo.png",
+  "image": "deduard/tools",
   "category": "BigBearCasaOS",
   "port": "",
   "documentation": "",

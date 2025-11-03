@@ -4,6 +4,7 @@
   "version": "1.2.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/project-management/logo.png",
+  "image": "eloufirhatim/helper",
   "category": "BigBearCasaOS",
   "port": "8000",
   "documentation": "",

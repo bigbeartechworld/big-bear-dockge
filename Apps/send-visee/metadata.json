@@ -4,6 +4,7 @@
   "version": "v3.4.27",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/send-visee.png",
+  "image": "registry.gitlab.com/timvisee/send",
   "category": "BigBearCasaOS",
   "port": "1443",
   "documentation": "",
