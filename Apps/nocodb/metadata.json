@@ -4,6 +4,7 @@
   "version": "0.265.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nocodb.png",
+  "image": "nocodb/nocodb",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "https://community.bigbeartechworld.com/t/added-nocodb-to-big-bear-casaos/177",

@@ -4,6 +4,7 @@
   "version": "v0.99.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/trilium-notes.png",
+  "image": "triliumnext/trilium",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

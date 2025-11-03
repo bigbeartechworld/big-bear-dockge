@@ -4,6 +4,7 @@
   "version": "v2.13.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/linkwarden.png",
+  "image": "ghcr.io/linkwarden/linkwarden",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

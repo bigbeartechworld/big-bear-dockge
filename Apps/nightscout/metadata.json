@@ -4,6 +4,7 @@
   "version": "15.0.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nightscout.png",
+  "image": "nightscout/cgm-remote-monitor",
   "category": "BigBearCasaOS",
   "port": "1337",
   "documentation": "",

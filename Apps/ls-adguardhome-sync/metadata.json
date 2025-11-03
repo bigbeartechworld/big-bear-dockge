@@ -4,6 +4,7 @@
   "version": "0.8.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/adguard-home.png",
+  "image": "linuxserver/adguardhome-sync",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "2.10.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/penpot/logo.jpg",
+  "image": "penpotapp/frontend",
   "category": "BigBearCasaOS",
   "port": "9001",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "1.3.6-20240823",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/ayon/logo.png",
+  "image": "ynput/ayon",
   "category": "BigBearCasaOS",
   "port": "5000",
   "documentation": "",

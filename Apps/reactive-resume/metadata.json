@@ -4,6 +4,7 @@
   "version": "v4.5.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/reactive-resume/logo.png",
+  "image": "amruthpillai/reactive-resume",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "v1.14",
   "author": "techieanant",
   "icon": "https://pocket-id.org/img/logo.png",
+  "image": "ghcr.io/pocket-id/pocket-id",
   "category": "BigBearCasaOS",
   "port": "1411",
   "documentation": "https://pocket-id.org/docs/introduction",

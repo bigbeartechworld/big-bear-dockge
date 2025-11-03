@@ -4,6 +4,7 @@
   "version": "5.2.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/upsnap.png",
+  "image": "ghcr.io/seriousm4x/upsnap",
   "category": "BigBearCasaOS",
   "port": "8090",
   "documentation": "",

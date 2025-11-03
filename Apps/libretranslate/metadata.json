@@ -4,6 +4,7 @@
   "version": "v1.7.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/libretranslate/logo.png",
+  "image": "libretranslate/libretranslate",
   "category": "BigBearCasaOS",
   "port": "5000",
   "documentation": "",
