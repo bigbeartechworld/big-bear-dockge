@@ -4,6 +4,7 @@
   "version": "1.15.0-rolling",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/brave.png",
+  "image": "kasmweb/brave",
   "category": "BigBearCasaOS",
   "port": "6901",
   "documentation": "",

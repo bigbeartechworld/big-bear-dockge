@@ -4,6 +4,7 @@
   "version": "v3.3.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/mealie.png",
+  "image": "hkotel/mealie",
   "category": "BigBearCasaOS",
   "port": "9925",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/pd3f/logo.jpg",
+  "image": "pd3f/pd3f",
   "category": "BigBearCasaOS",
   "port": "1616",
   "documentation": "",

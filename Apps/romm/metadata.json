@@ -4,6 +4,7 @@
   "version": "4.3.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/romm.png",
+  "image": "rommapp/romm",
   "category": "BigBearCasaOS",
   "port": "1080",
   "documentation": "https://github.com/rommapp/romm/wiki",

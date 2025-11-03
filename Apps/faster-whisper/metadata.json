@@ -4,6 +4,7 @@
   "version": "2.5.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/faster-whisper/logo.png",
+  "image": "linuxserver/faster-whisper",
   "category": "BigBearCasaOS",
   "port": "7575",
   "documentation": "",

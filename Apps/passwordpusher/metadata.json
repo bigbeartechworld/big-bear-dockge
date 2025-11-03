@@ -4,6 +4,7 @@
   "version": "1.62.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/password-pusher.png",
+  "image": "pglombardo/pwpush",
   "category": "BigBearCasaOS",
   "port": "5100",
   "documentation": "",

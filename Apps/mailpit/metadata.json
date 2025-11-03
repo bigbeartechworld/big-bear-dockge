@@ -4,6 +4,7 @@
   "version": "v1.27",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/mailpit/logo.png",
+  "image": "axllent/mailpit",
   "category": "BigBearCasaOS",
   "port": "8025",
   "documentation": "",

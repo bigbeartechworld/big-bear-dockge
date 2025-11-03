@@ -4,6 +4,7 @@
   "version": "v25.10.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/handbrake.png",
+  "image": "jlesage/handbrake",
   "category": "BigBearCasaOS",
   "port": "5800",
   "documentation": "",

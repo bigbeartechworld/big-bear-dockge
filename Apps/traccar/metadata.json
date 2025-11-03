@@ -4,6 +4,7 @@
   "version": "6.10-ubuntu",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/traccar.png",
+  "image": "traccar/traccar",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

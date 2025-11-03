@@ -4,6 +4,7 @@
   "version": "0.6.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/morphos/logo.png",
+  "image": "ghcr.io/danvergara/morphos-server",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

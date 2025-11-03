@@ -4,6 +4,7 @@
   "version": "1.15.0-rolling",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/google-chrome.png",
+  "image": "kasmweb/chrome",
   "category": "BigBearCasaOS",
   "port": "6902",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "8.1.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/python-matter-server/logo.png",
+  "image": "ghcr.io/home-assistant-libs/python-matter-server",
   "category": "BigBearCasaOS",
   "port": "5080",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "3.4.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/joplin.png",
+  "image": "joplin/server",
   "category": "BigBearCasaOS",
   "port": "22300",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "2.0.0-alpine",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich.png",
+  "image": "ghcr.io/imagegenius/immich",
   "category": "BigBearCasaOS",
   "port": "2283",
   "documentation": "",

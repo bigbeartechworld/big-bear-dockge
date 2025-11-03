@@ -4,6 +4,7 @@
   "version": "2025.10.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/authentik.png",
+  "image": "ghcr.io/goauthentik/server",
   "category": "BigBearCasaOS",
   "port": "9443",
   "documentation": "",

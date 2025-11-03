@@ -4,6 +4,7 @@
   "version": "v0.2.0-alpha1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/financial-freedom/logo.png",
+  "image": "serversideup/financial-freedom",
   "category": "BigBearCasaOS",
   "port": "8443",
   "documentation": "",

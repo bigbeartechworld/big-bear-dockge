@@ -4,6 +4,7 @@
   "version": "1.6.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/guacamole.png",
+  "image": "guacamole/guacamole",
   "category": "BigBearCasaOS",
   "port": "8090",
   "documentation": "",

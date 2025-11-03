@@ -4,6 +4,7 @@
   "version": "postgresql-latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/umami.png",
+  "image": "ghcr.io/umami-software/umami",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

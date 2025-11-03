@@ -4,6 +4,7 @@
   "version": "1.23.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/komga.png",
+  "image": "ghcr.io/gotson/komga",
   "category": "BigBearCasaOS",
   "port": "25600",
   "documentation": "",

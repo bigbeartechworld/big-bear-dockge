@@ -4,6 +4,7 @@
   "version": "0.7.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/beaver-habit-tracker.png",
+  "image": "daya0576/beaverhabits",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

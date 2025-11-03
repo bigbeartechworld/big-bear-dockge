@@ -4,6 +4,7 @@
   "version": "3.7.13",
   "author": "BigBearTechWorld",
   "icon": "https://github.com/bigbeartechworld/big-bear-casaos/assets/1289128/3b655316-f72c-4b89-8138-0abee624e9b8",
+  "image": "ghcr.io/diced/zipline",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

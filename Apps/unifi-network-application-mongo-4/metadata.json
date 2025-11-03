@@ -4,6 +4,7 @@
   "version": "9.5.21",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ubiquiti-unifi.png",
+  "image": "linuxserver/unifi-network-application",
   "category": "BigBearCasaOS",
   "port": "8443",
   "documentation": "",

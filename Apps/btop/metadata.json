@@ -4,6 +4,7 @@
   "version": "0.1.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/aristocratos/btop/Img/icon.png",
+  "image": "bigbeartechworld/big-bear-btop",
   "category": "BigBearCasaOS",
   "port": "7681",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "3.3.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/matterbridge.png",
+  "image": "luligu/matterbridge",
   "category": "BigBearCasaOS",
   "port": "8283",
   "documentation": "",
