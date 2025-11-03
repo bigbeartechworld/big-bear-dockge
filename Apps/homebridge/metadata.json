@@ -4,6 +4,7 @@
   "version": "2024-05-02",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homebridge.png",
+  "image": "homebridge/homebridge",
   "category": "BigBearCasaOS",
   "port": "8581",
   "documentation": "",

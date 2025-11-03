@@ -4,6 +4,7 @@
   "version": "240915",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/photoprism.png",
+  "image": "photoprism/photoprism",
   "category": "BigBearCasaOS",
   "port": "2342",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "v4.64.0",
   "author": "BigBearTechWorld",
   "icon": "https://gladysassistant.com/img/external/github-gladys-logo.png",
+  "image": "gladysassistant/gladys",
   "category": "BigBearCasaOS",
   "port": "1080",
   "documentation": "",

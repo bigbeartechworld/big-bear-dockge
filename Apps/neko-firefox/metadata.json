@@ -4,6 +4,7 @@
   "version": "firefox",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/neko.png",
+  "image": "m1k1o/neko",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

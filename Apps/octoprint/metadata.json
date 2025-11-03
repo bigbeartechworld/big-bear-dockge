@@ -4,6 +4,7 @@
   "version": "1.11.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/octoprint.png",
+  "image": "octoprint/octoprint",
   "category": "BigBearCasaOS",
   "port": "1080",
   "documentation": "",

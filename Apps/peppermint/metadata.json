@@ -4,6 +4,7 @@
   "version": "latest",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/peppermint/logo.png",
+  "image": "pepperlabs/peppermint",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

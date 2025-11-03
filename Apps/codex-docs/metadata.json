@@ -4,6 +4,7 @@
   "version": "v2.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/codex-docs/logo.jpg",
+  "image": "ghcr.io/codex-team/codex.docs",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

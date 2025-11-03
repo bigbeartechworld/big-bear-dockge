@@ -4,6 +4,7 @@
   "version": "1.5.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/stirling-pdf/logo.png",
+  "image": "stirlingtools/stirling-pdf",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "https://community.bigbeartechworld.com/t/added-stirling-pdf-to-bigbearcasaos/2265#p-4248-documentation-3",

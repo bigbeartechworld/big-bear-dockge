@@ -4,6 +4,7 @@
   "version": "1.6.9",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/alexjustesen/speedtest-tracker/public/img/speedtest-tracker-icon.png",
+  "image": "linuxserver/speedtest-tracker",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

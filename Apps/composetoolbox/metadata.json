@@ -4,6 +4,7 @@
   "version": "latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bluegoosemedia/composetoolbox@498d1527dcf9cc6422300216df6244ea79ae3630/public/favicon.png",
+  "image": "ghcr.io/bluegoosemedia/composetoolbox",
   "category": "BigBearCasaOS",
   "port": "3002",
   "documentation": "https://github.com/bluegoosemedia/composetoolbox",

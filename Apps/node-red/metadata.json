@@ -4,6 +4,7 @@
   "version": "4.1.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/node-red.png",
+  "image": "nodered/node-red",
   "category": "BigBearCasaOS",
   "port": "1880",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "4.4.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/rallly.png",
+  "image": "lukevella/rallly",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "https://community.bigbeartechworld.com/t/added-rallly-to-bigbearcasaos/1012#instructions-3",

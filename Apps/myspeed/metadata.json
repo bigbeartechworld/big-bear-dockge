@@ -4,6 +4,7 @@
   "version": "1.0.9",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/myspeed/logo.png",
+  "image": "germannewsmaker/myspeed",
   "category": "BigBearCasaOS",
   "port": "5216",
   "documentation": "",

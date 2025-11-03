@@ -4,8 +4,9 @@
   "version": "2.5.7",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/poste.png",
+  "image": "analogic/poste.io",
   "category": "BigBearCasaOS",
-  "port": "80",
+  "port": "8080",
   "documentation": "",
   "source": ""
 }

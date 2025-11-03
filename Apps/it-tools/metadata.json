@@ -4,6 +4,7 @@
   "version": "2023.11.2-7d94e11",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/it-tools.png",
+  "image": "corentinth/it-tools",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

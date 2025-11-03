@@ -4,6 +4,7 @@
   "version": "5.15",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/omada.png",
+  "image": "mbentley/omada-controller",
   "category": "BigBearCasaOS",
   "port": "8088",
   "documentation": "",

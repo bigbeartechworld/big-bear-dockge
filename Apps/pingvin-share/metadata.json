@@ -4,6 +4,7 @@
   "version": "v1.13.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/pingvin-share.png",
+  "image": "stonith404/pingvin-share",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "2.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/syncthing.png",
+  "image": "syncthing/syncthing",
   "category": "BigBearCasaOS",
   "port": "8384",
   "documentation": "",

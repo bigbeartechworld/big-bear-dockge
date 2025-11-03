@@ -4,6 +4,7 @@
   "version": "6.1.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ihatemoney.png",
+  "image": "ihatemoney/ihatemoney",
   "category": "BigBearCasaOS",
   "port": "8001",
   "documentation": "",

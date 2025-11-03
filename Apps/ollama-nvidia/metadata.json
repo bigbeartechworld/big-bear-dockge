@@ -1,9 +1,10 @@
 {
   "name": "Ollama - NVIDIA",
   "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
-  "version": "0.12.6",
+  "version": "0.12.7",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ollama.png",
+  "image": "ollama/ollama",
   "category": "BigBearCasaOS",
   "port": "11434",
   "documentation": "",

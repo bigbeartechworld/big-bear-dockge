@@ -4,6 +4,7 @@
   "version": "5.12.28",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/invoice-ninja.png",
+  "image": "invoiceninja/invoiceninja",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

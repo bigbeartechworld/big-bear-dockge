@@ -4,6 +4,7 @@
   "version": "0.16",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/write-freely/logo.png",
+  "image": "nephatrine/write-freely",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "v1.4.1",
   "author": "BigBearTechWorld",
   "icon": "https://i.imgur.com/UgjalkK.png",
+  "image": "mrcas/mind",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

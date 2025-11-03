@@ -4,6 +4,7 @@
   "version": "v2.44.2-s6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/filebrowser-quantum.png",
+  "image": "filebrowser/filebrowser",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

@@ -4,6 +4,7 @@
   "version": "15.7.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/piwigo.png",
+  "image": "linuxserver/piwigo",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",

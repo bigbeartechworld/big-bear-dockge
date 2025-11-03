@@ -4,6 +4,7 @@
   "version": "0.10.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/plant-it/logo.png",
+  "image": "msdeluise/plant-it-server",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",
