@@ -1,7 +1,7 @@
 {
   "name": "Ollama - CPU",
   "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
-  "version": "0.12.7",
+  "version": "0.12.9",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ollama.png",
   "image": "ollama/ollama",
