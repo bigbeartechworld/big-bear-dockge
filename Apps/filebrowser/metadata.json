@@ -3,7 +3,7 @@
   "description": "Reliable and Performant File Management Desktop Sync and File Sharing Tool.",
   "version": "v2.45.0-s6",
   "author": "BigBearTechWorld",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/filebrowser-quantum.png",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/file-browser.png",
   "image": "filebrowser/filebrowser",
   "category": "BigBearCasaOS",
   "port": "8080",
