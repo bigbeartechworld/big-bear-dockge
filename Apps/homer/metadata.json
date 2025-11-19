@@ -1,7 +1,7 @@
 {
   "name": "Homer",
   "description": "A dead simple static HOMepage for your servER to keep your services on hand, from a simple yaml configuration file.",
-  "version": "v25.10.1",
+  "version": "v25.11.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/homer.png",
   "image": "b4bz/homer",
