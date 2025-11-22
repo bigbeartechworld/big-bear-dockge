@@ -1,7 +1,7 @@
 {
   "name": "Gluetun",
   "description": "Lightweight swiss-knife-like VPN client to multiple VPN service providers",
-  "version": "v3.40.1",
+  "version": "v3.40.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/gluetun.png",
   "image": "qmcgaw/gluetun",
