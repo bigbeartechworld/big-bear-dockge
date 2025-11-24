@@ -1,7 +1,7 @@
 {
   "name": "Upsnap",
   "description": "A simple wake on lan web app written with SvelteKit, Go and PocketBase.",
-  "version": "5.2.3",
+  "version": "5.2.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/upsnap.png",
   "image": "ghcr.io/seriousm4x/upsnap",
