@@ -1,7 +1,7 @@
 {
   "name": "Portracker",
   "description": "A self-hosted, real-time port monitoring and discovery tool that automatically discovers and maps network services across systems.",
-  "version": "1.1",
+  "version": "1.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portracker.png",
   "image": "mostafawahied/portracker",
