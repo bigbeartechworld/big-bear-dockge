@@ -3,7 +3,7 @@
   "description": "OpenVPN is an open-source commercial software that implements virtual private network (VPN) techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities.",
   "version": "2.13.1-d8cdeb9c-Ubuntu22",
   "author": "BigBearCommunity",
-  "icon": "https://static-00.iconduck.com/assets.00/openvpn-icon-512x512-nmf6geqm.png",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/openvpn.png",
   "image": "openvpn/openvpn-as",
   "category": "BigBearCasaOS",
   "port": "943",
