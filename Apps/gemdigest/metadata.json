@@ -1,12 +1,24 @@
 {
   "name": "GemDigest Bot",
+  "id": "GemDigest",
   "description": "Simplify your reads, amplify your time! 📚✨ GemDigest is a Telegram bot that summarizes articles from any website into bite-sized nuggets, saving you time and energy for what matters most. 📱👋",
-  "version": "1.0",
-  "author": "BigBearCommunity",
+  "tagline": "Your personal article summarizer",
   "icon": "https://cdn.jsdelivr.net/gh/Piero24/GemDigest/.github/images/casOS_logo.png",
-  "image": "piero24/gemdigest",
+  "thumbnail": "",
+  "author": "BigBearCommunity",
+  "developer": "Armaggheddon",
   "category": "BigBearCasaOS",
+  "version": "1.0",
+  "image": "piero24/gemdigest",
   "port": "3333",
-  "documentation": "",
-  "source": ""
+  "youtube": "",
+  "docs": "",
+  "tags": [
+    "selfhosted",
+    "docker",
+    "bigbear",
+    "bigbearcasaos"
+  ],
+  "created": "2025-10-26T01:36:56Z",
+  "source": "big-bear-casaos"
 }
