@@ -1,7 +1,7 @@
 {
   "name": "LobeChat",
   "description": "LobeChat is a open-source, extensible (Function Calling), high-performance chatbot framework. It supports one-click free deployment of your private ChatGPT/LLM web application.",
-  "version": "1.143.0",
+  "version": "1.143.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/lobe-chat.png",
   "image": "lobehub/lobe-chat",
