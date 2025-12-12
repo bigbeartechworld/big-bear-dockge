@@ -1,7 +1,7 @@
 {
   "name": "Zigbee to MQTT bridge",
   "description": "Zigbee to MQTT bridge, get rid of your proprietary Zigbee bridges",
-  "version": "2.7.0",
+  "version": "2.7.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/zigbee2mqtt.png",
   "image": "koenkk/zigbee2mqtt",
