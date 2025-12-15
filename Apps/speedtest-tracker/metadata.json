@@ -1,7 +1,7 @@
 {
   "name": "Speedtest Tracker",
   "description": "A Docker image to check your internet speed using Ookla's Speedtest service. Build using Laravel and the Speedtest CLI.",
-  "version": "1.12.2",
+  "version": "1.12.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/alexjustesen/speedtest-tracker/public/img/speedtest-tracker-icon.png",
   "image": "linuxserver/speedtest-tracker",
