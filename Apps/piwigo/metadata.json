@@ -1,7 +1,7 @@
 {
   "name": "Piwigo",
   "description": "Piwigo is a photo gallery software for the web that comes with powerful features to publish and manage your collection of pictures.",
-  "version": "15.7.0",
+  "version": "16.1.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/piwigo.png",
   "image": "linuxserver/piwigo",
