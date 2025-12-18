@@ -1,7 +1,7 @@
 {
   "name": "Viseron",
   "description": "Viseron is a self-hosted, local only NVR and AI Computer Vision software",
-  "version": "3.3.1",
+  "version": "3.4.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/viseron/logo.png",
   "image": "roflcoopter/viseron",
