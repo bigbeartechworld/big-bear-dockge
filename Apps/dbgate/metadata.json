@@ -1,7 +1,7 @@
 {
   "name": "DBGate",
   "description": "Web based UI for managing and exploring SQL database data",
-  "version": "6.8.0-alpine",
+  "version": "6.8.1-alpine",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/dbgate/logo.png",
   "image": "dbgate/dbgate",

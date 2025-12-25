@@ -1,7 +1,7 @@
 {
   "name": "Jlesage Handbrake",
   "description": "The GUI of the application is accessed through a modern web browser (no installation or configuration needed on the client side) or via any VNC client.",
-  "version": "v25.12.1",
+  "version": "v25.12.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/handbrake.png",
   "image": "jlesage/handbrake",

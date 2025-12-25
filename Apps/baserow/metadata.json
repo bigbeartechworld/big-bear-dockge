@@ -1,7 +1,7 @@
 {
   "name": "Baserow",
   "description": "Create your own online database without technical experience. Our user-friendly no-code tool gives you the powers of a developer without leaving your browser.",
-  "version": "2.0.5",
+  "version": "2.0.6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/baserow.png",
   "image": "baserow/baserow",
