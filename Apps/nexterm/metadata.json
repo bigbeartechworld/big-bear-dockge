@@ -1,7 +1,7 @@
 {
   "name": "Nexterm",
   "description": "The open source server management software for SSH, VNC & RDP. This is in Preview Release.",
-  "version": "1.0.6-OPEN-PREVIEW",
+  "version": "1.0.7-OPEN-PREVIEW",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/nexterm/logo.png",
   "image": "germannewsmaker/nexterm",
