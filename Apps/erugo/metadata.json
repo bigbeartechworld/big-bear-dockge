@@ -1,7 +1,7 @@
 {
   "name": "Erugo",
   "description": "A powerful, self-hosted file-sharing platform built with PHP and Laravel with a Vue.js frontend. It offers secure, customizable file-transfer capabilities through an elegant user interface, giving you complete control over your data while providing a seamless experience for both senders and recipients.",
-  "version": "0.1.2",
+  "version": "0.2.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/erugo.png",
   "image": "wardy784/erugo",
