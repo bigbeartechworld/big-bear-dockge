@@ -1,7 +1,7 @@
 {
   "name": "Trilium",
   "description": "Build your personal knowledge base with Trilium Notes",
-  "version": "v0.100.0",
+  "version": "v0.101.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/trilium-notes.png",
   "image": "triliumnext/trilium",
