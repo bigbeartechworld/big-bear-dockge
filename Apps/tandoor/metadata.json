@@ -1,7 +1,7 @@
 {
   "name": "Tandoor",
   "description": "Drop your collection of links and notes. Get Tandoor and never look back onto a time without recipe management, storage, sharing and collaborative cooking!",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/tandoor-recipes.png",
   "image": "ghcr.io/tandoorrecipes/recipes",
