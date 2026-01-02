@@ -1,7 +1,7 @@
 {
   "name": "Home Assistant",
   "description": "Open source home automation that puts local control and privacy first. Powered by a worldwide community of tinkerers and DIY enthusiasts. Perfect to run on a Raspberry Pi or a local server.",
-  "version": "2025.11.2",
+  "version": "2025.12.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/home-assistant.png",
   "image": "ghcr.io/home-assistant/home-assistant",
