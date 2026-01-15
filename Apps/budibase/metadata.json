@@ -1,7 +1,7 @@
 {
   "name": "Budibase",
   "description": "Low code platform for creating internal tools, workflows, and admin panels in minutes. Supports PostgreSQL, MySQL, MSSQL, MongoDB, Rest API, Docker, K8s, and more 🚀. Budibase, the low code platform you'll enjoy using ⚡",
-  "version": "3.23.47",
+  "version": "3.24.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/budibase.png",
   "image": "budibase/budibase",
