@@ -1,7 +1,7 @@
 {
   "name": "Ollama - AMD",
   "description": "Get up and running with Llama 3, Mistral, Gemma, and other large language models.",
-  "version": "0.15.0-rocm",
+  "version": "0.15.2-rocm",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ollama.png",
   "image": "ollama/ollama",
