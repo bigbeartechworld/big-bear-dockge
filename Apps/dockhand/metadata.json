@@ -1,0 +1,12 @@
+{
+  "name": "Dockhand",
+  "description": "Modern, efficient Docker management application providing real-time container management, Compose stack orchestration, and multi-environment support. Features include interactive terminal access, file browser, Git integration, and SSO via OIDC. All in a lightweight, secure and privacy-focused package.",
+  "version": "latest",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dockhand.png",
+  "image": "fnsys/dockhand",
+  "category": "BigBearCasaOS",
+  "port": "3003",
+  "documentation": "https://dockhand.pro/manual/",
+  "source": "https://github.com/Finsys/dockhand"
+}
