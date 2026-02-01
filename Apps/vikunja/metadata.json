@@ -1,7 +1,7 @@
 {
   "name": "Vikunja",
   "description": "The open-source, self-hostable to-do app. Organize everything, on all platforms.",
-  "version": "0.24.6",
+  "version": "1.0.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/vikunja.png",
   "image": "vikunja/vikunja",
