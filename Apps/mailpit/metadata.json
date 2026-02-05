@@ -1,7 +1,7 @@
 {
   "name": "Mailpit",
   "description": "Mailpit is a multi-platform email testing tool & API for developers.",
-  "version": "v1.28",
+  "version": "v1.29",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/mailpit/logo.png",
   "image": "axllent/mailpit",
