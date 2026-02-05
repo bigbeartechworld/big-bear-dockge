@@ -1,7 +1,7 @@
 {
   "name": "Faster-whisper",
   "description": "Faster-whisper is a reimplementation of OpenAI's Whisper model using CTranslate2, which is a fast inference engine for Transformer models. This container provides a Wyoming protocol server for faster-whisper.",
-  "version": "3.0.2",
+  "version": "3.1.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/faster-whisper/logo.png",
   "image": "linuxserver/faster-whisper",
