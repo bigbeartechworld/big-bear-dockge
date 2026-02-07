@@ -1,7 +1,7 @@
 {
   "name": "Flowise AI",
   "description": "Flowise AI is an Open source UI visual tool to build your customized LLM orchestration flow & AI agents. Developing LLM apps takeslength iterations. With low code approach, Flowise AI enable quick iterations to go from testing to production.",
-  "version": "3.0.12",
+  "version": "3.0.13",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/flowise/logo.png",
   "image": "flowiseai/flowise",
