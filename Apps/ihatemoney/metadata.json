@@ -1,7 +1,7 @@
 {
   "name": "I Hate Money",
   "description": "I hate money is a web application made to ease shared budget management. It keeps track of who bought what, when, and for whom; and helps to settle the bills.",
-  "version": "6.1.5",
+  "version": "7.0.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ihatemoney.png",
   "image": "ihatemoney/ihatemoney",
