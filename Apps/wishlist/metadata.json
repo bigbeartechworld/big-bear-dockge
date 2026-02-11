@@ -1,7 +1,7 @@
 {
   "name": "Wishlist",
   "description": "Wishlist is a self-hosted wishlist application that you can share with your friends and family. You no longer have to wonder what to get your family for the holidays, simply check their wishlist and claim any available item!",
-  "version": "v0.58.0",
+  "version": "v0.60.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/wishlist/logo.png",
   "image": "ghcr.io/cmintey/wishlist",
