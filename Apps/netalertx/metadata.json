@@ -1,7 +1,7 @@
 {
   "name": "NetAlertX",
   "description": "WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found.",
-  "version": "26.2.4",
+  "version": "26.2.6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/pi-alert.png",
   "image": "jokobsk/netalertx",
