@@ -1,7 +1,7 @@
 {
   "name": "Jlesage Firefox",
   "description": "The GUI of the application is accessed through a modern web browser (no installation or configuration needed on the client side) or via any VNC client.",
-  "version": "v26.01.1",
+  "version": "v26.02.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/firefox.png",
   "image": "jlesage/firefox",
