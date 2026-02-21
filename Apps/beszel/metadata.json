@@ -1,7 +1,7 @@
 {
   "name": "Beszel",
   "description": "A lightweight server resource monitoring hub with historical data, docker stats, and alerts.",
-  "version": "0.18.3",
+  "version": "0.18.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/beszel/logo.jpg",
   "image": "henrygd/beszel",
