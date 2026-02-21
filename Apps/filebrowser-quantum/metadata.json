@@ -3,7 +3,7 @@
   "description": "A self-hosted web file manager forked from FileBrowser with advanced features including OIDC authentication, indexed search, office document previews, and multi-source support.",
   "version": "1.1.2-stable",
   "author": "BigBearCommunity",
-  "icon": "https://cdn.jsdelivr.net/gh/gtsteffaniak/filebrowser@main/frontend/public/img/logo.svg",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/filebrowser-quantum.png",
   "image": "gtstef/filebrowser",
   "category": "BigBearCasaOS",
   "port": "8700",
