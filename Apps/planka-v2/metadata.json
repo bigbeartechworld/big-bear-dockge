@@ -1,12 +1,12 @@
 {
-  "name": "Planka (Legacy)",
+  "name": "Planka v2",
   "description": "The realtime kanban board for workgroups built with React and Redux.",
-  "version": "1.26.3",
+  "version": "2.0.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/planka.png",
   "image": "ghcr.io/plankanban/planka",
   "category": "BigBearCasaOS",
-  "port": "3000",
-  "documentation": "",
+  "port": "3001",
+  "documentation": "https://docs.planka.cloud/docs/upgrade-to-v2/docker/",
   "source": ""
 }
