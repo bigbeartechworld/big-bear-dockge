@@ -1,7 +1,7 @@
 {
   "name": "Traccar",
   "description": "Traccar GPS Tracking System in Docker image.",
-  "version": "6.11-ubuntu",
+  "version": "6.12-ubuntu",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/traccar.png",
   "image": "traccar/traccar",
