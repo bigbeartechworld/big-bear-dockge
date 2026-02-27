@@ -1,7 +1,7 @@
 {
   "name": "Genmon",
   "description": "Generac (and other models) Generator Monitoring using a Raspberry Pi and WiFi",
-  "version": "1.19.06",
+  "version": "1.19.08",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/genmon/logo.jpeg",
   "image": "bigbeartechworld/big-bear-genmon",
