@@ -1,7 +1,7 @@
 {
   "name": "FileBrowser Quantum",
   "description": "A self-hosted web file manager forked from FileBrowser with advanced features including OIDC authentication, indexed search, office document previews, and multi-source support.",
-  "version": "1.2.0-stable",
+  "version": "1.2.1-stable",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/filebrowser-quantum.png",
   "image": "gtstef/filebrowser",

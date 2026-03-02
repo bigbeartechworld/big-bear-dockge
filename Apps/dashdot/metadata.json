@@ -1,7 +1,7 @@
 {
   "name": "Dashdot",
   "description": "About A simple, modern server dashboard, primarily used by smaller private servers.",
-  "version": "6.3.0",
+  "version": "6.3.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashdot.png",
   "image": "mauricenino/dashdot",
