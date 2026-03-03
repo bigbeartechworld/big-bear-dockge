@@ -1,7 +1,7 @@
 {
   "name": "LS Adguard Home Sync",
   "description": "🛡️ Synchronize AdGuard Home config to replicas. This is the LinuxServer version.",
-  "version": "0.8.2",
+  "version": "0.9.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/adguard-home.png",
   "image": "linuxserver/adguardhome-sync",
