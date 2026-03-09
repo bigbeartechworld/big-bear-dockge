@@ -1,7 +1,7 @@
 {
   "name": "Microbin",
   "description": "Self-hosted, encrypted pastebin alternative with configurable features.",
-  "version": "2.1.2",
+  "version": "2.1.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/szabodanika/microbin@v2.0.4/templates/assets/logo-square.png",
   "image": "danielszabo99/microbin",
