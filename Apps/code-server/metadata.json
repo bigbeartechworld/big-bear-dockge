@@ -1,7 +1,7 @@
 {
   "name": "Code Server",
   "description": "Run VS Code on any machine anywhere and access it in the browser.",
-  "version": "4.109.5",
+  "version": "4.110.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/coder.png",
   "image": "linuxserver/code-server",
