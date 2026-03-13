@@ -1,7 +1,7 @@
 {
   "name": "Dashy",
   "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place",
-  "version": "3.1.6",
+  "version": "3.1.8",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashy.png",
   "image": "lissy93/dashy",
