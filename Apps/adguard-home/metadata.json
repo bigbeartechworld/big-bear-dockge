@@ -7,6 +7,6 @@
   "image": "adguard/adguardhome",
   "category": "BigBearCasaOS",
   "port": "8080",
-  "documentation": "",
-  "source": ""
+  "documentation": "https://github.com/AdguardTeam/AdGuardHome/wiki",
+  "source": "https://github.com/AdguardTeam/AdGuardHome"
 }
