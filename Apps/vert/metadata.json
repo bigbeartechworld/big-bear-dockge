@@ -5,7 +5,7 @@
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/vert.png",
   "image": "ghcr.io/vert-sh/vert",
-  "category": "BigBearUniversalApps",
+  "category": "BigBearCasaOS",
   "port": "3030",
   "documentation": "https://github.com/VERT-sh/VERT/blob/main/docs/DOCKER.md",
   "source": "https://github.com/VERT-sh/VERT"
