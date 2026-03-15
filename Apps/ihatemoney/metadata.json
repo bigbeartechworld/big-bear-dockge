@@ -3,7 +3,7 @@
   "description": "I hate money is a web application made to ease shared budget management. It keeps track of who bought what, when, and for whom; and helps to settle the bills.",
   "version": "7.0.1",
   "author": "BigBearTechWorld",
-  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ihatemoney.png",
+  "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/ihatemoney.png",
   "image": "ihatemoney/ihatemoney",
   "category": "BigBearCasaOS",
   "port": "8001",

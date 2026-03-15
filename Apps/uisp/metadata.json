@@ -3,7 +3,7 @@
   "description": "All-in-one docker image for Ubiquiti UISP (formerly UNMS). Supports x86_64 and ARM (Raspberry Pi).",
   "version": "2.4.155.1",
   "author": "BigBearTechWorld",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-icons/Apps/uisp/logo.png",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/uisp/logo.png",
   "image": "nico640/docker-unms",
   "category": "BigBearCasaOS",
   "port": "10443",

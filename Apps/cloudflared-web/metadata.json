@@ -7,6 +7,6 @@
   "image": "wisdomsky/cloudflared-web",
   "category": "BigBearCasaOS",
   "port": "14333",
-  "documentation": "",
-  "source": ""
+  "documentation": "https://github.com/wisdomsky/cloudflared-web",
+  "source": "https://github.com/wisdomsky/cloudflared-web"
 }
