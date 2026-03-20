@@ -1,7 +1,7 @@
 {
   "name": "Immich without machine learning",
   "description": "Self-hosted photo and video storage. This does not include the machine learning part.",
-  "version": "v2.5.6",
+  "version": "v2.6.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich.png",
   "image": "ghcr.io/immich-app/immich-server",
