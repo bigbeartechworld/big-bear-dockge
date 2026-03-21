@@ -1,7 +1,7 @@
 {
   "name": "Portainer",
   "description": "Irrespective of your industry, orchestration platform, or computing device, Portainer is the most versatile container management software that simplifies your secure adoption of containers with remarkable speed.",
-  "version": "2.39.0-alpine",
+  "version": "2.39.1-alpine",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/portainer.png",
   "image": "portainer/portainer-ce",
