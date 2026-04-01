@@ -1,7 +1,7 @@
 {
   "name": "Invoice Ninja",
   "description": "Invoice Ninja is a free and open-source invoice and expense management system. It is a web-based application that allows you to create, manage, and track invoices and expenses.",
-  "version": "5.13.9",
+  "version": "5.13.11",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/invoice-ninja.png",
   "image": "invoiceninja/invoiceninja",
