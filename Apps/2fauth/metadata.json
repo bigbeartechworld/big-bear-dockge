@@ -1,7 +1,7 @@
 {
   "name": "2FAuth",
   "description": "A Web app to manage your Two-Factor Authentication (2FA) accounts and generate their security codes",
-  "version": "6.1.2",
+  "version": "6.1.3",
   "author": "BigBearTechWorld",
   "icon": "https://user-images.githubusercontent.com/1289128/276442834-bdb528d0-78fa-4155-ba15-7165d88b9836.png",
   "image": "2fauth/2fauth",
