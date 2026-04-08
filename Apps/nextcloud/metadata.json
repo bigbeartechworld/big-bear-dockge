@@ -1,7 +1,7 @@
 {
   "name": "Nextcloud",
   "description": "Nextcloud puts your data at your fingertips, under your control. Store your documents, calendar, contacts and photos on a server at home, at one of our providers or in a data center you trust.",
-  "version": "33.0.0",
+  "version": "33.0.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nextcloud.png",
   "image": "bigbeartechworld/big-bear-nextcloud-with-smbclient",
