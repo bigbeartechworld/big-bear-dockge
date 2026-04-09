@@ -1,7 +1,7 @@
 {
   "name": "Appsmith",
   "description": "Low code project to build admin panels, internal tools, and dashboards, integrating 15+ databases.",
-  "version": "v1.73.1",
+  "version": "v1.98.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/appsmithorg/appsmith/static/logo.png",
   "image": "appsmith/appsmith-ce",
