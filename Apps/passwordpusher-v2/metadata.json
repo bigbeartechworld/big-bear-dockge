@@ -1,12 +1,12 @@
 {
-  "name": "Password Pusher (Legacy)",
+  "name": "Password Pusher v2",
   "description": "Password Pusher is an open source application to communicate passwords over the web. Links to passwords expire after a certain number of views and/or time has passed.",
-  "version": "1.69.3",
+  "version": "2.2.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/password-pusher.png",
   "image": "pglombardo/pwpush",
   "category": "BigBearCasaOS",
-  "port": "5100",
-  "documentation": "",
+  "port": "5101",
+  "documentation": "https://docs.pwpush.com/docs/upgrading/",
   "source": ""
 }

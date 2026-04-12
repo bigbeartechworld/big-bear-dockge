@@ -1,12 +1,12 @@
 {
-  "name": "FarmOS (Legacy)",
+  "name": "FarmOS v4",
   "description": "farmOS is a web-based application for farm management, planning, and record keeping. It is developed by a community of volunteers and aims to provide a standard platform for farmers, developers, and researchers to build upon.",
-  "version": "3.5.1",
+  "version": "4.0.0",
   "author": "BigBearTechWorld",
-  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/farmos/logo.jpeg",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/farmos-v4/logo.jpeg",
   "image": "farmos/farmos",
   "category": "BigBearCasaOS",
-  "port": "8080",
-  "documentation": "",
+  "port": "8083",
+  "documentation": "https://farmos.org/hosting/install/",
   "source": ""
 }
