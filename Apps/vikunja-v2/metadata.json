@@ -1,12 +1,12 @@
 {
-  "name": "Vikunja (Legacy)",
+  "name": "Vikunja v2",
   "description": "The open-source, self-hostable to-do app. Organize everything, on all platforms.",
-  "version": "1.1.0",
+  "version": "2.3.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/vikunja.png",
   "image": "vikunja/vikunja",
   "category": "BigBearCasaOS",
-  "port": "8081",
-  "documentation": "",
+  "port": "8082",
+  "documentation": "https://vikunja.io/docs/api-login-session-migration/",
   "source": ""
 }
