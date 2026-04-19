@@ -1,7 +1,7 @@
 {
   "name": "Planka v2",
   "description": "The realtime kanban board for workgroups built with React and Redux.",
-  "version": "2.0.1",
+  "version": "2.1.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/planka.png",
   "image": "ghcr.io/plankanban/planka",
