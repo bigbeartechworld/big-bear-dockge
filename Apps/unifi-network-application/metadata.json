@@ -1,7 +1,7 @@
 {
   "name": "Unifi Network Application",
   "description": "The Unifi-network-application software is a powerful, enterprise wireless software engine ideal for high-density client deployments requiring low latency and high uptime performance.",
-  "version": "10.1.89",
+  "version": "10.3.55",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ubiquiti-unifi.png",
   "image": "linuxserver/unifi-network-application",
