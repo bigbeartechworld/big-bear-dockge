@@ -1,7 +1,7 @@
 {
   "name": "Immich Kiosk",
   "description": "Immich Kiosk is a lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source.",
-  "version": "0.36.3",
+  "version": "0.37.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich-kiosk.png",
   "image": "ghcr.io/damongolding/immich-kiosk",
