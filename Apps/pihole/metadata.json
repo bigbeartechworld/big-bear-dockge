@@ -1,7 +1,7 @@
 {
   "name": "Pi-hole",
   "description": "The Pi-hole® is a DNS sinkhole that protects your devices from unwanted content without installing any client-side software.",
-  "version": "2026.04.0",
+  "version": "2026.04.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/pi-hole.png",
   "image": "pihole/pihole",
