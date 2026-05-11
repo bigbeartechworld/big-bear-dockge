@@ -1,0 +1,12 @@
+{
+  "name": "Gitea",
+  "description": "Gitea is a painless self-hosted all-in-one software development service. It includes Git hosting, code review, team collaboration, package registry, and CI/CD. It is similar to GitHub, Bitbucket and GitLab.",
+  "version": "1.26.1",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/gitea.png",
+  "image": "gitea/gitea",
+  "category": "BigBearCasaOS",
+  "port": "3000",
+  "documentation": "https://docs.gitea.com/",
+  "source": "https://github.com/go-gitea/gitea"
+}
