@@ -1,12 +1,12 @@
 {
-  "name": "Dashy (Legacy)",
+  "name": "Dashy v4",
   "description": "Dashy helps you organize your self-hosted services by making them accessible from a single place",
-  "version": "3.3.1",
+  "version": "4.0.8",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/dashy.png",
   "image": "lissy93/dashy",
   "category": "BigBearCasaOS",
-  "port": "4000",
-  "documentation": "",
+  "port": "4001",
+  "documentation": "https://github.com/Lissy93/dashy/blob/master/docs/changelog.md",
   "source": ""
 }
