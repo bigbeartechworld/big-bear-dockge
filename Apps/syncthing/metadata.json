@@ -1,7 +1,7 @@
 {
   "name": "Syncthing",
   "description": "Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers. We strive to fulfill the goals below. The goals are listed in order of importance, the most important one being the first.",
-  "version": "2.0",
+  "version": "2.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/syncthing.png",
   "image": "syncthing/syncthing",
