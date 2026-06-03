@@ -1,7 +1,7 @@
 {
   "name": "Pi-hole and Unbound",
   "description": "This is a custom pihole and unbound setup.",
-  "version": "2026.04.0",
+  "version": "2026.05.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/pi-hole-unbound.png",
   "image": "bigbeartechworld/big-bear-pihole-unbound",
