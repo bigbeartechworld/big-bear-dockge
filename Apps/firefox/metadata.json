@@ -1,7 +1,7 @@
 {
   "name": "Firefox",
   "description": "This Image contains a browser-accessible version of Firefox.",
-  "version": "1151.0.2",
+  "version": "1151.0.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/firefox.png",
   "image": "lscr.io/linuxserver/firefox",
