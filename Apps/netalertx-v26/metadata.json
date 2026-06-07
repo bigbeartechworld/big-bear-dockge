@@ -1,7 +1,7 @@
 {
   "name": "NetAlertX v26",
   "description": "WIFI / LAN intruder detector. Scans for devices connected to your network and alerts you if new and unknown devices are found. WARNING: v26 has breaking changes from previous versions — volume paths changed from /app/config and /app/db to /data/config and /data/db. Existing data will NOT be migrated automatically. See the migration docs before upgrading.",
-  "version": "26.5.4",
+  "version": "26.6.3",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/pi-alert.png",
   "image": "jokobsk/netalertx",
