@@ -1,7 +1,7 @@
 {
   "name": "OneDev",
   "description": "Self-hosted Git Server with Kanban and CI/CD",
-  "version": "15.1.4",
+  "version": "15.1.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/onedev.png",
   "image": "1dev/server",
