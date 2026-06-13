@@ -1,7 +1,7 @@
 {
   "name": "Playit Docker Web",
   "description": "Playit.gg is a global proxy that allows anyone to host a server without port forwarding. We use tunneling. Only the server needs to run the program, not every player!",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/playit-docker-web/logo.png",
   "image": "wisdomsky/playit-docker-web",
