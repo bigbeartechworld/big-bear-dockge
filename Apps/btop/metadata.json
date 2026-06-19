@@ -1,7 +1,7 @@
 {
   "name": "btop",
   "description": "A monitor of resources. Software made by Aristocratos at https://github.com/aristocratos/btop",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/aristocratos/btop/Img/icon.png",
   "image": "bigbeartechworld/big-bear-btop",
