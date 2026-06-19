@@ -1,7 +1,7 @@
 {
   "name": "RomM",
   "description": "ROM manager for organizing, enriching, and playing retro games, with support for 400+ platforms.",
-  "version": "4.9.0",
+  "version": "4.9.1",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/romm.png",
   "image": "rommapp/romm",
