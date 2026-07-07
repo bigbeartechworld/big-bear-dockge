@@ -1,0 +1,12 @@
+{
+  "name": "NetPulse",
+  "description": "A self-hosted network monitoring dashboard that runs real Ookla speedtests on a schedule, pings continuously to track uptime, and shows the history as graphs you can actually reflect on — not just a live number that resets every refresh.",
+  "version": "sha-8922b29",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/netpulse/logo.jpg",
+  "image": "ghcr.io/bentfender/netpulse",
+  "category": "BigBearCasaOS",
+  "port": "8077",
+  "documentation": "https://github.com/BentFender/netpulse",
+  "source": "https://github.com/BentFender/netpulse"
+}
