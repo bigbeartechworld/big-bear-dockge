@@ -1,0 +1,12 @@
+{
+  "name": "Ente Photos",
+  "description": "Ente is a self-hosted, end-to-end encrypted platform to store, share, and rediscover your photos and videos across all your devices.",
+  "version": "2026.07.07",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ente-photos.png",
+  "image": "ghcr.io/ente/web",
+  "category": "BigBearCasaOS",
+  "port": "3000",
+  "documentation": "https://help.ente.io/self-hosting/",
+  "source": "https://github.com/ente-io/ente"
+}
