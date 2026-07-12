@@ -1,7 +1,7 @@
 {
   "name": "RackPeek",
   "description": "A webui and CLI tool to discover, manage, and document your home lab and small-scale IT infrastructure. Track hardware, services, networks, and their relationships using open, non-proprietary YAML.",
-  "version": "v1.4.0",
+  "version": "v2.0.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/rackpeek/logo.jpg",
   "image": "aptacode/rackpeek",
