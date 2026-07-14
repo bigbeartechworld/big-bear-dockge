@@ -1,7 +1,7 @@
 {
   "name": "Ente Photos",
   "description": "Ente is a self-hosted, end-to-end encrypted platform to store, share, and rediscover your photos and videos across all your devices.",
-  "version": "77f2a5244e8e515e66c3d737ed2ed89907e440d51d22435d7cf55e9c33623632",
+  "version": "latest",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ente-photos.png",
   "image": "ghcr.io/ente/web",
