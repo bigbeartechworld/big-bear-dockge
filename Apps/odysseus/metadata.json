@@ -1,7 +1,7 @@
 {
   "name": "Odysseus",
   "description": "Odysseus is a self-hosted AI workspace. It bundles chat, web search via SearXNG, and a ChromaDB vector store so you can run your own private AI environment with the LLM provider of your choice.",
-  "version": "2026.07.06",
+  "version": "2026.07.13",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/odysseus/logo.png",
   "image": "bigbeartechworld/big-bear-odysseus",
