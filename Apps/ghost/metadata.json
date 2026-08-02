@@ -1,7 +1,7 @@
 {
   "name": "Ghost",
   "description": "Ghost is a free and open source blogging platform written in JavaScript and distributed under the MIT License, designed to simplify the process of online publishing for individual bloggers as well as online publications.",
-  "version": "6.54.0-alpine",
+  "version": "6.54.1-alpine",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghost.png",
   "image": "ghost",
