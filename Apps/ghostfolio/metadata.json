@@ -1,7 +1,7 @@
 {
   "name": "Ghostfolio",
   "description": "Open Source Wealth Management Software. Angular + NestJS + Prisma + Nx + TypeScript 🤍",
-  "version": "3.35.0",
+  "version": "3.36.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/ghostfolio.png",
   "image": "ghostfolio/ghostfolio",
