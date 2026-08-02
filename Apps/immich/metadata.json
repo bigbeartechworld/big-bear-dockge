@@ -1,7 +1,7 @@
 {
   "name": "Immich",
   "description": "Self-hosted photo and video storage.",
-  "version": "v3.0.0",
+  "version": "v3.1.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich.png",
   "image": "ghcr.io/immich-app/immich-server",
