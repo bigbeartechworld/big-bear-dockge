@@ -1,0 +1,12 @@
+{
+  "name": "Buzz",
+  "description": "Buzz is a self-hostable workspace for humans and agents from Block. It runs a Nostr relay, a REST bridge, git-over-object-storage, and a web interface from a single Rust binary, so you can host your own community and agent infrastructure.",
+  "version": "latest",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/block/buzz@main/desktop/public/app-icon@2x.png",
+  "image": "ghcr.io/block/buzz",
+  "category": "BigBearCasaOS",
+  "port": "3000",
+  "documentation": "https://engineering.block.xyz/blog/run-your-own-buzz-relay",
+  "source": "https://github.com/block/buzz"
+}
