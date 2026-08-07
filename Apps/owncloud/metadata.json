@@ -1,7 +1,7 @@
 {
   "name": "ownCloud",
   "description": "ownCloud offers file sharing and collaboration trusted by 200+ million users worldwide regardless of device or location.",
-  "version": "10.16.3",
+  "version": "10.16.4",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/owncloud.png",
   "image": "owncloud/server",
