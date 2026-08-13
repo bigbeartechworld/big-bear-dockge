@@ -4,7 +4,7 @@
   "version": "1152.0.6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/firefox.png",
-  "image": "lscr.io/linuxserver/firefox",
+  "image": "linuxserver/firefox",
   "category": "BigBearCasaOS",
   "port": "3000",
   "documentation": "",

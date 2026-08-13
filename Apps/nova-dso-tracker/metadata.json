@@ -4,7 +4,7 @@
   "version": "6.2.2",
   "author": "mrantonSG",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/nova-dso-tracker/logo.png",
-  "image": "mrantonsg/nova-dso-tracker:5.9.0",
+  "image": "mrantonsg/nova-dso-tracker",
   "category": "Photography",
   "port": "5001",
   "documentation": "https://nova-tracker.com",

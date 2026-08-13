@@ -4,7 +4,7 @@
   "version": "26.05.20260608",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/bookstack.png",
-  "image": "lscr.io/linuxserver/bookstack",
+  "image": "linuxserver/bookstack",
   "category": "BigBearCasaOS",
   "port": "8080",
   "documentation": "",
