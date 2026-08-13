@@ -1,0 +1,12 @@
+{
+  "name": "Paperclip",
+  "description": "Paperclip is an open-source self-hosted board for managing AI coding agents such as Claude Code, Codex, OpenCode, and Gemini CLI. Assign work to agents, run them, and track cost and output from a single dashboard.",
+  "version": "latest",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/paperclipai/paperclip@master/ui/public/apple-touch-icon.png",
+  "image": "ghcr.io/paperclipai/paperclip",
+  "category": "BigBearCasaOS",
+  "port": "3101",
+  "documentation": "https://github.com/paperclipai/paperclip/blob/master/doc/DOCKER.md",
+  "source": "https://github.com/paperclipai/paperclip"
+}
