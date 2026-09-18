@@ -1,0 +1,12 @@
+{
+  "name": "Eden",
+  "description": "Eden is an experimental open-source emulator for the Nintendo Switch, built with performance and stability in mind.",
+  "version": "0.2.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/eden-logo.png",
+  "image": "linuxserver/eden",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-eden"
+}

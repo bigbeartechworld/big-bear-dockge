@@ -1,0 +1,12 @@
+{
+  "name": "Snipe-it",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/snipe-it/",
+  "version": "7.1.17",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/snipe-it-logo.png",
+  "image": "linuxserver/snipe-it",
+  "category": "Other",
+  "port": "8080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-snipe-it"
+}

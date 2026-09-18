@@ -1,0 +1,12 @@
+{
+  "name": "Vscodium",
+  "description": "VSCodium is a community-driven, freely-licensed binary distribution of Microsoft’s editor VS Code.",
+  "version": "1.135.06055",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/vscodium-icon.png",
+  "image": "linuxserver/vscodium",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-vscodium"
+}

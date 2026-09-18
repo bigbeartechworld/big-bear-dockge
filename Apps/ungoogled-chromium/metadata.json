@@ -1,0 +1,12 @@
+{
+  "name": "Ungoogled-chromium",
+  "description": "Ungoogled Chromium is Google Chromium, sans dependency on Google web services.",
+  "version": "153.0.8010",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/ungoogled-chromium-logo.png",
+  "image": "linuxserver/ungoogled-chromium",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-ungoogled-chromium"
+}

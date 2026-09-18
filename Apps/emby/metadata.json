@@ -1,0 +1,12 @@
+{
+  "name": "Emby",
+  "description": "Emby organizes video, music, live TV, and photos from personal media libraries and streams them to smart TVs, streaming boxes and mobile devices. This container is packaged as a standalone emby Media Server.",
+  "version": "4.10.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/emby-logo.png",
+  "image": "linuxserver/emby",
+  "category": "Smart Home",
+  "port": "8096",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-emby"
+}

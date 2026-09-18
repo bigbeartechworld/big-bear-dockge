@@ -1,0 +1,12 @@
+{
+  "name": "Mame",
+  "description": "MAME is a free and open-source emulator designed to emulate the hardware of arcade games, video game consoles, old computers and other systems in software on modern personal computers.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/mame-logo.png",
+  "image": "linuxserver/mame",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-mame"
+}

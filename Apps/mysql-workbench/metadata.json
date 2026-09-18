@@ -1,0 +1,12 @@
+{
+  "name": "Mysql-workbench",
+  "description": "MySQL Workbench is a unified visual tool for database architects, developers, and DBAs. MySQL Workbench provides data modeling, SQL development, and comprehensive administration tools for server configuration, user administration, backup, and much more.",
+  "version": "8.0.47",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/mysql-workbench-icon.png",
+  "image": "linuxserver/mysql-workbench",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-mysql-workbench"
+}

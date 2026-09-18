@@ -1,0 +1,12 @@
+{
+  "name": "Smokeping",
+  "description": "Smokeping keeps track of your network latency. For a full example of what this application is capable of visit UCDavis.",
+  "version": "2.9.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/smokeping-logo.png",
+  "image": "linuxserver/smokeping",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-smokeping"
+}

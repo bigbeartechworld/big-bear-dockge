@@ -1,0 +1,12 @@
+{
+  "name": "Socket-proxy",
+  "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/socket-proxy for details.",
+  "version": "3.4.4",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/docker-logo.png",
+  "image": "linuxserver/socket-proxy",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-socket-proxy"
+}

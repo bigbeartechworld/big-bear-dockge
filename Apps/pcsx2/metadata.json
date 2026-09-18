@@ -1,0 +1,12 @@
+{
+  "name": "Pcsx2",
+  "description": "PCSX2 is an open source PS2 Emulator.",
+  "version": "2.8.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/pcsx2-logo.png",
+  "image": "linuxserver/pcsx2",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-pcsx2"
+}

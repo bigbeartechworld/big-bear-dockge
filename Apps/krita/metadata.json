@@ -1,0 +1,12 @@
+{
+  "name": "Krita",
+  "description": "Krita is a professional FREE and open source painting program. It is made by artists that want to see affordable art tools for everyone.",
+  "version": "5.3.4",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/krita-logo.png",
+  "image": "linuxserver/krita",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-krita"
+}

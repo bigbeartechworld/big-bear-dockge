@@ -1,0 +1,12 @@
+{
+  "name": "Heimdall",
+  "description": "Heimdall is a way to organise all those links to your most used web sites and web applications in a simple way. Simplicity is the key to Heimdall. Why not use it as your browser start page? It even has the ability to include a search bar using either Google, Bing or DuckDuckGo.",
+  "version": "2.8.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/heimdall-banner.png",
+  "image": "linuxserver/heimdall",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-heimdall"
+}

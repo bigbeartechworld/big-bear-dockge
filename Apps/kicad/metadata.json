@@ -1,0 +1,12 @@
+{
+  "name": "Kicad",
+  "description": "KiCad - A Cross Platform and Open Source Electronics Design Automation Suite.",
+  "version": "10.0.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/kicad-logo.png",
+  "image": "linuxserver/kicad",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-kicad"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Qemu-static",
+  "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/qemu-static for details.",
+  "version": "10.0.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/qemu-logo.png",
+  "image": "linuxserver/qemu-static",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-qemu-static"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Gzdoom",
+  "description": "GZDoom is a feature centric port for all Doom engine games, based on ZDoom, adding an OpenGL renderer and powerful scripting capabilities.",
+  "version": "4.14.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/gzdoom-logo.png",
+  "image": "linuxserver/gzdoom",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-gzdoom"
+}

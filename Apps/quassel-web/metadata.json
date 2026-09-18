@@ -1,0 +1,12 @@
+{
+  "name": "Quassel-web",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/quassel-web/",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/quassel-web-icon.png",
+  "image": "linuxserver/quassel-web",
+  "category": "Other",
+  "port": "64080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-quassel-web"
+}

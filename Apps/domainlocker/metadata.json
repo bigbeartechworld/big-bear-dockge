@@ -1,0 +1,12 @@
+{
+  "name": "Domain Locker",
+  "description": "🌐 The all-in-one tool, for keeping track of your domain name portfolio. Got domain names? Get Domain Locker!",
+  "version": "0.2.4",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/domain-locker.png",
+  "image": "ghcr.io/lissy93/domain-locker",
+  "category": "BigBearCasaOS",
+  "port": "8180",
+  "documentation": "https://github.com/Lissy93/domain-locker",
+  "source": "https://github.com/Lissy93/domain-locker"
+}

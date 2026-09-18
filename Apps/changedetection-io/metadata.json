@@ -1,0 +1,12 @@
+{
+  "name": "Changedetection.io",
+  "description": "Changedetection.io provides free, open-source web page monitoring, notification and change detection.",
+  "version": "0.60.6",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/changedetection-icon.png",
+  "image": "linuxserver/changedetection.io",
+  "category": "Smart Home",
+  "port": "5000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-changedetection.io"
+}

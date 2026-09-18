@@ -1,0 +1,12 @@
+{
+  "name": "Nginx",
+  "description": "Nginx is an HTTP web server, reverse proxy, content cache, load balancer, TCP/UDP proxy server, and mail proxy server.",
+  "version": "1.30.4",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/nginx-banner.png",
+  "image": "linuxserver/nginx",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-nginx"
+}

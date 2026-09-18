@@ -1,0 +1,12 @@
+{
+  "name": "Syslog-ng",
+  "description": "syslog-ng allows you to flexibly collect, parse, classify, rewrite and correlate logs from across your infrastructure and store or route them to log analysis tools.",
+  "version": "4.11.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/syslog-ng-logo.png",
+  "image": "linuxserver/syslog-ng",
+  "category": "Smart Home",
+  "port": "514",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-syslog-ng"
+}

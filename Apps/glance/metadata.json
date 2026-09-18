@@ -1,7 +1,7 @@
 {
   "name": "Glance",
   "description": "Glance is a self-hosted dashboard that puts all your feeds in one place.",
-  "version": "v0.8.5",
+  "version": "v0.8.6",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps/apps/glance/logo.png",
   "image": "glanceapp/glance",

@@ -1,0 +1,12 @@
+{
+  "name": "Freshrss",
+  "description": "Freshrss is a free, self-hostable aggregator for rss feeds.",
+  "version": "1.30.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/freshrss-banner.png",
+  "image": "linuxserver/freshrss",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-freshrss"
+}

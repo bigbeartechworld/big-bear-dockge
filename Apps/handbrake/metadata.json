@@ -1,0 +1,12 @@
+{
+  "name": "Handbrake",
+  "description": "HandBrake is an open-source tool, built by volunteers, for converting video from nearly any format to a selection of modern, widely supported codecs.",
+  "version": "1.11.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/handbrake-logo.png",
+  "image": "linuxserver/handbrake",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-handbrake"
+}

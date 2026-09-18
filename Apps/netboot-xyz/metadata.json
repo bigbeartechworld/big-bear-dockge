@@ -1,0 +1,12 @@
+{
+  "name": "netboot.xyz",
+  "description": "netboot.xyz is a PXE app: an iPXE menu that boots OS installers and utilities over the network. This Universal App wraps the official container (web UI, TFTP, local asset HTTP). It does not run DHCP; point the LAN DHCP next-server and bootfile at this host.",
+  "version": "0.7.6-nbxyz24",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/netboot-xyz.png",
+  "image": "ghcr.io/netbootxyz/netbootxyz",
+  "category": "BigBearCasaOS",
+  "port": "3000",
+  "documentation": "https://netboot.xyz/docs/docker/",
+  "source": "https://github.com/netbootxyz/docker-netbootxyz"
+}

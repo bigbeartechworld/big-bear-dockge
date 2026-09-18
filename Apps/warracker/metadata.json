@@ -1,7 +1,7 @@
 {
   "name": "Warracker",
   "description": "A self-hosted warranty tracker",
-  "version": "9.9.3",
+  "version": "1.0.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/warracker.png",
   "image": "ghcr.io/sassanix/warracker/main",

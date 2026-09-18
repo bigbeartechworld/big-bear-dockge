@@ -1,0 +1,12 @@
+{
+  "name": "Kdenlive",
+  "description": "Kdenlive is a powerful free and open source cross-platform video editing program made by the KDE community. Feature rich and production ready.",
+  "version": "423.08.5",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/kdenlive-logo.png",
+  "image": "linuxserver/kdenlive",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-kdenlive"
+}

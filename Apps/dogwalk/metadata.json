@@ -1,0 +1,12 @@
+{
+  "name": "Dogwalk",
+  "description": "DOGWALK is Blender Studio's long awaited second game project, focused on creating a bite-sized interactive storytelling playground. Play as a big adorable dog and explore the winter woods with a little kid.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/dogwalk-logo.png",
+  "image": "linuxserver/dogwalk",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-dogwalk"
+}

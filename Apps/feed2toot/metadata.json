@@ -1,0 +1,12 @@
+{
+  "name": "Feed2toot",
+  "description": "Feed2toot automatically parses rss feeds, identifies new posts and posts them on the Mastodon social network.",
+  "version": "0.17.20251115",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
+  "image": "linuxserver/feed2toot",
+  "category": "Other",
+  "port": "8080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-feed2toot"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "D2-builder",
+  "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/d2-builder for details.",
+  "version": "0.9.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
+  "image": "linuxserver/d2-builder",
+  "category": "Other",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-d2-builder"
+}

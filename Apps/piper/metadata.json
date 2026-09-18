@@ -1,0 +1,12 @@
+{
+  "name": "Piper",
+  "description": "Piper is a fast, local neural text to speech system that sounds great and is optimized for the Raspberry Pi 4. This container provides a Wyoming protocol server for Piper.",
+  "version": "2.5.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/piper-logo.png",
+  "image": "linuxserver/piper",
+  "category": "Smart Home",
+  "port": "10200",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-piper"
+}

@@ -3,7 +3,7 @@
   "description": "The all-in-one no-code platform for interactive storytelling and Voltask automation engine. Paid license required, no free tier available. Purchase a license at https://celestory.io/pricing",
   "version": "1.1.2",
   "author": "Celestory",
-  "icon": "https://storage.googleapis.com/voltask-assets/celestory.png",
+  "icon": "https://images.weserv.nl/?url=https%3A%2F%2Fstorage.googleapis.com%2Fvoltask-assets%2Fcelestory.png",
   "image": "celestory/gateway",
   "category": "Development",
   "port": "1500",

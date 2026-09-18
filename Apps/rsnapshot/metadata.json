@@ -1,0 +1,12 @@
+{
+  "name": "Rsnapshot",
+  "description": "Rsnapshot is a filesystem snapshot utility based on rsync. rsnapshot makes it easy to make periodic snapshots of local machines, and remote machines over ssh. The code makes extensive use of hard links whenever possible, to greatly reduce the disk space required.",
+  "version": "1.4.5",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/rsnapshot.png",
+  "image": "linuxserver/rsnapshot",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-rsnapshot"
+}

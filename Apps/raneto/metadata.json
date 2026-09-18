@@ -1,0 +1,12 @@
+{
+  "name": "Raneto",
+  "description": "Raneto - is an open source Knowledgebase platform that uses static Markdown files to power your Knowledgebase.",
+  "version": "0.18.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/raneto-logo.png",
+  "image": "linuxserver/raneto",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-raneto"
+}

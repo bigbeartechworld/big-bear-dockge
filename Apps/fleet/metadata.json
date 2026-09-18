@@ -1,0 +1,12 @@
+{
+  "name": "Fleet",
+  "description": "Fleet provides an online web interface which displays a set of maintained images from one or more owned repositories.",
+  "version": "2.3.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
+  "image": "linuxserver/fleet",
+  "category": "Other",
+  "port": "8080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-fleet"
+}

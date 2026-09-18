@@ -1,0 +1,12 @@
+{
+  "name": "Babybuddy",
+  "description": "Babybuddy is a buddy for babies! Helps caregivers track sleep, feedings, diaper changes, tummy time and more to learn about and predict baby's needs without (as much) guess work.",
+  "version": "2.10.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/babybuddy-logo.png",
+  "image": "linuxserver/babybuddy",
+  "category": "Smart Home",
+  "port": "8000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-babybuddy"
+}

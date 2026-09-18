@@ -1,7 +1,7 @@
 {
   "name": "Immich AIO Alpine",
   "description": "AIO Alpine. Self-hosted photo and video storage.",
-  "version": "2.0.0-alpine",
+  "version": "2.7.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/immich.png",
   "image": "ghcr.io/imagegenius/immich",

@@ -1,0 +1,12 @@
+{
+  "name": "Ldap-auth",
+  "description": "Ldap-auth software is for authenticating users who request protected resources from servers proxied by nginx. It includes a daemon (ldap-auth) that communicates with an authentication server, and a webserver daemon that generates an authentication cookie based on the user’s credentials. The daemons are written in Python for use with a Lightweight Directory Access Protocol (LDAP) authentication server (OpenLDAP or Microsoft Windows Active Directory 2003 and 2012).",
+  "version": "3.4.8",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/ldap-auth-logo.png",
+  "image": "linuxserver/ldap-auth",
+  "category": "Smart Home",
+  "port": "8888",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-ldap-auth"
+}

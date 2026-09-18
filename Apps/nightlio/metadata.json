@@ -1,0 +1,12 @@
+{
+  "name": "Nightlio",
+  "description": "Nightlio is a privacy-first mood tracker and daily journal designed for effortless self-hosting. Log your daily mood on a simple five-point scale, write rich Markdown journal entries with customizable tags, and view insightful analytics including mood history calendars, average mood trends, and journaling streaks. All data is stored in a local SQLite database on your own server with no telemetry, ads, or subscriptions.",
+  "version": "0.1.7",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/nightlio.png",
+  "image": "ghcr.io/shirsakm/nightlio-frontend",
+  "category": "BigBearCasaOS",
+  "port": "5173",
+  "documentation": "https://github.com/shirsakm/nightlio#readme",
+  "source": "https://github.com/shirsakm/nightlio"
+}

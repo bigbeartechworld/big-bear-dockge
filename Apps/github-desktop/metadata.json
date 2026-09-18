@@ -1,0 +1,12 @@
+{
+  "name": "Github-desktop",
+  "description": "Github Desktop is an open source Electron-based GitHub app. It is written in TypeScript and uses React.",
+  "version": "3.4.13",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/github-desktop-icon.png",
+  "image": "linuxserver/github-desktop",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-github-desktop"
+}

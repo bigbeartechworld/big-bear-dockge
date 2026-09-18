@@ -1,0 +1,12 @@
+{
+  "name": "Intellij-idea",
+  "description": "IntelliJ IDEA helps you write code faster with tools that eliminate tedious tasks and let you focus on what matters – building great software.",
+  "version": "42026.2.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/intellij-idea-logo.png",
+  "image": "linuxserver/intellij-idea",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-intellij-idea"
+}

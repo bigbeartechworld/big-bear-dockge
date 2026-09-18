@@ -1,0 +1,12 @@
+{
+  "name": "Minetest",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/minetest/",
+  "version": "5.10.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/beta-templates@master/lsiodev/img/minetest-icon.png",
+  "image": "linuxserver/minetest",
+  "category": "Other",
+  "port": "30000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-minetest"
+}

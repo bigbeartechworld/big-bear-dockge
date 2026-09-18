@@ -1,0 +1,12 @@
+{
+  "name": "Quassel-core",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/quassel-core/",
+  "version": "0.14.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/quassel-core-icon.png",
+  "image": "linuxserver/quassel-core",
+  "category": "Other",
+  "port": "4242",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-quassel-core"
+}

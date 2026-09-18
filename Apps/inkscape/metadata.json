@@ -1,0 +1,12 @@
+{
+  "name": "Inkscape",
+  "description": "Inkscape is professional quality vector graphics software which runs on Linux, Mac OS X and Windows desktop computers.",
+  "version": "1.4.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/inkscape-logo.png",
+  "image": "linuxserver/inkscape",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-inkscape"
+}

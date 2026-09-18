@@ -1,0 +1,12 @@
+{
+  "name": "Rdesktop",
+  "description": "Rdesktop - Containers containing full desktop environments in many popular flavors for Alpine, Ubuntu, Arch, and Fedora accessible via RDP.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/rdesktop.png",
+  "image": "linuxserver/rdesktop",
+  "category": "Other",
+  "port": "3389",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-rdesktop"
+}

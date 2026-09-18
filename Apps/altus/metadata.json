@@ -1,0 +1,12 @@
+{
+  "name": "Altus",
+  "description": "Altus is an Electron-based WhatsApp client with themes and multiple account support.",
+  "version": "5.8.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/altus-logo.png",
+  "image": "linuxserver/altus",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-altus"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Digikam",
+  "description": "digiKam: Professional Photo Management with the Power of Open Source",
+  "version": "9.1.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/digikam.png",
+  "image": "linuxserver/digikam",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-digikam"
+}

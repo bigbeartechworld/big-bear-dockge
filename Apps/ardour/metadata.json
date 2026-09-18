@@ -1,0 +1,12 @@
+{
+  "name": "Ardour",
+  "description": "Ardour is an open source, collaborative effort of a worldwide team including musicians, programmers, and professional recording engineers.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/ardour-logo.png",
+  "image": "linuxserver/ardour",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-ardour"
+}

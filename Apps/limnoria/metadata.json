@@ -1,0 +1,12 @@
+{
+  "name": "Limnoria",
+  "description": "Limnoria A robust, full-featured, and user/programmer-friendly Python IRC bot, with many existing plugins. Successor of the well-known Supybot.",
+  "version": "2026.5.8",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/limnoria-icon.png",
+  "image": "linuxserver/limnoria",
+  "category": "Smart Home",
+  "port": "8080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-limnoria"
+}

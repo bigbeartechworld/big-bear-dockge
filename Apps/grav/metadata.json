@@ -1,0 +1,12 @@
+{
+  "name": "Grav",
+  "description": "Grav is a Fast, Simple, and Flexible, file-based Web-platform.",
+  "version": "2.1.6",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/grav-logo.png",
+  "image": "linuxserver/grav",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-grav"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Qdirstat",
+  "description": "QDirStat Qt-based directory statistics: KDirStat without any KDE -- from the author of the original KDirStat.",
+  "version": "2.0.20260913",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/qdirstat-logo.png",
+  "image": "linuxserver/qdirstat",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-qdirstat"
+}

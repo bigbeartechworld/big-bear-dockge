@@ -1,0 +1,12 @@
+{
+  "name": "Pairdrop",
+  "description": "PairDrop is a sublime alternative to AirDrop that works on all platforms. Send images, documents or text via peer to peer connection to devices in the same local network/Wi-Fi or to paired devices.",
+  "version": "1.11.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/schlagmichdoch/PairDrop@master/public/images/android-chrome-512x512.png",
+  "image": "linuxserver/pairdrop",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-pairdrop"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Webgrabplus",
+  "description": "Webgrabplus is a multi-site incremental xmltv epg grabber. It collects tv-program guide data from selected tvguide sites for your favourite channels.",
+  "version": "5.6.1",
+  "author": "WisdomSky",
+  "icon": "https://images.weserv.nl/?url=https%3A%2F%2Fwww.webgrabplus.com%2Fsites%2Fdefault%2Fthemes%2FWgTheme%2Fimages%2Fslideshows%2FEPG_fading.jpg",
+  "image": "linuxserver/webgrabplus",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-webgrabplus"
+}

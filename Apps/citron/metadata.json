@@ -1,0 +1,12 @@
+{
+  "name": "Citron",
+  "description": "Citron is a feature rich Switch 1 emulator for homebrew.",
+  "version": "2026.02.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/citron-logo.png",
+  "image": "linuxserver/citron",
+  "category": "Other",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-citron"
+}

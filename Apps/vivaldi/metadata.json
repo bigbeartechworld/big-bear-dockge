@@ -1,0 +1,12 @@
+{
+  "name": "Vivaldi",
+  "description": "Vivaldi is a Norwegian freeware, cross-platform web browser with a built-in email client developed by Vivaldi Technologies.",
+  "version": "8.2.4133",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/vivaldi-logo.png",
+  "image": "linuxserver/vivaldi",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-vivaldi"
+}

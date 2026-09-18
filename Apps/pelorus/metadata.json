@@ -1,0 +1,12 @@
+{
+  "name": "Pelorus",
+  "description": "Pelorus is an AI navigator for Selkies-powered Linux desktops. Pelorus runs a FastAPI server that gives an LLM agent (Ollama, OpenAI-compatible, or Gemini) control over mouse, keyboard, screenshot, and window management via the Pixelflux computer-use backend, a Linux accessibility tree (AT-SPI), and optional KWin D-Bus integration.",
+  "version": "0.2.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/pelorus-logo.png",
+  "image": "linuxserver/pelorus",
+  "category": "Smart Home",
+  "port": "3001",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-pelorus"
+}
