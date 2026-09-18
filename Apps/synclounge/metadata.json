@@ -1,0 +1,12 @@
+{
+  "name": "Synclounge",
+  "description": "Synclounge is a third party tool that allows you to watch Plex in sync with your friends/family, wherever you are.",
+  "version": "5.2.35",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/synclounge-banner.png",
+  "image": "linuxserver/synclounge",
+  "category": "Smart Home",
+  "port": "8088",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-synclounge"
+}

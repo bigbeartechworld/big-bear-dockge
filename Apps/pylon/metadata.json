@@ -1,0 +1,12 @@
+{
+  "name": "Pylon",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/pylon/",
+  "version": "2.10.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/cloud9-logo.png",
+  "image": "linuxserver/pylon",
+  "category": "Other",
+  "port": "3131",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-pylon"
+}

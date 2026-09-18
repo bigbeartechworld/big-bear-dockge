@@ -1,0 +1,12 @@
+{
+  "name": "Snapdrop",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/snapdrop/",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/snapdrop-icon.png",
+  "image": "linuxserver/snapdrop",
+  "category": "Other",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-snapdrop"
+}

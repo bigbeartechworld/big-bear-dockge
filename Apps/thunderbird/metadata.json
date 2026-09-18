@@ -1,0 +1,12 @@
+{
+  "name": "Thunderbird",
+  "description": "Thunderbird is a free and open-source personal information manager primarily used as an e-mail client with a calendar and contactbook, as well as an RSS feed reader, chat client, and news client.",
+  "version": "1140.16.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/thunderbird-logo.png",
+  "image": "linuxserver/thunderbird",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-thunderbird"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Daapd",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/daapd/",
+  "version": "28.10.20250118",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/daapd-icon.png",
+  "image": "linuxserver/daapd",
+  "category": "Other",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-daapd"
+}

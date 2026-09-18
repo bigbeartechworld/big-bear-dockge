@@ -1,0 +1,12 @@
+{
+  "name": "Unifi-controller",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/unifi-controller/",
+  "version": "8.0.24",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/unifi-controller-icon.png",
+  "image": "linuxserver/unifi-controller",
+  "category": "Other",
+  "port": "8443",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-unifi-controller"
+}

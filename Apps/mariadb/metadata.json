@@ -1,0 +1,12 @@
+{
+  "name": "Mariadb",
+  "description": "Mariadb is one of the most popular database servers. Made by the original developers of MySQL.",
+  "version": "11.8.8",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/mariadb-git.png",
+  "image": "linuxserver/mariadb",
+  "category": "Smart Home",
+  "port": "3306",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-mariadb"
+}

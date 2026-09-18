@@ -1,0 +1,12 @@
+{
+  "name": "Ferdium",
+  "description": "Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.",
+  "version": "7.2.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/ferdium-logo.png",
+  "image": "linuxserver/ferdium",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-ferdium"
+}

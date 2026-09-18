@@ -1,0 +1,12 @@
+{
+  "name": "BookOrbit",
+  "description": "BookOrbit is a self-hosted library and reading platform for ebooks, PDFs, audiobooks, and comics. It syncs progress and highlights across the web reader, Kobo, and KOReader, with metadata lookup, reading stats, OPDS, and multi-user OIDC support.",
+  "version": "2.7.0",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/bookorbit.png",
+  "image": "ghcr.io/bookorbit/bookorbit",
+  "category": "BigBearCasaOS",
+  "port": "3000",
+  "documentation": "https://bookorbit.app/installation",
+  "source": "https://github.com/bookorbit/bookorbit"
+}

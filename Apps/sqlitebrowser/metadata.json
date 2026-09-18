@@ -1,0 +1,12 @@
+{
+  "name": "Sqlitebrowser",
+  "description": "DB Browser for SQLite is a high quality, visual, open source tool to create, design, and edit database files compatible with SQLite.",
+  "version": "18.04.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/sqlitebrowser-banner.png",
+  "image": "linuxserver/sqlitebrowser",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-sqlitebrowser"
+}

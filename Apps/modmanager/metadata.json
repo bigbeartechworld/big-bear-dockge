@@ -1,0 +1,12 @@
+{
+  "name": "Modmanager",
+  "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/modmanager for details.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/linuxserver-ls-logo.png",
+  "image": "linuxserver/modmanager",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-modmanager"
+}

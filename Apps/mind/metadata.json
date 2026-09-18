@@ -3,7 +3,7 @@
   "description": "A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!",
   "version": "v1.4.1",
   "author": "BigBearTechWorld",
-  "icon": "https://i.imgur.com/UgjalkK.png",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/docker.png",
   "image": "mrcas/mind",
   "category": "BigBearCasaOS",
   "port": "8080",

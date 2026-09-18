@@ -1,0 +1,12 @@
+{
+  "name": "Telegram",
+  "description": "Telegram is a cloud-based mobile and desktop messaging app.",
+  "version": "7.2.8",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/telegram-logo.png",
+  "image": "linuxserver/telegram",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-telegram"
+}

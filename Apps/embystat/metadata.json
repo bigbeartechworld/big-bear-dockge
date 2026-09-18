@@ -1,0 +1,12 @@
+{
+  "name": "Embystat",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/embystat/",
+  "version": "0.2.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/embystat-logo.png",
+  "image": "linuxserver/embystat",
+  "category": "Other",
+  "port": "6555",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-embystat"
+}

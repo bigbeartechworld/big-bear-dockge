@@ -1,0 +1,12 @@
+{
+  "name": "Hishtory-server",
+  "description": "hiSHtory is a better shell history. It stores your shell history in context (what directory you ran the command in, whether it succeeded or failed, how long it took, etc). This is all stored locally and end-to-end encrypted for syncing to to all your other computers.",
+  "version": "0.335.20260911",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/hishtory-server-icon.png",
+  "image": "linuxserver/hishtory-server",
+  "category": "Smart Home",
+  "port": "8080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-hishtory-server"
+}

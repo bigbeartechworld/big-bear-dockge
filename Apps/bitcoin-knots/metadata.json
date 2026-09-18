@@ -1,0 +1,12 @@
+{
+  "name": "Bitcoin-knots",
+  "description": "Bitcoin Knots can be used as a desktop client for regular payments or as a full node server utility for merchants and other payment services.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/bitcoin-knots-logo.png",
+  "image": "linuxserver/bitcoin-knots",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-bitcoin-knots"
+}

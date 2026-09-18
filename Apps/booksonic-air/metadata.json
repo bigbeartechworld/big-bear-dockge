@@ -1,0 +1,12 @@
+{
+  "name": "Booksonic-air",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/booksonic-air/",
+  "version": "2201.1.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/booksonic-air.png",
+  "image": "linuxserver/booksonic-air",
+  "category": "Other",
+  "port": "4040",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-booksonic-air"
+}

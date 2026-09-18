@@ -1,0 +1,12 @@
+{
+  "name": "Gitqlient",
+  "description": "GitQlient is a multi-platform Git client originally forked from QGit. Nowadays it goes beyond of just a fork and adds a lot of new functionality.",
+  "version": "1.6.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/gitqlient-icon.png",
+  "image": "linuxserver/gitqlient",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-gitqlient"
+}

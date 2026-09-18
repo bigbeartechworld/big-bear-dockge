@@ -1,0 +1,12 @@
+{
+  "name": "Ffmpeg",
+  "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/ffmpeg for details.",
+  "version": "8.1.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/ffmpeg.png",
+  "image": "linuxserver/ffmpeg",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-ffmpeg"
+}

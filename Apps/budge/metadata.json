@@ -1,0 +1,12 @@
+{
+  "name": "Budge",
+  "description": "Budge is an open source 'budgeting with envelopes' personal finance app.",
+  "version": "0.0.9",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
+  "image": "linuxserver/budge",
+  "category": "Smart Home",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-budge"
+}

@@ -3,7 +3,7 @@
   "description": "The Container Streaming Platform - Streaming containerized apps and desktops to end-users. The Workspaces platform provides enterprise-class orchestration, data loss prevention, and web streaming technology to enable the delivery of containerized workloads to your browser.",
   "version": "1.120.20221218",
   "author": "BigBearCommunity",
-  "icon": "https://avatars.githubusercontent.com/u/44181855?s=280&v=4",
+  "icon": "https://images.weserv.nl/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F44181855%3Fs%3D280%26v%3D4",
   "image": "linuxserver/kasm",
   "category": "BigBearCasaOS",
   "port": "3000",

@@ -1,0 +1,12 @@
+{
+  "name": "Openvscode-server",
+  "description": "Openvscode-server provides a version of VS Code that runs a server on a remote machine and allows access through a modern web browser.",
+  "version": "1.109.5",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/openvscode-server-logo.png",
+  "image": "linuxserver/openvscode-server",
+  "category": "Other",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-openvscode-server"
+}

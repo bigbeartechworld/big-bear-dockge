@@ -1,0 +1,12 @@
+{
+  "name": "Thelounge",
+  "description": "Thelounge (a fork of shoutIRC) is a web IRC client that you host on your own server.",
+  "version": "4.5.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/thelounge/thelounge@master/client/public/img/logo-vertical-transparent-bg.svg",
+  "image": "linuxserver/thelounge",
+  "category": "Smart Home",
+  "port": "9000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-thelounge"
+}

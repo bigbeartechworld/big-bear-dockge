@@ -1,0 +1,12 @@
+{
+  "name": "Ci",
+  "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/ci for details.",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
+  "image": "linuxserver/ci",
+  "category": "Other",
+  "port": "80",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-ci"
+}

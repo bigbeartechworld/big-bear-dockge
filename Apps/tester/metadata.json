@@ -1,0 +1,12 @@
+{
+  "name": "Tester",
+  "description": "This internal tool is used as a desktop sandbox in our CI process to grab a screenshot of a hopefully functional endpoint",
+  "version": "0.0.0",
+  "author": "WisdomSky",
+  "icon": "https://images.weserv.nl/?url=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F12324908%3Fs%3D200%26v%3D4",
+  "image": "linuxserver/tester",
+  "category": "Other",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-tester"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Zen",
+  "description": "Zen Browser is a free and open-source fork of Mozilla Firefox with a focus on privacy, customizability and design.",
+  "version": "1.22.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/zen-logo.png",
+  "image": "linuxserver/zen",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-zen"
+}

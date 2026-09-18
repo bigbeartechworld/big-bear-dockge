@@ -1,0 +1,12 @@
+{
+  "name": "Keepassxc",
+  "description": "KeePassXC is a free and open-source password manager. It started as a community fork of KeePassX (itself a cross-platform port of KeePass).",
+  "version": "2.7.12",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/keepassxc-logo.png",
+  "image": "linuxserver/keepassxc",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-keepassxc"
+}

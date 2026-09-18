@@ -1,0 +1,12 @@
+{
+  "name": "Azahar",
+  "description": "Azahar is an open-source 3DS emulator based on Citra.",
+  "version": "12125.1.3",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/azahar-logo.png",
+  "image": "linuxserver/azahar",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-azahar"
+}

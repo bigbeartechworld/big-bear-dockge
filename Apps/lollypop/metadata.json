@@ -1,0 +1,12 @@
+{
+  "name": "Lollypop",
+  "description": "Lollypop is a lightweight modern music player designed to work excellently on the GNOME desktop environment.",
+  "version": "1.4.45",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/lollypop-icon.png",
+  "image": "linuxserver/lollypop",
+  "category": "Smart Home",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-lollypop"
+}

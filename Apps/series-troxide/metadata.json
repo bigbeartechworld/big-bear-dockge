@@ -1,0 +1,12 @@
+{
+  "name": "Series-troxide",
+  "description": "Series Troxide a Simple and Modern Series Tracker",
+  "version": "0.5.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/series-troxide-logo.png",
+  "image": "linuxserver/series-troxide",
+  "category": "Other",
+  "port": "3000",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-series-troxide"
+}

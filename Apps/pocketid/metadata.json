@@ -3,7 +3,7 @@
   "description": "Simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.",
   "version": "v2.7",
   "author": "techieanant",
-  "icon": "https://pocket-id.org/img/logo.png",
+  "icon": "https://images.weserv.nl/?url=https%3A%2F%2Fpocket-id.org%2Fimg%2Flogo.png",
   "image": "ghcr.io/pocket-id/pocket-id",
   "category": "BigBearCasaOS",
   "port": "1411",

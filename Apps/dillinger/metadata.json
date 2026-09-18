@@ -1,0 +1,12 @@
+{
+  "name": "Dillinger",
+  "description": "Visit homepage: https://hub.docker.com/r/linuxserver/dillinger/",
+  "version": "3.39.1",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/dillinger.png",
+  "image": "linuxserver/dillinger",
+  "category": "Other",
+  "port": "8080",
+  "documentation": "",
+  "source": "https://github.com/linuxserver/docker-dillinger"
+}
