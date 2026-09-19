@@ -1,0 +1,12 @@
+{
+  "name": "Snipe-IT v8",
+  "description": "Snipe-IT is a free, open source IT asset management system.",
+  "version": "8.7.2",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/snipe-it.png",
+  "image": "snipe/snipe-it",
+  "category": "Other",
+  "port": "8086",
+  "documentation": "https://snipe-it.readme.io/docs/docker",
+  "source": "https://github.com/snipe/snipe-it"
+}
