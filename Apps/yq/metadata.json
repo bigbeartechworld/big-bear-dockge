@@ -1,7 +1,7 @@
 {
   "name": "Yq",
   "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/yq for details.",
-  "version": "3.4.3",
+  "version": "4.1.2",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
   "image": "linuxserver/yq",
