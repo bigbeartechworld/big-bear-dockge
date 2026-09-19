@@ -1,0 +1,12 @@
+{
+  "name": "Navidrome",
+  "description": "Modern web-based music server and streamer for your personal music collection.",
+  "version": "0.61.2",
+  "author": "BigBearCommunity",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/navidrome.png",
+  "image": "deluan/navidrome",
+  "category": "Media",
+  "port": "4533",
+  "documentation": "https://www.navidrome.org/docs/",
+  "source": "https://github.com/navidrome/navidrome"
+}
