@@ -1,0 +1,12 @@
+{
+  "name": "Pi.alert",
+  "description": "WIFI / LAN intruder detector",
+  "version": "25",
+  "author": "WisdomSky",
+  "icon": "https://raw.githubusercontent.com/pucherot/Pi.Alert/main/docs/img/1_devices.jpg",
+  "image": "jokobsk/pi.alert",
+  "category": "Other",
+  "port": "20211",
+  "documentation": "",
+  "source": ""
+}

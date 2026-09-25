@@ -1,0 +1,12 @@
+{
+  "name": "CasaOS Toolbox",
+  "description": "CasaOS Toolbox is an extension application that provides additional features to CasaOS.",
+  "version": "0.2",
+  "author": "WisdomSky",
+  "icon": "https://cdn.jsdelivr.net/gh/bigbeartechworld/big-bear-universal-apps@main/apps/casaos-toolbox/logo.png",
+  "image": "wisdomsky/casaos-toolbox",
+  "category": "Other",
+  "port": "8088",
+  "documentation": "",
+  "source": ""
+}

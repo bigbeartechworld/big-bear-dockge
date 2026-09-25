@@ -1,0 +1,12 @@
+{
+  "name": "WebDAV",
+  "description": "Web-based distributed authoring and versioning (WebDAV) is a set of extensions to the HTTP protocol that allows WebDAV clients (such as Microsoft Web Folders) to collaboratively edit and manage files on remote Web servers.",
+  "version": "latest",
+  "author": "WisdomSky",
+  "icon": "https://debrid-link.com/screen/webdav_logo.png",
+  "image": "bytemark/webdav",
+  "category": "Other",
+  "port": "48108",
+  "documentation": "",
+  "source": ""
+}

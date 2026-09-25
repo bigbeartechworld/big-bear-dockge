@@ -1,0 +1,12 @@
+{
+  "name": "Caddy",
+  "description": "Caddy - The Ultimate Server with Automatic HTTPS.",
+  "version": "2.11.4",
+  "author": "WisdomSky",
+  "icon": "https://raw.githubusercontent.com/pi-hosted/pi-hosted/master/images/caddy.png",
+  "image": "caddy",
+  "category": "Other",
+  "port": "48100",
+  "documentation": "",
+  "source": ""
+}

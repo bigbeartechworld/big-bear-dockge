@@ -1,0 +1,12 @@
+{
+  "name": "Web Sync (RSync)",
+  "description": "Websync is intended to be an rsync task manager, where rsync tasks can be added, scheduled and maintained in a sane manner.",
+  "version": "latest",
+  "author": "WisdomSky",
+  "icon": "https://cdn0.iconfinder.com/data/icons/octicons/1024/sync-1024.png",
+  "image": "furier/websync",
+  "category": "Other",
+  "port": "48109",
+  "documentation": "",
+  "source": ""
+}
