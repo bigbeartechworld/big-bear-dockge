@@ -1,7 +1,7 @@
 {
   "name": "Blade-of-agony",
   "description": "Wolfenstein: Blade of Agony is a story-driven WWII shooter inspired by Wolfenstein and Doom.",
-  "version": "3.1.20260910",
+  "version": "3.1.20260917",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/boa-logo.png",
   "image": "linuxserver/blade-of-agony",
