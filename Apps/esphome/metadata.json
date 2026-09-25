@@ -1,0 +1,12 @@
+{
+  "name": "ESPHome",
+  "description": "ESPHome is a system to control your microcontrollers by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+  "version": "2026.9",
+  "author": "WisdomSky",
+  "icon": "https://avatars.githubusercontent.com/u/45919759",
+  "image": "esphome/esphome",
+  "category": "Other",
+  "port": "6052",
+  "documentation": "",
+  "source": ""
+}
