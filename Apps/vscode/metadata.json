@@ -1,7 +1,7 @@
 {
   "name": "Vscode",
   "description": "VS Code is an integrated development environment developed by Microsoft. This container runs the full desktop application, for a web native version see Code Server.",
-  "version": "1.137.0",
+  "version": "1.138.0",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/vscode-logo.png",
   "image": "linuxserver/vscode",

@@ -1,7 +1,7 @@
 {
   "name": "Grav",
   "description": "Grav is a Fast, Simple, and Flexible, file-based Web-platform.",
-  "version": "2.1.8",
+  "version": "2.1.10",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/grav-logo.png",
   "image": "linuxserver/grav",
