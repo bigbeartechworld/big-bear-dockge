@@ -1,7 +1,7 @@
 {
   "name": "Changedetection.io",
   "description": "Changedetection.io provides free, open-source web page monitoring, notification and change detection.",
-  "version": "0.60.7",
+  "version": "0.60.8",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/changedetection-icon.png",
   "image": "linuxserver/changedetection.io",
