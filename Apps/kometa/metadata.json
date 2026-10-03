@@ -1,7 +1,7 @@
 {
   "name": "Kometa",
   "description": "Kometa is a powerful tool designed to give you complete control over your media libraries. With Kometa, you can take your customization to the next level, with granular control over metadata, collections, overlays, and much more.",
-  "version": "2.4.8",
+  "version": "2.5.1",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/kometa-banner.png",
   "image": "linuxserver/kometa",
