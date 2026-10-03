@@ -1,7 +1,7 @@
 {
   "name": "Audacity",
   "description": "Audacity is an easy-to-use, multi-track audio editor and recorder. Developed by a group of volunteers as open source.",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/audacity-logo.png",
   "image": "linuxserver/audacity",
