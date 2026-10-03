@@ -1,7 +1,7 @@
 {
   "name": "Telegram",
   "description": "Telegram is a cloud-based mobile and desktop messaging app.",
-  "version": "7.2.8",
+  "version": "7.2.9",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/telegram-logo.png",
   "image": "linuxserver/telegram",
