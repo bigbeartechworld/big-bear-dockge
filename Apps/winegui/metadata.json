@@ -1,7 +1,7 @@
 {
   "name": "Winegui",
   "description": "WineGUI is a user-interface friendly Wine manager that provides a graphical frontend for creating and managing Wine bottles.",
-  "version": "4.4.0",
+  "version": "4.5.1",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/winegui-logo.png",
   "image": "linuxserver/winegui",

@@ -1,7 +1,7 @@
 {
   "name": "Python",
   "description": "This container needs special attention. Please check https://hub.docker.com/r/linuxserver/python for details.",
-  "version": "3.14.7",
+  "version": "3.14.8",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/WisdomSky/CasaOS-LinuxServer-AppStore@main/default-icon.svg",
   "image": "linuxserver/python",
