@@ -1,7 +1,7 @@
 {
   "name": "Helium",
   "description": "Helium is a Chromium-based web browser made for people, with love. Privacy-first with unbiased ad-blocking.",
-  "version": "0.18.2",
+  "version": "0.18.3",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/helium-logo.png",
   "image": "linuxserver/helium",
