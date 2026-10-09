@@ -1,7 +1,7 @@
 {
   "name": "Draw.io",
   "description": "Draw.io is a structured diagram editor for creating flowcharts, network diagrams, and other visual documentation.",
-  "version": "32.0.2",
+  "version": "32.2.0",
   "author": "BigBearCommunity",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/drawio.png",
   "image": "jgraph/drawio",
