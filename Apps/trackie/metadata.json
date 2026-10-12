@@ -1,0 +1,12 @@
+{
+  "name": "Trackie",
+  "description": "Trackie is a New Zealand Actual Budget server image. Sign-in is OpenID Connect, and optional per-user Akahu bank tokens are encrypted at rest.",
+  "version": "26.9.0",
+  "author": "BigBearTechWorld",
+  "icon": "https://trackie.nz/apple-touch-icon.png",
+  "image": "ghcr.io/trackie-nz/trackie",
+  "category": "BigBearCasaOS",
+  "port": "20005",
+  "documentation": "https://github.com/trackie-nz/trackie/blob/main/app/compose.yml",
+  "source": "https://github.com/trackie-nz/trackie"
+}

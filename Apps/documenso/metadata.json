@@ -1,0 +1,12 @@
+{
+  "name": "Documenso",
+  "description": "Documenso v2.19.0 is an open-source document signing platform backed by PostgreSQL.",
+  "version": "v2.19.0",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/documenso.png",
+  "image": "documenso/documenso",
+  "category": "BigBearCasaOS",
+  "port": "20030",
+  "documentation": "https://docs.documenso.com/docs/self-hosting/deployment/docker-compose",
+  "source": "https://github.com/documenso/documenso"
+}

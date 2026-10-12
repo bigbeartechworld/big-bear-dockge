@@ -1,0 +1,12 @@
+{
+  "name": "Indelible",
+  "description": "Indelible is a self-hosted read-it-later and knowledge library. It stores articles, newsletters, PDFs, and EPUBs in PostgreSQL and an S3-compatible object store, and the API serves the web app on the same port.",
+  "version": "0.1.1",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/useindelible/indelible@v0.1.1/web/static/favicon.png",
+  "image": "ghcr.io/useindelible/ind-api",
+  "category": "BigBearCasaOS",
+  "port": "38473",
+  "documentation": "https://useindelible.com/docs/self-hosting/install/",
+  "source": "https://github.com/useindelible/indelible"
+}

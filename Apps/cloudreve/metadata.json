@@ -1,0 +1,12 @@
+{
+  "name": "Cloudreve",
+  "description": "Cloudreve 4.19.1 is a self-hosted file manager with multi-cloud storage, backed by Postgres and Redis.",
+  "version": "4.19.1",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/cloudreve.png",
+  "image": "cloudreve/cloudreve",
+  "category": "BigBearCasaOS",
+  "port": "5212",
+  "documentation": "https://docs.cloudreve.org/overview/deploy/docker-compose",
+  "source": "https://github.com/cloudreve/Cloudreve"
+}
