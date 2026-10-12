@@ -1,7 +1,7 @@
 {
   "name": "autoxpose",
   "description": "autoxpose 0.5.2 watches Docker labels and creates DNS records plus reverse-proxy hosts.",
-  "version": "0.5.2",
+  "version": "0.6.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/mostafa-wahied/autoxpose@main/packages/frontend/public/autoxpose-logo.svg",
   "image": "mostafawahied/autoxpose",
