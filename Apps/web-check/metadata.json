@@ -1,0 +1,12 @@
+{
+  "name": "Web-Check",
+  "description": "Web-Check is an on-demand OSINT tool for analysing any website: server, security headers, technologies, DNS, and related public signals.",
+  "version": "2.3.2",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/web-check.png",
+  "image": "lissy93/web-check",
+  "category": "BigBearCasaOS",
+  "port": "20003",
+  "documentation": "https://github.com/lissy93/web-check/blob/master/README.md",
+  "source": "https://github.com/lissy93/web-check"
+}

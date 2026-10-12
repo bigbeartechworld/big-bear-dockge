@@ -1,0 +1,12 @@
+{
+  "name": "DocuSeal",
+  "description": "DocuSeal 3.3.1 is an open-source platform to create, fill, and sign PDF documents.",
+  "version": "3.3.1",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/docuseal.png",
+  "image": "docuseal/docuseal",
+  "category": "BigBearCasaOS",
+  "port": "20031",
+  "documentation": "https://github.com/docusealco/docuseal",
+  "source": "https://github.com/docusealco/docuseal"
+}

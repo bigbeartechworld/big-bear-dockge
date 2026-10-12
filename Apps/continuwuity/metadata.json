@@ -1,0 +1,12 @@
+{
+  "name": "Continuwuity",
+  "description": "Continuwuity v26.7.2 is a community-driven Matrix homeserver and the continuation of conduwuit.",
+  "version": "v26.7.2",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/continuwuity.png",
+  "image": "forgejo.ellis.link/continuwuation/continuwuity",
+  "category": "BigBearCasaOS",
+  "port": "20006",
+  "documentation": "https://continuwuity.org/deploying/docker",
+  "source": "https://github.com/continuwuity/continuwuity"
+}

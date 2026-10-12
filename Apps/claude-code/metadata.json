@@ -1,0 +1,12 @@
+{
+  "name": "Claude Code Container",
+  "description": "Claude Code Container 1.0.28 runs Anthropic Claude Code in a browser terminal and an MCP API.",
+  "version": "1.0.28",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/claude.png",
+  "image": "ghcr.io/worph/claude-code-container",
+  "category": "BigBearCasaOS",
+  "port": "20040",
+  "documentation": "https://github.com/worph/claude-code-container/blob/main/README.md",
+  "source": "https://github.com/worph/claude-code-container"
+}

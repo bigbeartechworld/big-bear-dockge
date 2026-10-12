@@ -1,0 +1,12 @@
+{
+  "name": "Coder",
+  "description": "Coder v2.36.7 is a self-hosted development-platform control plane with Postgres and a Docker socket for workspace templates.",
+  "version": "v2.36.7",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/coder.png",
+  "image": "ghcr.io/coder/coder",
+  "category": "BigBearCasaOS",
+  "port": "7080",
+  "documentation": "https://coder.com/docs/install/docker",
+  "source": "https://github.com/coder/coder"
+}

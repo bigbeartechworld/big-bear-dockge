@@ -1,0 +1,12 @@
+{
+  "name": "Homelable",
+  "description": "Homelable 3.5.1 is a self-hosted homelab diagram with live status monitoring.",
+  "version": "3.5.1",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/homelable.png",
+  "image": "ghcr.io/pouzor/homelable-frontend",
+  "category": "BigBearCasaOS",
+  "port": "20033",
+  "documentation": "https://github.com/Pouzor/homelable/blob/main/INSTALLATION.md",
+  "source": "https://github.com/Pouzor/homelable"
+}

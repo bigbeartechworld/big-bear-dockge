@@ -1,0 +1,12 @@
+{
+  "name": "autoxpose",
+  "description": "autoxpose 0.5.2 watches Docker labels and creates DNS records plus reverse-proxy hosts.",
+  "version": "0.5.2",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/mostafa-wahied/autoxpose@main/packages/frontend/public/autoxpose-logo.svg",
+  "image": "mostafawahied/autoxpose",
+  "category": "BigBearCasaOS",
+  "port": "4949",
+  "documentation": "https://github.com/mostafa-wahied/autoxpose/blob/main/README.md",
+  "source": "https://github.com/mostafa-wahied/autoxpose"
+}
