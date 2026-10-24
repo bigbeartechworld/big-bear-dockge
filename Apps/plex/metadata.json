@@ -1,7 +1,7 @@
 {
   "name": "Plex",
   "description": "Stream Movies & TV Shows",
-  "version": "1.43.4",
+  "version": "1.43.5",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/plex.png",
   "image": "linuxserver/plex",
