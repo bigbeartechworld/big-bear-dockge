@@ -1,7 +1,7 @@
 {
   "name": "SkySend",
   "description": "SkySend is a self-hosted file and note sharing service. Files and notes are encrypted in the browser before they are stored, and the server keeps only encrypted blobs.",
-  "version": "v3.1.0",
+  "version": "v3.2.0",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons@main/png/skysend.png",
   "image": "skyfay/skysend",
