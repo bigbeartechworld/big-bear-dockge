@@ -1,0 +1,12 @@
+{
+  "name": "n8n v3",
+  "description": "Free and open fair-code licensed node based Workflow Automation Tool.",
+  "version": "3.0.1",
+  "author": "BigBearTechWorld",
+  "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/n8n.png",
+  "image": "n8nio/n8n",
+  "category": "BigBearCasaOS",
+  "port": "5679",
+  "documentation": "https://docs.n8n.io/changelog/v30-breaking-changes",
+  "source": ""
+}
