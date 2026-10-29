@@ -1,7 +1,7 @@
 {
   "name": "Ungoogled-chromium",
   "description": "Ungoogled Chromium is Google Chromium, sans dependency on Google web services.",
-  "version": "155.0.8059",
+  "version": "156.0.8078",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/ungoogled-chromium-logo.png",
   "image": "linuxserver/ungoogled-chromium",
