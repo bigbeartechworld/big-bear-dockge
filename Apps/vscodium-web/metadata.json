@@ -1,7 +1,7 @@
 {
   "name": "Vscodium-web",
   "description": "Vscodium-web is a community-driven, freely-licensed binary distribution of the remote host web component of Microsoft's editor VS Code.",
-  "version": "1.140.06880",
+  "version": "1.143.17183",
   "author": "WisdomSky",
   "icon": "https://cdn.jsdelivr.net/gh/linuxserver/docker-templates@master/linuxserver.io/img/vscodium-icon.png",
   "image": "linuxserver/vscodium-web",
