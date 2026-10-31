@@ -1,7 +1,7 @@
 {
   "name": "MIND",
   "description": "A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!",
-  "version": "v1.5.1",
+  "version": "v1.5.2",
   "author": "BigBearTechWorld",
   "icon": "https://cdn.jsdelivr.net/gh/selfhst/icons/png/docker.png",
   "image": "mrcas/mind",
